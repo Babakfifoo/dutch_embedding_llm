@@ -1,0 +1,100 @@
+[
+    {
+        "IMRO": "t_NL.IMRO.0153.BP00196-0003",
+        "Anterior Agreement": {
+            "has Anterior Agreement": "Yes",
+            "Anterior Agreement established": "Yes"
+        }
+    },
+    {
+        "IMRO": "t_NL.IMRO.0505.BP181Herzgrotehond-3101",
+        "Anterior Agreement": {
+            "has Anterior Agreement": "No",
+            "Anterior Agreement established": "No"
+        }
+    },
+    {
+        "IMRO": "t_NL.IMRO.0944.Middelweg100-VA01",
+        "Anterior Agreement": {
+            "has Anterior Agreement": "No",
+            "Anterior Agreement established": "No"
+        }
+    },
+    {
+        "IMRO": "t_NL.IMRO.0855.BSP2015020-e001",
+        "Anterior Agreement": {
+            "has Anterior Agreement": "Yes",
+            "Anterior Agreement established": "Yes"
+        }
+    },
+    {
+        "IMRO": "t_NL.IMRO.0599.BP1115Pendrecht-va01",
+        "Anterior Agreement": {
+            "has Anterior Agreement": "None",
+            "Anterior Agreement established": "None"
+        }
+    },
+    {
+        "IMRO": "t_NL.IMRO.0203.1540-0002",
+        "Anterior Agreement": {
+            "has Anterior Agreement": "Yes",
+            "Anterior Agreement established": "Yes"
+        }
+    },
+    {
+        "IMRO": "t_NL.IMRO.0363.E1505BPSTD-VG01",
+        "Anterior Agreement": {
+            "has Anterior Agreement": "Yes",
+            "Anterior Agreement established": "Yes"
+        }
+    },
+    {
+        "IMRO": "t_NL.IMRO.1507.HOHERZ2AFHANG-BPV1",
+        "Anterior Agreement": {
+            "has Anterior Agreement": "None",
+            "Anterior Agreement established": "None"
+        }
+    },
+    {
+        "IMRO": "t_NL.IMRO.0302.BP01158-vg01",
+        "Anterior Agreement": {
+            "has Anterior Agreement": "Yes",
+            "Anterior Agreement established": "Yes"
+        }
+    },
+    {
+        "IMRO": "t_NL.IMRO.1952.bphgzgorechtw4en5-va01",
+        "Anterior Agreement": {
+            "has Anterior Agreement": "None",
+            "Anterior Agreement established": "None"
+        }
+    },
+    {
+        "IMRO": "t_NL.IMRO.0707.BPnabijburggraaf22-VA01",
+        "Anterior Agreement": {
+            "has Anterior Agreement": "None",
+            "Anterior Agreement established": "None"
+        }
+    },
+    {
+        "IMRO": "t_NL.IMRO.1900.2022oostBPsneeperk-vast",
+        "Anterior Agreement": {
+            "has Anterior Agreement": "Yes",
+            "Anterior Agreement established": "Yes"
+        }
+    },
+    {
+        "IMRO": "t_NL.IMRO.0983.BP201816MANRESA-VA01",
+        "Anterior Agreement": {
+            "has Anterior Agreement": "Yes",
+            "Anterior Agreement established": "Yes"
+        }
+    },
+    {
+        "IMRO": "t_NL.IMRO.1708.STJHallewegBP-VA01",
+        "Anterior Agreement": {
+            "has Anterior Agreement": "Yes",
+            "Anterior Agreement established": "Yes"
+        }
+    }
+]

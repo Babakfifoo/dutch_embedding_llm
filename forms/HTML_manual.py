@@ -1,60 +1,99 @@
 # %%
 import streamlit as st
-import pandas as pd
 import json
+
+
+def get_items(key, active_plan):
+    item_idx: dict = active_plan.get("contexts", {}).get(key, None)
+    for i in item_idx:
+        st.markdown(body=active_plan.get("translations", {}).get(i, None))
+
+
 # %%
 
 if "data" not in st.session_state:
-    with open('./data/HTML_query_results.json', 'r') as f:
+    with open("HTML_query_translations.json", "r") as f:
         st.session_state["data"] = json.load(fp=f)
 
-if "stored_data" not in st.session_state:
-    with open("./data/HTML_manual.json", "r") as f:
-        st.session_state["stored_data"] = json.loads(f.read())
 
-if "IMRO_list" not in st.session_state:
-    st.session_state["IMRO_list"] = list(st.session_state["data"] .keys())
 if "plan_idx" not in st.session_state:
     st.session_state["plan_idx"] = 0
 if "answers" not in st.session_state:
-    st.session_state["answers"] = {}
-
-st.session_state["IMRO"] = st.session_state["IMRO_list"][st.session_state["plan_idx"]]
-st.session_state["plan_info"] = st.session_state["data"].get(st.session_state["IMRO"])
+    st.session_state["answers"] = []
 
 
-st.title(body=st.session_state["IMRO_list"][st.session_state["plan_idx"]])
+active_plan = st.session_state["data"][st.session_state["plan_idx"]]
+
+
+st.title(body=active_plan.get("IMRO"))
 
 
 st.markdown("## Information")
-if st.session_state["plan_info"] is None:
-    st.session_state["plan_idx"] += 1
-    st.rerun()
-for i, item in enumerate(st.session_state["plan_info"].get("translations", []), start=1):
-    st.markdown(f"{i}. {item}")
 
 st.markdown("## Questions:")
 
-questions = [
-    "Is there exploitation plan needed for the land use plan?",
-    "Is exploitation plan is prepared for the land use plan?"
-]
-if st.session_state["stored_data"].get(st.session_state["IMRO"], None) is None:
-    df = pd.DataFrame(
-        data=[
-        {"question": "Is there exploitation plan needed for the land use plan?", "yes": False, "no": False, "None": False},
-        {"question": "Is exploitation plan is prepared for the land use plan?", "yes": False, "no": False, "None": False},
-    ])
-else:
-    df = pd.DataFrame(st.session_state["stored_data"].get(st.session_state["IMRO"]))
-    print(df)
+answers = {"IMRO": active_plan.get("IMRO")}
 
-st.session_state["df"] = st.data_editor(df)
+key = "Anterior Agreement"
+with st.container():
+    st.subheader(body=key)
+    get_items(key=key, active_plan=active_plan)
+    st.subheader(body="Questions:")
+    answers[key] = {}
+    answers[key]["has Anterior Agreement"] = st.radio(
+        label="Is there Anterior Agreement mentioned?",
+        options=["Yes", "No", "None"],
+        horizontal=True,
+    )
+    answers[key]["Anterior Agreement established"] = st.radio(
+        label="is Anterior Agreement established?",
+        options=["Yes", "No", "None"],
+        horizontal=True,
+    )
+    
+    
+# key = "Exploitation Plan"
+# with st.container():
+#     st.subheader(body=key)
+#     get_items(key=key, active_plan=active_plan)
+#     st.subheader(body="Questions:")
+#     answers[key] = {}
+#     answers[key]["Needs Exploitation plan"] = st.radio(
+#         label="Does exploitation plan or operation plan needed?",
+#         options=["Yes", "No", "None"],
+#         horizontal=True,
+#     )
+#     answers[key]["Does not need exploitation plan"] = st.radio(
+#         label="Is exploitation plan or operation plan ommited or waivered?",
+#         options=["Yes", "No", "None"],
+#         horizontal=True,
+#     )
+    
+# key = "Ownership"
+# with st.container():
+#     st.subheader(body=key)
+#     get_items(key=key, active_plan=active_plan)
+#     st.subheader(body="Questions:")
+#     answers[key] = {}
+#     answers[key]["municipality"] = st.radio(
+#         label="Does Municipality own the land?",
+#         options=["Yes", "No", "None"],
+#         horizontal=True,
+#     )
+#     answers[key]["Initiator"] = st.radio(
+#         label="Does Initiator own the land?",
+#         options=["Yes", "No", "None"],
+#         horizontal=True,
+#     )
+#     answers[key]["Private"] = st.radio(
+#         label="Does Private own the land?",
+#         options=["Yes", "No", "None"],
+#         horizontal=True,
+#     )
 
 if st.button("submit"):
-    with open("./data/HTML_manual.json", "w") as f:
-        st.session_state["stored_data"][st.session_state["IMRO"]] = st.session_state["df"] .to_dict()
-        print(st.session_state["stored_data"][st.session_state["IMRO"]])
-        f.write(json.dumps(st.session_state["stored_data"], indent=4))
+    st.session_state["answers"].append(answers)
+    with open(f"./HTML_manual_{key}.json", "w") as f:
+        f.write(json.dumps(st.session_state["answers"], indent=4))
     st.session_state["plan_idx"] += 1
     st.rerun()

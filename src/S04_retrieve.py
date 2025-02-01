@@ -14,15 +14,9 @@ logging.basicConfig(
 # %%
 from dspy.retrieve.chromadb_rm import ChromadbRM
 import dspy
-lm = dspy.LM('ollama_chat/llama3.2:3b-instruct-q5_K_M', api_base='http://localhost:11434', api_key='')
+lm = dspy.LM('ollama_chat/deepseek-r1:8b', api_base='http://localhost:11434', api_key='')
 dspy.configure(lm=lm)
-# %%
-ChromadbRM(
-    collection_name: str,
-    persist_directory: str,
-    embedding_function: Optional[EmbeddingFunction[Embeddable]] = OpenAIEmbeddingFunction(),
-    k: int = 7,
-)
+
 # %%
 
 def get_answers(data, model, output_path, skip=0) -> None:

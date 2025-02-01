@@ -70,9 +70,6 @@ def contains_feasability(s) -> bool:
 # %%
 toelichting_files = list(Path("../data/plan_documents").iterdir())
 toelichting_htmls = [f for f in toelichting_files if f.suffix == ".html"]
-# %%
-fp = toelichting_htmls[0]
-# %%
 feasability_HTML_contents = {}
 for fp in tqdm(toelichting_htmls):
     IMRO = fp.stem
@@ -106,7 +103,7 @@ for k in tqdm(feasability_HTML_contents.keys()):
                     "VERB" in tokens
                 ):
                     correct_sents.append(item)
-    cleaned_sents[k] = correct_sents
+    cleaned_sents[k] = list(set(correct_sents))
 # %%
 with open("../data/HTML_feasability_sections.json", "w") as f:
     f.write(json.dumps(cleaned_sents, indent=4))
