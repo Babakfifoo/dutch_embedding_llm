@@ -7,7 +7,7 @@ __pycache__/
 
 data/*
 results/*
-
+src/archive/*
 
 # Data:
 
