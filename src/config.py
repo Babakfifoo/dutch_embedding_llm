@@ -35,61 +35,7 @@ FUZZY_TERMS = {
 }
 FUZZY_THRESHOLD = 95
 
-QUESTIONS = [
-    {
-        "topic": "Exploitation plan",
-        "questions": [
-            "Q01: Is operation/exploitation plan mentioned in the context?",
-            "Q02: Is operation/exploitation plan made for this plan?",
-            "Q03: Is operation/exploitation plan specifically made to cover the costs?",
-            "Q04: Is operation/exploitation plan amended and updated?",
-            "Q05: Does the area already have an operation/exploitation plan?",
-            "Q06: Is establishing operation/exploitation plan waived?",
-            "Q07: Is operation/exploitation ommited?",
-            "Q08: Is drawing operation/exploitation plan not necessary?",
-        ],
-    },
-    {
-        "topic": "Land Allocation",
-        "questions": [
-            "Q09: Is municipality land issue mentioned in the context?",
-            "Q10: Is municipality selling land?",
-            "Q11: Is costs covered by municipal land issue?",
-            "Q12: Are costs covered because municipality owns the land?",
-            "Q13: Does municipality own the land in the plan area?",
-            "Q15: Is municipality responsible for the costs and damages?",
-            "Q16: Is municipality covering planning costs?",
-            # Add land price questions
-        ],
-    },
-    {
-        "topic": "Anterior Agreement",
-        "questions": [
-            "Q17: Is an agreement mentioned or anterior agreement in the context?",
-            "Q18: Is an agreement made to cover the costs?",
-            "Q19: Is an agreement made?",
-            "Q20: Is an agreement made with initiator?",
-            "Q21: Is operation plan not needed because of anterior agreement?",
-            "Q22: Is costs and damages coverd in an agreement with the land owner of initiator?",
-            "Q23: Is initiator responsible for the costs and damages?",
-            "Q24: Is initiator covering planning costs?",
-            "Q25: Is the land owner responsible for costs?",
-            "Q26: Is there a plan damage agreement?",
-            "Q27: Is there a operating agreement?",
-            "Q28: Is the land owned by the initiator or developer?",
-        ],
-    },
-    {
-        "topic": "Other",
-        "questions": [
-            "Q29: Is this zoning plan defined as 'building plan'?",
-            "Q30: Is this plan in already built up area?",
-            "Q31: Is municipality buying the land?",
-            "Q32: Is the owner self-realising the plan?",
-        ],
-    },
-    {"topic": "Costs on private with no agreement", "questions": [""]},
-]
+
 
 
 MANUAL_QUESTIONS = [
@@ -97,15 +43,15 @@ MANUAL_QUESTIONS = [
     "Agreement",
     "Anterior Agreement",
     "Operating Agreement",
-    "Realisation Agreement",
     "Plan Damage Agreement",
     "Purchase Agreement",
+    "Realisation Agreement",
     "Cooperation Agreement/PPS",
-    "Costs born by initiator",
-    "developer/initiator is Landowner",
-    "Conservation plan",
-    "Municipallity Budget",
-    "building plan",
+    "Land owned by applicant",
+    "Municipality land",
     "Land exploitation Project/scheme",
+    "Conservation plan",
+    "building plan",
+    "Space for Space",
     "Invalid",
 ]
