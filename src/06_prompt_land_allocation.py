@@ -62,7 +62,7 @@ Analyze the following context, follow instructions:
 #### Instructions:
 We have the "context" containing information about cost recovery of the land use plans in the Netherlands.
 We want to see if land is sold, or land issue is used.
-If context explicitely mentions that land is sold plots are sold, land sale is used, land price contains the costs, or recovers costs through land issue, answer 'True', otherwise 'False'.
+If context explicitely mentions that cost is recovered through land issue, selling land, land sale, land price, plot sale, plot sale, answer 'True', otherwise 'False'.
 
 Do not provide any additional information.
 Do not hallucinate.
@@ -83,7 +83,7 @@ for plan in tqdm(texts):
         i
         for i, s in enumerate(plan.get("en"))
         if find_topic(
-            s.lower(), ["sale", "sell", "land issue", "land price"], threshold=THRESHOLD
+            s.lower(), ["land sale", "selling land", "land issue", "land price"], threshold=THRESHOLD
         )
     ]
     entry = {
@@ -96,7 +96,7 @@ for plan in tqdm(texts):
         continue
     entry["context"] = " ".join([plan.get("en")[x] for x in selected_ids]).replace(
         "story", "recovery"
-    )
+    ).replace("plot", "land").replace("lot", "land")
     answer = ask_LLM(entry, prompt)
     entry["answer"] = answer["message"]["content"]
     topic_1.append(entry)

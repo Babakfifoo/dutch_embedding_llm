@@ -50,18 +50,16 @@ if "LLM_anterior" not in st.session_state:
     data = [  # Getting the plans with True value ...
         p for p in st.session_state["original"] if json.loads(p.get("answer")).get("answer")
     ]
-    if len(data) < 400:
-        st.session_state["LLM_anterior"] = data
-    else:
-        numbers = set(
-            random.choices(
-                population=range(len(data)),
-                k=int(400)  # This is the sample size, set to 10%
-            )
+
+    numbers = set(
+        random.choices(
+            population=range(len(data)),
+            k=int((len(data) / (1 + (384.16 / len(data))))),
         )
-        numbers = list(numbers)
-        st.session_state["sample"] = len(numbers)
-        st.session_state["LLM_anterior"] = [p for i, p in enumerate(data) if i in numbers]
+    )
+    numbers = list(numbers)
+    st.session_state["sample"] = len(numbers)
+    st.session_state["LLM_anterior"] = [p for i, p in enumerate(data) if i in numbers]
     st.session_state["plan_idx"] = 0
 
 

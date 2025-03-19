@@ -55,7 +55,7 @@ if "LLM_anterior" not in st.session_state:
         numbers = set(
             random.choices(
                 population=range(len(data)),
-                k=int(400)  # This is the sample size, set to 10%
+                k=int((len(data) / (1 + (384.16 / len(data))))),
             )
         )
         numbers = list(numbers)

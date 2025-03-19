@@ -6,6 +6,7 @@ import logging
 from ollama import chat
 from typing import Literal
 from pydantic import BaseModel
+
 logging.basicConfig(
     filename="./logs/08.log",
     encoding="utf-8",
@@ -92,12 +93,11 @@ for plan in tqdm(texts):
     }
     if len(selected_ids) == 0:
         continue
-    entry["context"] = " ".join([plan.get("en")[x] for x in selected_ids]).replace(
-        "story", "recovery"
-    ).replace(
-        "private law", "anterior"
-    ).replace(
-        "private-law", "anterior"
+    entry["context"] = (
+        " ".join([plan.get("en")[x] for x in selected_ids])
+        .replace("story", "recovery")
+        .replace("private law", "anterior")
+        .replace("private-law", "anterior")
     )
     answer = ask_LLM(entry, prompt)
     entry["answer"] = answer["message"]["content"]
@@ -110,14 +110,14 @@ with open(f"../data/plan_documents/answered/{TOPIC}.json", "w") as f:
 prompt = """
 Analyze the following context, follow instructions:
 #### Instructions:
-We have the "context" containing information about cost recovery of the land use plans in the Netherlands. We want to see whether exploitation agreement is concluded or will be used.
+We have the "context" containing information about cost recovery of the land use plans in the Netherlands.
+We want to see whether any form of exploitation agreement is concluded or will be used.
+
+If context explicitely mentions that any form of exploitation agreements is signed, concluded, laid down, or will be concluded, answer 'True', otherwise 'False'.
+
 Do not provide any additional information.
 Do not hallucinate.
 Only use the context provided.
-
-'land exploitation agreements', and 'exploitation agreement' are the same agreement.
-If context explicitely mentions exploitation agreement is used or concluded, answer 'True', otherwise 'False'.
-Answer in single False/True.
 
 #### context:
 
@@ -126,7 +126,7 @@ Answer in single False/True.
 """
 
 TOPIC = "operating agreement"
-THRESHOLD = 90
+THRESHOLD = 95
 topic_1 = []
 for plan in tqdm(texts):
     selected_ids = [
@@ -134,9 +134,10 @@ for plan in tqdm(texts):
         for i, s in enumerate(iterable=plan.get("en"))
         if find_topic(
             s.lower(),
-            ["operating agreement", "exploitation agreement"],
+            ["exploitation agreement", "operating agreement"],
             threshold=THRESHOLD,
         )
+        & ("cooperation agreement" not in s.lower())
     ]
     entry = {
         "IMRO": plan.get("IMRO"),
@@ -148,7 +149,8 @@ for plan in tqdm(texts):
         " ".join([plan.get("en")[x] for x in selected_ids])
         .replace("story", "recovery")
         .replace("operating", "exploitation")
-        .replace("Operating", "Exploitation")
+        .replace("Operating", "exploitation")
+        .replace("contract", "agreement")
     )
     answer = ask_LLM(entry, prompt)
     entry["answer"] = answer["message"]["content"]
@@ -258,13 +260,13 @@ with open(f"../data/plan_documents/answered/{TOPIC}.json", "w") as f:
 prompt = """
 Analyze the following context, follow instructions:
 #### Instructions:
-We have the "context" containing information about cost recovery of the land use plans in the Netherlands. We want to see whether cooperation Agreement is concluded or will be used.
+We have the "context" containing information about cost recovery of the land use plans in the Netherlands. We want to see whether any form of cooperation Agreement is concluded or will be used.
+If the context explicitely mentions that any form of cooperation agreement is used, laid down, concluded, or will be concluded, answer 'True', otherwise 'False'.
+Answer in single False/True.
+
 Do not provide any additional information.
 Do not hallucinate.
 Only use the context provided.
-
-If the context explicitely mentions that cooperation agreement is used or concluded, answer 'True', otherwise 'False'.
-Answer in single False/True.
 
 #### context:
 

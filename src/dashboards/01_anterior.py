@@ -55,7 +55,7 @@ if "LLM_anterior" not in st.session_state:
         for p in st.session_state["original"]
         if not bool_cleaner(p.get("answer", False))
     ]
-    st.session_state["plan_idx"] = 0
+    st.session_state["plan_idx"] = 140
 
 
 
