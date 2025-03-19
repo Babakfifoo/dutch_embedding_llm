@@ -1,0 +1,50 @@
+[
+    {
+        "IMRO": "t_NL.IMRO.1842.bp18ML01-va01",
+        "topic": "reservation agreement",
+        "context": "A reservation agreement has been concluded with the initiators with a plan.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0502.BP19SWPark-4001",
+        "topic": "reservation agreement",
+        "context": "A reservation agreement has been concluded with the initiators with a plan.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0815.BPMiConcertzaal-VA01",
+        "topic": "reservation agreement",
+        "context": "The WGCZ enters into a so-called ground reservation agreement for this purpose.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1659.BPBDdba1eherz-VG01",
+        "topic": "reservation agreement",
+        "context": "A ground reservation agreement has been concluded with the developer.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0221.17002HBE-VA01",
+        "topic": "reservation agreement",
+        "context": "To this end, the municipality will conclude a reservation agreement with the initiator. After establishing the partial review, a walk-in evening will be held for potential buyers, emphasising the desired image quality and starting points and the reservation agreement.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0546.BP00130-0301",
+        "topic": "reservation agreement",
+        "context": "To ensure this, a ground reservation agreement has been concluded and a purchase contract will be concluded accordingly.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0518.BP0295CVogelwijk-50VA",
+        "topic": "reservation agreement",
+        "context": "A land reservation agreement is concluded with the developer and the land is issued in lease terms.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0518.WP0011BHoogevnln-50VA",
+        "topic": "reservation agreement",
+        "context": "The municipality has established land exploitation and a land reservation agreement has been concluded with the developer of the 11 homes on the Hoogeveenlaan.",
+        "answer": "{ \"answer\": true }"
+    }
+]

@@ -1,0 +1,3458 @@
+[
+    {
+        "IMRO": "t_NL.IMRO.0106.03WP202010007-C001",
+        "topic": "plan damage agreement",
+        "context": "This agreement is stipulated between the municipality and Geveke Bouw in a plan damage agreement/anterior agreement.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0613.BPMaasstraat27-VST1",
+        "topic": "plan damage agreement",
+        "context": "A plan damages agreement under Article 6.4a Wro is concluded between the municipality and the developer in order to cover any plan damages claims.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0171.BP00682-VS01",
+        "topic": "plan damage agreement",
+        "context": "For this purpose, a plan damage agreement has been concluded with the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0228.BP2020BENW0002-0301",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement is concluded with the initiator, with which the initiator undertakes to compensate for any damage claimed under the said article from the Wro. Since all costs are borne by the applicant and a plan damages agreement is concluded, the cost recovery is otherwise ensured.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0383.BPA17Stet17Skulper-VS01",
+        "topic": "plan damage agreement",
+        "context": "A plan damages agreement is concluded between the municipality and the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1963.BPLvWmolen90MHL21-VG01",
+        "topic": "plan damage agreement",
+        "context": "A plan damages agreement under Article 6.4a Wro is concluded between the municipality and the developer in order to cover any plan damages claims.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1960.BPherontwikkelETHH-VSG2",
+        "topic": "plan damage agreement",
+        "context": "In order to ensure the municipality, a plan damages agreement is signed with the initiator, in which, among other things, it is arranged that any plan damage will be borne by the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1970.BpKoParadyske4-VA01",
+        "topic": "plan damage agreement",
+        "context": "The municipality will enter into a plan damage agreement with the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1859.BPEBG20210011-0100",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0351.WZLaagerfseweg7-vg01",
+        "topic": "plan damage agreement",
+        "context": "An anterior agreement will be concluded between the municipality and initiator, as well as a plan damages agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1680.ANNBRINK1-VW01",
+        "topic": "plan damage agreement",
+        "context": "A plan damages agreement has also been entered into between the municipality and the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0585.BPMSDPolderdijk15-VG01",
+        "topic": "plan damage agreement",
+        "context": "A plan damages agreement under Article 6.4a Wro is concluded between the municipality and the owner in order to cover any plan damages claims.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0585.BPWMSMDIJK46b-VG01",
+        "topic": "plan damage agreement",
+        "context": "A plan damages agreement under Article 6.4a Wro is concluded between the municipality and the owner in order to cover any plan damages claims.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1507.SNKLASSENWEG25-BPV1",
+        "topic": "plan damage agreement",
+        "context": "The scope of such plan damage agreement is that the damage suffered by third parties is wholly (or partly) the responsibility of the initiator, because the damage results from the modification of the zoning plan or the granting of an environmental permit on his or her request for development.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1978.BPKanaaldknrd1ARL-VG01",
+        "topic": "plan damage agreement",
+        "context": "An anterior agreement and/or a plan damage agreement is also concluded with the initiator of the plan.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1731.Kanaalweg44SM-VST1",
+        "topic": "plan damage agreement",
+        "context": "A plan damages agreement is also concluded with the initiator, so that the cost recovery for the municipality is fully insured.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0232.BG088Jagtlustweg6-VWP1",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will be concluded between the municipality and the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0342.WPSTB0003-0301",
+        "topic": "plan damage agreement",
+        "context": "The municipality of Soest will enter into an anterior exploitation agreement with the initiator, which includes a plan damage agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0228.BP2020AGBG0007-0301",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement is concluded with the initiator, with which the initiator undertakes to compensate for any damage claimed under the said article from the Wro.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0988.BPPylsstraatje2a-VA01",
+        "topic": "plan damage agreement",
+        "context": "Therefore, only a plan damages agreement is concluded between the municipality and initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0882.BPVOGELZANKWEG-VG01",
+        "topic": "plan damage agreement",
+        "context": "The scope of such a plan damage agreement is that the damage suffered by third parties is wholly (or partly) borne by the initiator, because the damage results from the modification of the zoning plan or the granting of an environmental permit on his or her request for a development plan.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1731.Hoofdstraat30WB-VST1",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement is also concluded between the municipality and the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0420.BPMIDWDorpsstr25-VA01",
+        "topic": "plan damage agreement",
+        "context": "To this end, a plan damage agreement will be concluded with the municipality in which promoters of this plan will be held responsible for any plan damage.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0815.HoogveldswgOng-VA01",
+        "topic": "plan damage agreement",
+        "context": "To this end, a plan damages agreement will be concluded between the initiator and the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1911.BPMiddenmeerwmhz02-va01",
+        "topic": "plan damage agreement",
+        "context": "In addition, a separate plan damage agreement has been concluded for this zoning plan, which ensures that any plan damage will not be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1959.AndWP012Kammetweg2-VG01",
+        "topic": "plan damage agreement",
+        "context": "Furthermore, the initiator will conclude a plan damages agreement with the municipal administration.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0163.BPBUMOLENWEG1618-VG01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement has also been concluded between the aforementioned parties, which includes the risk of planning damage, so that the cost recovery for the municipality is fully insured.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0986.BPRaadhuisplein-VG01",
+        "topic": "plan damage agreement",
+        "context": "To this end, an anterior agreement and a plan damages agreement have been concluded between the initiator and the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1721.WPKromstr18N-vg01",
+        "topic": "plan damage agreement",
+        "context": "The initiator has also concluded a plan damages agreement with the municipality of Bernheze.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1684.BPWCuHertogKarel-VA01",
+        "topic": "plan damage agreement",
+        "context": "In the present case, a plan damage agreement has been concluded between the initiator and the municipality of Cuijk.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0845.BP2016SMGOOSTP101-VA01",
+        "topic": "plan damage agreement",
+        "context": "In order to ensure the above, an anterior and a plan damage agreement between the municipality and the initiator is concluded for both the operation and any plan damage.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1685.BPzee2021Kerkstr1-VG01",
+        "topic": "plan damage agreement",
+        "context": "Should there be any plan damage, it will be borne by the initiator on the basis of a plan damage agreement to be concluded.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0569.bpNWVZNnieuwvzvhne-va01",
+        "topic": "plan damage agreement",
+        "context": "An instrument to ensure that the initiator bears the financial risk is a plan damage agreement. For new developments (see below 7.3), where necessary, a plan damage agreement is concluded with the initiators.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0168.BP008vzp20wp002-0401",
+        "topic": "plan damage agreement",
+        "context": "To this end, a plan damages agreement has been concluded between the initiator and the municipality of Losser.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0856.BPBogerd-VA01",
+        "topic": "plan damage agreement",
+        "context": "For underlying planning measures, a plan damages agreement and a fee payment agreement shall be concluded with the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0340.BPServetstrHofstr-VA01",
+        "topic": "plan damage agreement",
+        "context": "In addition, a plan damage agreement is concluded with the initiator, which states that any plan damage comes at the risk of the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0059.PHHaWarmh38-VG01",
+        "topic": "plan damage agreement",
+        "context": "For this purpose, a plan damages agreement is signed between the municipality and the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0861.BP00124-0401",
+        "topic": "plan damage agreement",
+        "context": "Prior to the entry into force of the plan, by means of a plan damage agreement, the client must declare himself willing to fully compensate the municipality for the plan damage eligible for compensation. This plan damage agreement is part of the operating agreement.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1641.BPL086-VG01",
+        "topic": "plan damage agreement",
+        "context": "The separate plan damage agreement also includes that the requested planological change may result from plan damage on the basis of which the costs of planning damage are borne and risk borne by the proposer.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1911.BPUElshofZuid1B-va01",
+        "topic": "plan damage agreement",
+        "context": "A separate plan damage agreement has also been concluded for this impact plan, which ensures that any plan damage will not be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0296.BGBElzendwegn13-VG01",
+        "topic": "plan damage agreement",
+        "context": "The municipality of Wijchen will conclude a plan damage agreement/anterior agreement with the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0246.411ANDOORNSTRAAT-VA01",
+        "topic": "plan damage agreement",
+        "context": "The municipality concludes a plan damage agreement with the initiator, so that any plan damage resulting from the plan is passed on to the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1721.WPDekenvdCammen21-vg01",
+        "topic": "plan damage agreement",
+        "context": "The initiator has also concluded a plan damages agreement with the municipality of Bernheze.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0228.BP2018EDRV0001-0301",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement is concluded with the initiator, with which the initiator undertakes to compensate for any damage claimed under the said article from the Wro. Since all costs are borne by the applicant and a plan damages agreement is concluded, the cost recovery is otherwise ensured.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0867.bpWWOudestraat-VA01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement is also concluded between the municipality and the initiator, so that in the event of compensation for damage to the plan, it will be borne by the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0888.BPHERENHOFONG17-VA01",
+        "topic": "plan damage agreement",
+        "context": "The scope of such plan damage agreement is that the damage suffered by third parties is wholly (or partly) the responsibility of the proposer, because the damage results from the modification of the zoning plan or the granting of an environmental permit on the basis of his or her request for a development plan.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0762.BP201715-C001",
+        "topic": "plan damage agreement",
+        "context": "For the underlying planological measure, a plan damage agreement and an anterior agreement for the payment of the fee have been concluded with the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0840.2581K0021-DEF1",
+        "topic": "plan damage agreement",
+        "context": "An anterior agreement and/or a plan damage agreement is also concluded with the initiator of the plan.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1969.WZBG21HERS1-VA01",
+        "topic": "plan damage agreement",
+        "context": "A plan damages agreement has also been entered into between the municipality and the initiators.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1942.BP2016B002011-va01",
+        "topic": "plan damage agreement",
+        "context": "A plan damages agreement is concluded between the municipality and the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1711.BP20200911-VG01",
+        "topic": "plan damage agreement",
+        "context": "To this end, an anterior agreement and a plan damages agreement are concluded between the initiator and the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0441.BGZBPBUITENVAERT-VA02",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement, as referred to in Article 6.4a Wro, has also been concluded with the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0988.BPBeekpoortnaza-VA01",
+        "topic": "plan damage agreement",
+        "context": "In the context of the cost recovery, an anterior agreement and a plan damages agreement will be concluded between the municipality and initiator.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1705.163-VG01",
+        "topic": "plan damage agreement",
+        "context": "In addition, pursuant to Article 6.4a of the Regional Planning Act, a plan damages agreement has been concluded between the municipality and initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1702.1BPpeelkant13aenb-VA01",
+        "topic": "plan damage agreement",
+        "context": "Should there be any plan damage, it will be borne by the initiator on the basis of a plan damage agreement to be concluded.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0361.BP00138-0305",
+        "topic": "plan damage agreement",
+        "context": "For this purpose, a plan damages agreement is concluded between the municipality and the owner.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0394.BPGbeihillegd359-C001",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement, as referred to in Article 6.4a Wro, will also be concluded with the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0523.BP2018BINNENDAMS44-VG01",
+        "topic": "plan damage agreement",
+        "context": "In addition, a plan damage agreement has been concluded to cover the plan damage.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0296.BGBoudwoezikstr5-VG01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement is concluded with the initiator stating that the potential plan damage will be borne by the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0308.BP0095-VA01",
+        "topic": "plan damage agreement",
+        "context": "An anterior agreement and/or a plan damage agreement is also concluded with the initiator of the plan.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0737.14BPXIV-vg01",
+        "topic": "plan damage agreement",
+        "context": "However, a plan damage agreement has been agreed between competent authority and initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0794.2100BP200199-2000",
+        "topic": "plan damage agreement",
+        "context": "For underlying planning measures, a plan damages agreement and a fee payment agreement have been concluded with the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0809.bpkloosterstr4042-VG01",
+        "topic": "plan damage agreement",
+        "context": "An anterior agreement and a plan damages agreement with the municipality has been signed for this development.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0888.BPMAURITSVONDEL19-VA01",
+        "topic": "plan damage agreement",
+        "context": "To this end, an anterior agreement and a plan damages agreement have been concluded between the initiator and the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0707.BPAMDDoelakkerweg-VA01",
+        "topic": "plan damage agreement",
+        "context": "This assurance is demonstrated by the fact that the guidance of the planning procedure is covered by the levying of fees, that the establishment of facilities in the operating area is not involved, that the planning plan and the necessary feasibility studies have been funded by the initiator, that a plan damage agreement has been concluded between the municipality and the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0845.BP2018BGSMG00M100-VA02",
+        "topic": "plan damage agreement",
+        "context": "In addition, by means of a plan damages agreement, the potential plan damages are also reported to the initiators.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0585.BPSGDROODENBURGVST-VG01",
+        "topic": "plan damage agreement",
+        "context": "A plan damages agreement under Article 6.4a Wro is concluded between the municipality and the developer in order to cover any plan damages claims.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0988.BPDiesterbaan6-VA01",
+        "topic": "plan damage agreement",
+        "context": "Therefore, only a plan damages agreement is concluded between the municipality and the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0441.BPWHZ2011Oostwal84-VA01",
+        "topic": "plan damage agreement",
+        "context": "By concluding a plan damage agreement with the initiator prior to the adoption of the review, any plan damage resulting from the development will be covered.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0183.TUBBPOLDENZLSEWEG8-vg01",
+        "topic": "plan damage agreement",
+        "context": "In the present case, an operating /plan damage agreement is concluded between the initiator and the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0420.BPMIDWTripkouw17-VA01",
+        "topic": "plan damage agreement",
+        "context": "To this end, a plan damage agreement will be concluded with the municipality in which promoters of this plan will be held responsible for any plan damage.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0024.01BP0003-VG01",
+        "topic": "plan damage agreement",
+        "context": "Damage caused by this change of plan will be recovered from the applicant for the construction plan by means of a pre-concluded plan damage agreement between the municipality and the applicant.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0168.bp008vzp17ph02-0401",
+        "topic": "plan damage agreement",
+        "context": "In the present case, a plan damage agreement is concluded between initiator and the municipality. The plan damage agreement includes the risk of planning damage so that the cost recovery for the municipality is fully insured.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0569.bpTARoostkanaweg30-va01",
+        "topic": "plan damage agreement",
+        "context": "A plan damages agreement is sent by the municipality to the applicant for signature.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0965.BPLGM01OudeMolsber-VG01",
+        "topic": "plan damage agreement",
+        "context": "The scope of such plan damage agreement is that the damage suffered by third parties is wholly (or partly) the responsibility of the proposer, because the damage results from the modification of the zoning plan or the granting of an environmental permit on the basis of his or her request for a development plan. The municipality of Simpleveld and the initiator conclude a plan damages agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0988.BPPylsstraatje2b-VA01",
+        "topic": "plan damage agreement",
+        "context": "Therefore, only a plan damages agreement is concluded between the municipality and the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0988.BPBergerothweg81ab-VA01",
+        "topic": "plan damage agreement",
+        "context": "Therefore, only a plan damages agreement is concluded between the municipality and initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0189.WB2015000003-VA01",
+        "topic": "plan damage agreement",
+        "context": "In the present case, a plan damage agreement has been concluded between the initiator and the municipality of Wierden.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0228.BP2020ZNDL0001-0301",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement has been concluded with the initiator, whereby the initiator undertakes to compensate for any damage claimed under the said article from the Wro. Because (almost) all costs are borne by the applicant and a plan damage agreement is concluded, the cost recovery is otherwise insured.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0441.BPLG00Halerweg11-VA01",
+        "topic": "plan damage agreement",
+        "context": "The scope of such a plan damage agreement is that the damage suffered by third parties is wholly or partly borne by the proposer, because the damage results from the modification of the zoning plan or the granting of an environmental permit on the basis of his or her request for a plan development. The change of destination is conditional on the conclusion of a plan damages agreement with the municipality.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0988.BPMgrNolensstr5-VA01",
+        "topic": "plan damage agreement",
+        "context": "In the context of the cost recovery, an anterior agreement and a plan damages agreement will be concluded between the municipality and initiator.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0986.BPKlimmstr44en46-VG01",
+        "topic": "plan damage agreement",
+        "context": "The scope of such plan damage agreement is that the damage suffered by third parties is wholly (or partly) the responsibility of the proposer, because the damage results from the modification of the zoning plan or the granting of an environmental permit on the basis of his or her request for a development plan.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0957.BP00000293-VG01",
+        "topic": "plan damage agreement",
+        "context": "In connection with possible compensation for damage to plans as referred to in Article 6.1 Spatial Planning Act, a plan damage agreement has been concluded with the proposer, on the basis of which the costs for damage to plans are borne and the risk borne by the proposer.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1711.BP20210164-VG01",
+        "topic": "plan damage agreement",
+        "context": "To this end, an anterior agreement and a plan damages agreement are concluded between the initiator and the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1894.BPL0131-VG01",
+        "topic": "plan damage agreement",
+        "context": "The scope of such plan damage agreement is that the damage suffered by third parties is wholly (or partly) borne by the initiator, because the damage results from the request for a plan development (deviation from the zoning plan by means of a project decision).",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0957.BPW0000287-VG01",
+        "topic": "plan damage agreement",
+        "context": "In connection with possible compensation for damage to plans as referred to in Article 6.1 Spatial Planning Act, a plan damage agreement has been concluded with the proposer, on the basis of which the costs for damage to plans are borne and the risk borne by the proposer.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1705.189-VG01",
+        "topic": "plan damage agreement",
+        "context": "In addition, a plan damage agreement has been concluded with the initiators in which it is stated that the potential plan damage will be borne by the initiators. For the sake of certainty, the municipality has concluded a plan damage agreement with the initiator, so that the economic viability of the plan cannot be called into question.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1507.SNKROUWELKAVEL-BPV1",
+        "topic": "plan damage agreement",
+        "context": "In addition, a plan damages agreement will be concluded between the initiator and the municipality of Horst aan de Maas.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0988.BPRietstraat25-VA01",
+        "topic": "plan damage agreement",
+        "context": "Therefore, only a plan damages agreement is concluded between the municipality and the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0736.BPP039demmerik58-va01",
+        "topic": "plan damage agreement",
+        "context": "The initiator is willing to bear any planning damages costs and a plan damages agreement between the municipality of De Ronde Venen in initiator was concluded on 6 November 2018.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0585.BPSGDBHOEK125-VG01",
+        "topic": "plan damage agreement",
+        "context": "A plan damages agreement under Article 6.4a Wro is concluded between the municipality and the developer in order to cover any plan damages claims.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0988.BPGrotesteeg9a-VA01",
+        "topic": "plan damage agreement",
+        "context": "Therefore, only a plan damages agreement is concluded between the municipality and initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0599.BP2138CharLgd421-va01",
+        "topic": "plan damage agreement",
+        "context": "However, a plan damage agreement has been signed.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1742.BPB2018007-0401",
+        "topic": "plan damage agreement",
+        "context": "For this purpose, plan damage agreement (anterior agreement) has been concluded with the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0160.UWP00003-VG01",
+        "topic": "plan damage agreement",
+        "context": "A plan damages agreement has been concluded between the municipality and initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1680.ROLDEZUIDESGRKRLOC-VB01",
+        "topic": "plan damage agreement",
+        "context": "The municipality of Aa and Hunze has concluded a plan damages agreement with the initiator of the plan, Woningstichting De Volmacht.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0957.BPW0000294-VG01",
+        "topic": "plan damage agreement",
+        "context": "In connection with possible compensation for damage to plans as referred to in Article 6.1 Spatial Planning Act, a plan damage agreement has been concluded with the proposer, on the basis of which the costs for damage to plans are borne and the risk borne by the proposer.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1721.WPBroekhoekong26-vg01",
+        "topic": "plan damage agreement",
+        "context": "Initiator has had a plan-damage risk analysis prepared and has concluded a plan-damage agreement with the municipality of Bernheze. This also applies to any plan damages for which a plan damages agreement has been concluded with the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1721.WPDorpwoltstrHD-vg01",
+        "topic": "plan damage agreement",
+        "context": "As described in Chapter 10, the Client has prepared a plan damage risk analysis and will conclude a plan damage agreement with the Municipality of Bernheze, in which he has committed himself to compensate for any compensation in plan damage.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0737.14BPVI-vg05",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement is concluded with the owners of the expansion sites, whereby any plan damage will be borne entirely by them.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0228.BP2015ARNW0001-0301",
+        "topic": "plan damage agreement",
+        "context": "Since all costs are borne by the applicant and a plan damages agreement has been concluded, the cost recovery is otherwise ensured.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0168.03ABP00-0401",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded, if necessary, with an initiator of a plan.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1507.HOVDOUVERENSTR5A-BPV1",
+        "topic": "plan damage agreement",
+        "context": "An anterior agreement and a plan damages agreement will be concluded between the initiator and the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0228.BP2017KLOM0001-0301",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement (part of the anterior agreement) is concluded with the initiator, with which the initiator undertakes to compensate for any damage claimed under the said article from the Wro.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0632.witt-bVA1",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement as referred to in Article 6.4a (1) of the Wro shall form part of the anterior agreement concluded with the developer.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0870.05BP1122KDBinneRut-VA01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement has been concluded between the municipality and the initiator in which the initiator ensures possible plan damage.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1730.BPTynstr2127-0401",
+        "topic": "plan damage agreement",
+        "context": "A plan damages agreement has also been entered into between the municipality and the initiators.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0823.BPBGMONTFORTL15N17-VAST",
+        "topic": "plan damage agreement",
+        "context": "The initiators also concluded a plan damages agreement with the municipality of Oirschot in which it was decided that the initiators would bear the costs.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1705.217-VG01",
+        "topic": "plan damage agreement",
+        "context": "In addition, a plan damage agreement has been concluded with the initiator stating that the potential plan damage will be borne by the initiators. For the sake of certainty, the municipality has concluded a plan damage agreement with the initiator, so that the economic viability of the plan cannot be called into question.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1942.BPNAlbertGrootlaan-va02",
+        "topic": "plan damage agreement",
+        "context": "A plan damages agreement is concluded between the municipality and the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0263.BP1183-VG01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement has been concluded with initiators.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0106.03WP2017410J-C001",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be entered into with the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0484.HRcarrierterrein-VA01",
+        "topic": "plan damage agreement",
+        "context": "The municipality of Alphen aan den Rijn and operator have signed an operating agreement and a plan damage agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1724.BPWpro4009-VAST",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement has been concluded between the municipality and the initiator in which the initiator ensures possible plan damage.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0951.UPHoofdstraat2012-VA01",
+        "topic": "plan damage agreement",
+        "context": "The scope of such plan damage agreement is that the damage suffered by third parties is wholly (or partly) the responsibility of the proposer, because the damage results from the modification of the zoning plan or the granting of an environmental permit on the basis of his or her request for a development plan.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0585.BPMSDMAASLN11-VG01",
+        "topic": "plan damage agreement",
+        "context": "A plan damages agreement under Article 6.4a Wro is concluded between the municipality and the developer in order to cover any plan damages claims.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0870.02BP1140KSOvAltstr-VA01",
+        "topic": "plan damage agreement",
+        "context": "It also includes a plan damage agreement, which provides that any real claims for compensation in the plan damage will be borne by the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0845.BP2018BGSMG00M100-VA01",
+        "topic": "plan damage agreement",
+        "context": "In addition, by means of a plan damages agreement, the potential plan damages are also reported to the initiators.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1963.wpSchillemansstede-VG01",
+        "topic": "plan damage agreement",
+        "context": "A plan damages agreement under Article 6.4a Wro is concluded between the municipality and initiators in order to cover any plan damages claims.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1669.BPHKB2020STATIONSW-VG01",
+        "topic": "plan damage agreement",
+        "context": "The scope of such plan damage agreement is that the damage suffered by third parties is wholly (or partly) the responsibility of the initiator, because the damage results from the modification of the zoning plan or the granting of an environmental permit on his or her request for development.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0589.BPWijngaardstraat-VA01",
+        "topic": "plan damage agreement",
+        "context": "This includes a plan damage agreement, the cost recovery is arranged and requirements are made for the location and phasing.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0988.BPVrakkerstr78-VA01",
+        "topic": "plan damage agreement",
+        "context": "Therefore, only a plan damages agreement is concluded between the municipality and the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0351.WZStationswO188a-vg01",
+        "topic": "plan damage agreement",
+        "context": "An anterior agreement will be concluded between the municipality and initiator, as well as a plan damages agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1731.Oosteinde24WE-VST1",
+        "topic": "plan damage agreement",
+        "context": "A plan damages agreement is also concluded with the initiator so that the cost recovery for the municipality is fully insured.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1911.BPKomNnWiLwhz002-va01",
+        "topic": "plan damage agreement",
+        "context": "An anterior agreement and a plan damages agreement are concluded between the municipality and the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0056.WZZH16HERS2-VA01",
+        "topic": "plan damage agreement",
+        "context": "For this purpose, a plan damage agreement is concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0228.BP2017MOLS0001-0301",
+        "topic": "plan damage agreement",
+        "context": "Since all costs are borne by the applicant and a plan damages agreement has been concluded, the cost recovery is otherwise ensured.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0246.215BPHGDCramer-VA01",
+        "topic": "plan damage agreement",
+        "context": "For this purpose, plan damage agreement (anterior agreement) has been concluded with the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0794.1700BP180137-2000",
+        "topic": "plan damage agreement",
+        "context": "For the underlying planological measure, a plan damages agreement and a fee payment agreement have been concluded with the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1904.BPRondomdeVechtLGB-VG03",
+        "topic": "plan damage agreement",
+        "context": "A (plan damage) agreement will be concluded between the initiator and the municipality in order to ensure that the potential plan damage is also borne by the initiators.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0867.BPSCVDDUINSTR1JM-VA01",
+        "topic": "plan damage agreement",
+        "context": "Furthermore, the initiator will conclude a plan damages agreement with the municipal administration.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1963.PTHOranjehof-VG01",
+        "topic": "plan damage agreement",
+        "context": "A plan damages agreement under Article 6.4a Wro is concluded between the municipality and the developer in order to cover any plan damages claims.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1652.Buitengebied122018-VA01",
+        "topic": "plan damage agreement",
+        "context": "For this purpose, a plan damages agreement shall be concluded for each private initiative.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0988.BPRietstraat31-VA01",
+        "topic": "plan damage agreement",
+        "context": "Therefore, only a plan damages agreement is concluded between the municipality and the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0352.cotdekamp5en7-bva1",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement has been concluded with the initiator in which it states that it is responsible for the full possible damage to the plan.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1771.Aardborstweg19a19b-BVA1",
+        "topic": "plan damage agreement",
+        "context": "The initiator has also concluded a plan damages agreement with the municipality of Geldrop-Mierlo in which it is stipulated that the initiator will bear the costs.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1659.BPLHHeertumsakker-VG01",
+        "topic": "plan damage agreement",
+        "context": "Should there be any plan damage, it will be borne by the initiator on the basis of a plan damage agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0865.vghWPKerkstraat38-VA01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement is also included in the anterior agreement, which stipulates that the initiator will bear the costs.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0946.BPStraterisScheper-VA01",
+        "topic": "plan damage agreement",
+        "context": "An anterior agreement and a plan damages agreement are concluded with the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0738.BP7012-VG01",
+        "topic": "plan damage agreement",
+        "context": "An anterior operating agreement and a plan damages agreement have been concluded between the municipality and initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1721.BPBosschebaan17-vg01",
+        "topic": "plan damage agreement",
+        "context": "This also applies to any plan damages for which a plan damages agreement has been concluded with the municipality.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1509.BP000200-VA01",
+        "topic": "plan damage agreement",
+        "context": "For this purpose, a plan damage agreement (anterior agreement) has been concluded with the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1685.BPsch2021schutsb57-VG01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement is concluded with the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0889.BPOffenbekermarkt9-VA01",
+        "topic": "plan damage agreement",
+        "context": "In the context of the cost recovery, the municipality and initiator conclude an anterior agreement and a plan damages agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0828.WZ1kraaijevnonggff-VG01",
+        "topic": "plan damage agreement",
+        "context": "In addition, pursuant to Article 6.4a of the Regional Planning Act, a plan damages agreement has been concluded between the municipality and initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1774.BUIBPNUTTERSESPOL-0401",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded with initiator, but no exploitation agreement will be concluded.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1729.bpcartilsrvr-VG01",
+        "topic": "plan damage agreement",
+        "context": "Only a plan damages agreement is concluded between the municipality and initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0394.BPGnwvsportvw1x7-C001",
+        "topic": "plan damage agreement",
+        "context": "Part of this is a plan damage agreement with initiator, as referred to in Article 6.4a Wro.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0733.BPVinkelaan2-VA01",
+        "topic": "plan damage agreement",
+        "context": "An anterior agreement and/or a plan damage agreement is also concluded with the initiator of the plan.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0946.BPTiskeshook2021-VA01",
+        "topic": "plan damage agreement",
+        "context": "To this end, an anterior agreement and a plan damages agreement are concluded between the municipality and the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0079.WpZbBoskdwwei1118-VG01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement has been concluded by the municipality with the initiator, which provides for any plan damage to be passed on to the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1891.bpWEbedrverplsing-0401",
+        "topic": "plan damage agreement",
+        "context": "For this purpose, a plan damage agreement is signed between the municipality and the applicant.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0585.BPPTHNWeinde-VG01",
+        "topic": "plan damage agreement",
+        "context": "A plan damages agreement under Article 6.4a Wro is concluded between the municipality and the developer in order to cover any plan damages claims.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1507.SNSONDERTONG-WPV1",
+        "topic": "plan damage agreement",
+        "context": "Therefore, only a plan damages agreement is concluded between the municipality and the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1507.SNHEERSTRAAT11-BPV1",
+        "topic": "plan damage agreement",
+        "context": "A plan damages agreement will be concluded between the municipality of Horst aan de Maas and the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0342.BPSOE0044-0301",
+        "topic": "plan damage agreement",
+        "context": "For the present construction site, the municipality of Soest will conclude an anterior operating agreement with the initiator, which includes a plan damage agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1894.BPL0231-VG01",
+        "topic": "plan damage agreement",
+        "context": "The municipality of Peel and Maas has stipulated that planning procedures always require the signing of a plan damages agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0228.BP2017HARS0001-0301",
+        "topic": "plan damage agreement",
+        "context": "Since all costs are borne by the applicant and a plan damages agreement has been concluded, the cost recovery is otherwise ensured.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0756.BP21SbkGrotestr50-VG01",
+        "topic": "plan damage agreement",
+        "context": "For these developments, the municipality has concluded with the initiator a so-called anterior agreement and a plan damage agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0823.BPBGHOOGEIND6B-VAST",
+        "topic": "plan damage agreement",
+        "context": "The initiators also conclude a plan damages agreement with the municipality of Oirschot in which it is stipulated that the initiators will bear the costs.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0246.417ROOBOERSKAMPONG-VA01",
+        "topic": "plan damage agreement",
+        "context": "For this purpose, plan damage agreement (anterior agreement) has been concluded with the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0553.bpdorpvisserkade-vax1",
+        "topic": "plan damage agreement",
+        "context": "A plan damages agreement has been concluded between the municipality and the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0209.BPheemstraw26beu-vadf",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement has been concluded with the initiators in which it is stated that the potential plan damage will be borne by the initiators. For the sake of certainty, the municipality has concluded a plan damage agreement with the initiator, so that the economic viability of the plan cannot be called into question.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0988.BPWalestraat-VA01",
+        "topic": "plan damage agreement",
+        "context": "In the context of the cost recovery, an anterior agreement and a plan damages agreement will be concluded between the municipality and initiator.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0417.WPPaviljoensw12a-Va01",
+        "topic": "plan damage agreement",
+        "context": "An anterior agreement and/or a plan damage agreement is also concluded with the initiator of the plan.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1507.HOWESTERHOLTSTR22-BPV1",
+        "topic": "plan damage agreement",
+        "context": "To this end, an anterior agreement and a plan damages agreement are concluded between the initiator and the municipality of Horst aan de Maas.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0823.BPBGPEPERSTRONG1-VAST",
+        "topic": "plan damage agreement",
+        "context": "The initiators also conclude a plan damages agreement with the municipality of Oirschot in which it is stipulated that the initiators will bear the costs.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1721.BPHscheweg1729NTR-VG01",
+        "topic": "plan damage agreement",
+        "context": "As described in Chapter 10, the initiators have prepared a plan-damage risk analysis and will conclude a plan-damage agreement with the municipality of Bernheze.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0484.B145BKkalverdans-VA01",
+        "topic": "plan damage agreement",
+        "context": "For the development of this site, the municipality has concluded an anterior agreement, including a plan damages agreement, with Hilva Boskoop c.v., so that the accountability of the financial feasibility is met.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0984.BP19029-va01",
+        "topic": "plan damage agreement",
+        "context": "To this end, an anterior agreement and a plan damages agreement are concluded between the initiator and the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1669.BPVDP2021BOOMGAARD-VG01",
+        "topic": "plan damage agreement",
+        "context": "The plan-damage agreement also provides that the plan-damage requested may result from the plan-damage requested on the basis of which the costs for plan-damage are borne and risk borne by the proposer.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0983.BP201707PONTANUS-VA01",
+        "topic": "plan damage agreement",
+        "context": "There is no question of an anterior agreement, but a plan damage agreement has been concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1891.WpWeSanpaad5a-VA01",
+        "topic": "plan damage agreement",
+        "context": "A plan damages agreement has been concluded by the municipality with the initiator, which provides that any costs for compensation in planning damages are to be recovered from the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1507.HODISSELHOF-BPV1",
+        "topic": "plan damage agreement",
+        "context": "An anterior agreement and a plan damages agreement will be concluded between the initiator and the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0180.1102017001-VS01",
+        "topic": "plan damage agreement",
+        "context": "To this end, an agreement has been concluded between the initiator and the municipality, which also provides for a plan damage agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0037.BP1801-vs01",
+        "topic": "plan damage agreement",
+        "context": "Lefier's gonna sign a plan damages agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0498.BPStreekweg8284-VG01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement and an anterior agreement will be concluded with the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0228.BP2017WKRM0001-0301",
+        "topic": "plan damage agreement",
+        "context": "Since all costs are borne by the applicant and a plan damages agreement has been concluded, the cost recovery is otherwise ensured. In addition to the plan damage agreement, it was agreed with the initiator that the costs of relocating the on-site press sewers will be borne by him.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0569.bpNKPLandelijkgebi-va01",
+        "topic": "plan damage agreement",
+        "context": "An instrument to ensure that the initiator bears the financial risk is a plan damage agreement. The essence of a plan damage agreement is that the initiator bears all or part of the costs of planning damage to spatial development.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0209.BPwilhelmi116beu-vadf",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement has been concluded with the initiator stating that the potential plan damage will be borne by the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1904.BPStraatweg66BKL-VG01",
+        "topic": "plan damage agreement",
+        "context": "An anterior agreement and/or a plan damage agreement is also concluded with the initiator of the plan.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1961.bpAMdoelakkerwg56-VA01",
+        "topic": "plan damage agreement",
+        "context": "In order to ensure the municipality, a plan damage agreement has been signed with the initiator, in which it is arranged that any plan damage will be borne by the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0441.BGZBPBUITENVRTHERZ-VA01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement, as referred to in Article 6.4a Wro, has also been concluded with the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0584.WPWONEN2017003-VG99",
+        "topic": "plan damage agreement",
+        "context": "A plan damages agreement under Article 6.4a Wro is concluded between the municipality and initiators in order to cover any plan damages claims.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1911.BPBG2010hz06-va01",
+        "topic": "plan damage agreement",
+        "context": "An anterior agreement and a plan damages agreement are concluded between the municipality and the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0944.Rijksweg8-VA01",
+        "topic": "plan damage agreement",
+        "context": "To this end, an anterior agreement and a plan damages agreement are concluded between the initiator and the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0858.BPparallelwgNrd10-VA01",
+        "topic": "plan damage agreement",
+        "context": "Since there is no need to phase or link in the present situation (Article 6.11 (1) (b) of the Wro) or to impose requirements, rules or the elaboration of rules (Article 6.12 (2) (c) of the Wro), the legal cost recovery has been sufficiently secured with the conclusion of the anterior agreement and a plan damages agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1721.WPBroekhoek28-VG01",
+        "topic": "plan damage agreement",
+        "context": "As described in Chapter 10, the Client has prepared a plan-damage risk analysis and will conclude a plan-damage agreement with the Municipality of Bernheze.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1669.BPOLD2021PLATKNWS-VG01",
+        "topic": "plan damage agreement",
+        "context": "To this end, an anterior agreement and a plan damages agreement are concluded between the initiator and the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0983.BP202006LUUSCHW15-VA01",
+        "topic": "plan damage agreement",
+        "context": "An anterior agreement and a plan damages agreement will be concluded between the initiator and the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0737.14BPVIII-vg01",
+        "topic": "plan damage agreement",
+        "context": "A plan damages agreement has been agreed with the owners of the property.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1721.BPKorteveldong14-vg01",
+        "topic": "plan damage agreement",
+        "context": "This also applies to any plan damages for which a plan damages agreement has been concluded with the municipality.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0888.BPSTEGENONG-VA01",
+        "topic": "plan damage agreement",
+        "context": "The scope of such plan damage agreement is that the damage suffered by third parties is wholly (or partly) the responsibility of the proposer, because the damage results from the modification of the zoning plan or the granting of an environmental permit on the basis of his or her request for a development plan.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0797.WPBeukstraatDrunen-VG01",
+        "topic": "plan damage agreement",
+        "context": "A plan damages agreement is concluded between the municipality and the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0482.bpwyvinkelp24093-vg01",
+        "topic": "plan damage agreement",
+        "context": "Furthermore, the initiator will conclude a plan damages agreement with the municipal administration.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0373.WZP4002evendijk3-CO01",
+        "topic": "plan damage agreement",
+        "context": "Any plan damage shall be covered by a plan damage agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0269.BG144-VG01",
+        "topic": "plan damage agreement",
+        "context": "No plan damage agreement has been concluded with the owners of the property, as there is an update plan.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0498.WPStreekweg133135-VG01",
+        "topic": "plan damage agreement",
+        "context": "There is no reason to establish an operating plan because the drafting of the modification plan has signed a plan damage agreement with the applicants.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0373.BPG10007Voorstrt54-C001",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement, as referred to in Article 6.4a Wro, has been concluded between the municipality and the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0246.410BONENBURGERLAAN-VA02",
+        "topic": "plan damage agreement",
+        "context": "The municipality concludes a plan damage agreement with the initiator so that any plan damage resulting from the plan is passed on to the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1931.BP1604BG007-VG01",
+        "topic": "plan damage agreement",
+        "context": "Finally, a plan damages agreement should be concluded with the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0263.BP1171-VG02",
+        "topic": "plan damage agreement",
+        "context": "A separate plan damages agreement stipulates that any plan damages will be recovered on the initiative taker.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0794.1700BP170191-2000",
+        "topic": "plan damage agreement",
+        "context": "However, a plan damage agreement has been concluded with the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1721.WPKromstraat17N-vg01",
+        "topic": "plan damage agreement",
+        "context": "The initiator has also concluded a plan damages agreement with the municipality of Bernheze.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1655.BPW6028-C001",
+        "topic": "plan damage agreement",
+        "context": "Furthermore, if necessary, the initiator will conclude a plan damages agreement with the municipal administration.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0228.BP2019EDRV0003-0301",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement is concluded with the initiator, with which the initiator undertakes to compensate for any damage claimed under the said article from the Wro. Since all costs are borne by the applicant and a plan damages agreement is concluded, the cost recovery is otherwise ensured.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0228.BP2017MOLS0002-0301",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement is concluded with the initiator, with which the initiator undertakes to compensate for any damage claimed under the said article from the Wro. Since all costs are borne by the applicant and a plan damages agreement is concluded, the cost recovery is otherwise ensured.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0361.BP00145-0305",
+        "topic": "plan damage agreement",
+        "context": "A plan damages agreement is concluded separately with the buyer.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1728.BPB1054Kempher2018-VAST",
+        "topic": "plan damage agreement",
+        "context": "Any costs, costs for the zoning plan and any planning damage, etc. shall be included; if no anterior agreement is concluded, a separate plan damage agreement shall be concluded at the time of the plan.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0228.BP2016LUNW0001-0301",
+        "topic": "plan damage agreement",
+        "context": "Since all costs are borne by the applicant and a plan damages agreement has been concluded, the cost recovery is otherwise ensured. In addition to the plan damage agreement, it was agreed with the initiator that the costs of relocating the on-site press sewers will be borne by him.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1721.WPKortven1H-vg01",
+        "topic": "plan damage agreement",
+        "context": "The initiator has also concluded a plan damages agreement with the municipality of Bernheze.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0988.BPWilhstr17ASroy-VA01",
+        "topic": "plan damage agreement",
+        "context": "Therefore, only a plan damages agreement is concluded between the municipality and initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0971.BPBTLElsloo-0003",
+        "topic": "plan damage agreement",
+        "context": "The scope of such plan damage agreement is that the damage suffered by third parties is wholly (or partly) the responsibility of the proposer, because the damage results from the modification of the zoning plan or the granting of an environmental permit on the basis of his or her request for a development plan.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0847.BP02019020-VS01",
+        "topic": "plan damage agreement",
+        "context": "Finally, a plan damages agreement is also part of the anterior agreement, in which the client declares himself willing to fully compensate the municipality for any plan damages that might be eligible for compensation.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1684.01BPElstweg5woning-VA01",
+        "topic": "plan damage agreement",
+        "context": "A plan damages agreement is concluded by the initiator with the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1948.BGS000BP0052019P-VG01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement has been concluded between the municipality and the initiator in which the initiator ensures possible plan damage.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0479.STED3829BP-0301",
+        "topic": "plan damage agreement",
+        "context": "An anterior agreement and/or a plan damage agreement is also concluded with the initiator of the plan.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0383.BPC18Duinpad3-VS01",
+        "topic": "plan damage agreement",
+        "context": "A plan damages agreement is concluded between the municipality and the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1911.BPUElshofZuid1B001-va01",
+        "topic": "plan damage agreement",
+        "context": "A separate plan damage agreement has also been concluded for this impact plan, which ensures that any plan damage will not be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0988.BPBurgsmeijersweg-VA01",
+        "topic": "plan damage agreement",
+        "context": "In the context of the cost recovery, an anterior agreement and a plan damages agreement will be concluded between the municipality and initiator.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0340.BPKorteSteeg10-VA01",
+        "topic": "plan damage agreement",
+        "context": "The municipality concludes a plan damage agreement with the initiator, so that any plan damage resulting from the plan is passed on to the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0703.03KnBPSlagveldNijv-va01",
+        "topic": "plan damage agreement",
+        "context": "In this development, a plan damages agreement has been concluded between the municipality and the initiator or the developing party.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0383.BpHoogegeestnst16-VS01",
+        "topic": "plan damage agreement",
+        "context": "A plan damages agreement is concluded between the municipality and the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0304.BPophGoossJansstra-1703",
+        "topic": "plan damage agreement",
+        "context": "A plan damages agreement is also concluded between the municipality of Neerijnen and the initiator, which stipulates that any plan damages claims to be granted will be borne by the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0984.BP19028-va01",
+        "topic": "plan damage agreement",
+        "context": "To this end, an anterior agreement and a plan damages agreement are concluded between the initiator and the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0405.BPWesterb143achter-va01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement, as referred to in Article 6.4a Wro, shall also be concluded with the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0450.BPAssumnaast14-VS01",
+        "topic": "plan damage agreement",
+        "context": "An anterior agreement and a plan damages agreement are concluded between the municipality and the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0209.BPheemstra14aweu-vadf",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement has been concluded with the initiator stating that the potential plan damage will be borne by the initiator. For the sake of certainty, the municipality has concluded a plan damage agreement with the initiator, so that the economic viability of the plan cannot be called into question.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1891.BpWeFogelsang75a-VA01",
+        "topic": "plan damage agreement",
+        "context": "In order to ensure the economic viability of the zoning plan, the municipality of Dantumadiel will therefore conclude a plan damage agreement with the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1963.BPWMSSmidsweg-VG01",
+        "topic": "plan damage agreement",
+        "context": "A plan damages agreement under Article 6.4a Wro is concluded between the municipality and the developer in order to cover any plan damages claims.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0296.WOEZklaverpad11-DFBP",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement is concluded with the initiator stating that the potential plan damage will be borne by the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1904.BPHfddekwekerijMDP-VG01",
+        "topic": "plan damage agreement",
+        "context": "An anterior agreement and/or a plan damage agreement is also concluded with the initiator of the plan.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0599.BP2130Sagenbuurt-va01",
+        "topic": "plan damage agreement",
+        "context": "An anterior agreement and/or a plan damage agreement is also concluded with the initiator of the plan.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1507.HOVONDERSESTRONG-BPV1",
+        "topic": "plan damage agreement",
+        "context": "An anterior agreement including a plan damages agreement has been concluded between the municipality and the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0870.05BP1164KDMuilker3-GV01",
+        "topic": "plan damage agreement",
+        "context": "Furthermore, the initiator will conclude a plan damages agreement with the municipal administration.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1842.bp20Hoornsek43-va01",
+        "topic": "plan damage agreement",
+        "context": "An anterior agreement and/or a plan damage agreement is also concluded with the initiator of the plan.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1721.WPHoefstraat23-vg01",
+        "topic": "plan damage agreement",
+        "context": "The initiator has also concluded a plan damages agreement with the municipality of Bernheze.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0888.BPSIEKENDAALONG22-VA01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded between the initiator and the municipality, which states that any plan damage resulting from the planned development will be borne by the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0585.BPMSDLageweg9-VG01",
+        "topic": "plan damage agreement",
+        "context": "A plan damages agreement under Article 6.4a Wro is concluded between the municipality and the developer to cover any plan damages claims under which the municipality can claim damages against the initiator.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1945.BpMillRijndijk-GVS1",
+        "topic": "plan damage agreement",
+        "context": "For this purpose, a plan damages agreement will be concluded with the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0342.BPSTB0020-0301",
+        "topic": "plan damage agreement",
+        "context": "The municipality of Soest will enter into an anterior exploitation agreement with the initiator, which includes a plan damage agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1963.BPKruidhofPH21-VG01",
+        "topic": "plan damage agreement",
+        "context": "A plan damages agreement under Article 6.4a Wro is concluded between the municipality and the developer in order to cover any plan damages claims.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0189.WB2016000007-VA01",
+        "topic": "plan damage agreement",
+        "context": "In the present case, a plan damage agreement has been concluded between the initiator and the municipality of Wierden.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1680.GIEMIDDENDORP21-VW01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded between the municipality and the applicant.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1891.BpWeElzeloane8-VA01",
+        "topic": "plan damage agreement",
+        "context": "In order to ensure the economic viability of the zoning plan, the municipality of Dantumadiel will therefore conclude a plan damage agreement with the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1711.BP20190908-VG01",
+        "topic": "plan damage agreement",
+        "context": "For this purpose, an operating agreement and a plan damages agreement are concluded between the initiator and the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0867.BPWWJandeRooy12-VA01",
+        "topic": "plan damage agreement",
+        "context": "Furthermore, the initiator will conclude a plan damages agreement with the municipal administration.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1721.WPDonzel10-vg01",
+        "topic": "plan damage agreement",
+        "context": "In addition, a plan damage agreement has been concluded with initiators.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1507.GRKLOOSTERSTRONG-BPV1",
+        "topic": "plan damage agreement",
+        "context": "In addition, a plan damages agreement will be concluded between the initiator and the municipality of Horst aan de Maas.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0534.bpoosteinderln62c-VA01",
+        "topic": "plan damage agreement",
+        "context": "A plan damages agreement will be concluded with the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0794.1700BP190500-2000",
+        "topic": "plan damage agreement",
+        "context": "However, a plan damage agreement has been concluded with the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0828.BPspaandrstr138bgh-VG01",
+        "topic": "plan damage agreement",
+        "context": "In addition, pursuant to Article 6.4a of the Regional Planning Act, a plan damages agreement has been concluded between the municipality and initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1911.BPUElshofZuidfase3-va01",
+        "topic": "plan damage agreement",
+        "context": "A separate plan damage agreement has also been concluded for this impact plan, which ensures that any plan damage will not be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1729.wpstokhem7-VG01",
+        "topic": "plan damage agreement",
+        "context": "The scope of such plan damage agreement is that the damage suffered by third parties is wholly (or partly) the responsibility of the proposer, because the damage results from the modification of the zoning plan or the granting of an environmental permit on the basis of his or her request for a development plan.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0263.BP1112-VG01",
+        "topic": "plan damage agreement",
+        "context": "The initiators conclude an anterior agreement with the municipality, as well as a plan damage agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0420.BPKSEWNIB-VA01",
+        "topic": "plan damage agreement",
+        "context": "In view of the above, no operating agreement or plan damages agreement has been concluded (yet) with a developing party.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0703.05RiBPHontestr-va01",
+        "topic": "plan damage agreement",
+        "context": "In this development, a plan damages agreement has been concluded between the municipality and the initiator or the developing party.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0988.BPDiesterbaan31-VA01",
+        "topic": "plan damage agreement",
+        "context": "In addition, a plan damages agreement has been concluded between the municipality and initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0484.HRwkloosstr6264-VA01",
+        "topic": "plan damage agreement",
+        "context": "The municipality of Alphen aan den Rijn and operator have signed an operating agreement and a plan damage agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0957.BP00000272-VG01",
+        "topic": "plan damage agreement",
+        "context": "However, a plan damage agreement has been concluded between the municipality and the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0988.BPDeHorst2A-VA01",
+        "topic": "plan damage agreement",
+        "context": "Therefore, only a plan damages agreement is concluded between the municipality and the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1911.BPHippohz0002-va01",
+        "topic": "plan damage agreement",
+        "context": "When deciding on the pre-consultation plan, the municipality of Hollands Kroon informed on 17 October 2017 that a plan damages agreement and an anterior agreement will be drawn up when submitting the formal request.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0420.WPKorteBrake4-VA01",
+        "topic": "plan damage agreement",
+        "context": "There is no reason to establish an operating plan because the drafting of the modification plan has signed a plan damage agreement with the applicants.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0858.BPhelenadal34-VA01",
+        "topic": "plan damage agreement",
+        "context": "Since there is no need to phase or link in the present situation (Article 6.11 (1) (b) of the Wro) or to impose requirements, rules or the elaboration of rules (Article 6.12 (2) (c) of the Wro), the legal cost recovery has been sufficiently secured with the conclusion of the anterior agreement and a plan damages agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0213.BPBG700054-va01",
+        "topic": "plan damage agreement",
+        "context": "A plan damages agreement is also concluded between the municipality and the initiator, so that the cost recovery for the municipality is fully insured.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1669.BPPHT2018ZWARTEMHF-VG01",
+        "topic": "plan damage agreement",
+        "context": "The scope of such plan damage agreement is that the damage suffered by third parties is wholly (or partly) the responsibility of the proposer, because the damage results from the modification of the zoning plan or the granting of an environmental permit on the basis of his or her request for a development plan.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0737.01BPXII-vg02",
+        "topic": "plan damage agreement",
+        "context": "In addition, the municipality has concluded a plan damages agreement with the developer. A plan damage agreement has been concluded with the initial contractors in order, if any, to be able to claim damages against them.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1721.WPGoorstraatong-vg01",
+        "topic": "plan damage agreement",
+        "context": "As described in Chapter 10, the initiators have prepared a plan-damage risk analysis and will conclude a plan-damage agreement with the municipality of Bernheze.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1721.WPMgrHurkNabij10A-vg01",
+        "topic": "plan damage agreement",
+        "context": "As described in Chapter 10, the Client has prepared a plan-damage risk analysis and will conclude a plan-damage agreement with the Municipality of Bernheze.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1931.BP1501BG001-VG01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement has been concluded with the initiator of the construction plan, which may have no effect on the municipality's budget.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1731.Suermondsweg18SM-WVS1",
+        "topic": "plan damage agreement",
+        "context": "A plan damages agreement has also been entered into between the municipality and the initiators.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0225.BPhorRijdt65-2003",
+        "topic": "plan damage agreement",
+        "context": "For the sake of certainty, the municipality has concluded a plan damage agreement with the initiator, so that the economic viability of the plan cannot be called into question.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0707.BPLekdijk25AMD-VA01",
+        "topic": "plan damage agreement",
+        "context": "In order to ensure the municipality, a plan damage agreement has been signed with the initiator, in which it is arranged that any plan damage will be borne by the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1721.BPTramstr13aNTR-vg01",
+        "topic": "plan damage agreement",
+        "context": "This also applies to any plan damages for which a plan damages agreement has been concluded with the municipality.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1700.201416BPVZPH-vas1",
+        "topic": "plan damage agreement",
+        "context": "In addition, a plan damage agreement is concluded with the initiator so that the cost recovery for the municipality is fully insured.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1701.0000BP000000000573-0003",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded, if necessary, with an initiator of a plan.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1669.BPODL2023BROMBEMKE-VG01",
+        "topic": "plan damage agreement",
+        "context": "An anterior agreement and a plan damages agreement were concluded between the initiator and the municipality for the purpose of the cost recovery.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1509.BP000162-VA01",
+        "topic": "plan damage agreement",
+        "context": "For this purpose, a plan damages agreement will be concluded with the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0377.BL2012-va05",
+        "topic": "plan damage agreement",
+        "context": "The municipality has concluded a plan damage agreement with the relevant initiators. The municipality has not concluded a plan damage agreement with the land owners concerned.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1911.BPUElshofZuid1C001-va01",
+        "topic": "plan damage agreement",
+        "context": "A separate plan damage agreement has also been concluded for this impact plan, which ensures that any plan damage will not be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0109.002BP0011-0003",
+        "topic": "plan damage agreement",
+        "context": "A plan damages agreement is also entered into between the municipality and the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1911.WPBPDenOever001-va01",
+        "topic": "plan damage agreement",
+        "context": "It is customary that the municipality of Hollands Kroon offers a plan damages agreement and an anterior agreement.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0820.BPBGGeerHelRvR2018-D001",
+        "topic": "plan damage agreement",
+        "context": "For underlying planning measures, a plan damages agreement and a fee payment agreement shall be concluded with the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0420.BPLGOosteinde1-VA01",
+        "topic": "plan damage agreement",
+        "context": "A plan damages agreement is signed in advance between the initiator and the municipality of Medemblik.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0736.BPP050kwikstaart46-va01",
+        "topic": "plan damage agreement",
+        "context": "In addition, a plan damages agreement will be concluded with the developer.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0569.bpNWVnieuwvsweg50-va01",
+        "topic": "plan damage agreement",
+        "context": "A plan damages agreement is concluded with the initiator of the planned redevelopment on the Oude Nieuwveenseweg 50 plot.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1652.Buitengebied072016-VA01",
+        "topic": "plan damage agreement",
+        "context": "For this purpose, a plan damages agreement shall be concluded for each private initiative.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1721.BPHeilarense51-vg01",
+        "topic": "plan damage agreement",
+        "context": "This also applies to any plan damages for which a plan damages agreement has been concluded with the municipality.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0228.BP2019BENW0001-0301",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement is concluded with the initiator, with which the initiator undertakes to compensate for any damage claimed under the said article from the Wro. Since all costs are borne by the applicant and a plan damages agreement is concluded, the cost recovery is otherwise ensured.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0984.BP20016-VA01",
+        "topic": "plan damage agreement",
+        "context": "To this end, an anterior agreement and a plan damages agreement are concluded between the initiator and the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0296.WOEZwoezikstr450-DFBP",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement is concluded with the initiator stating that the potential plan damage will be borne by the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0984.BP20011-va01",
+        "topic": "plan damage agreement",
+        "context": "Since there is no need to phase or link in the present situation (Article 6.11 (1) (b) of the Wro) or to impose requirements, rules or the elaboration of rules (Article 6.12 (2) (c) of the Wro), the legal cost recovery has been sufficiently secured with the conclusion of the anterior agreement and a plan damages agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0010.17BP9933-VG01",
+        "topic": "plan damage agreement",
+        "context": "Damage caused by this change of plan will be recovered from the applicant for the construction plan by means of a closed plan damage agreement between the municipality and the applicant.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0010.50BP-VG01",
+        "topic": "plan damage agreement",
+        "context": "With regard to possible plan damage, a regular plan damage agreement is signed by the parties.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0342.BPSTB0007-0301",
+        "topic": "plan damage agreement",
+        "context": "For this construction site, the municipality of Soest will conclude an anterior operating agreement with the initiator, which includes a plan damage agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0233.BPhorsterwg202t206-0401",
+        "topic": "plan damage agreement",
+        "context": "This includes a plan damage\\ agreement, the cost recovery is arranged and requirements are made for the location and phasering.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0225.BPbgbhogeweg4-2003",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0213.BPBRKOM100018-va01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0106.01BP201810005-C001",
+        "topic": "plan damage agreement",
+        "context": "This agreement is stipulated between the municipality and Actium in a plan damage agreement/anterior agreement.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0263.BP1157-VG01",
+        "topic": "plan damage agreement",
+        "context": "The municipality has concluded a plan damage agreement with the initiator, which lays down the responsibility for any planning damage costs.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0340.BPVeenendStrWeg37-VA01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0263.BP1143-VG01",
+        "topic": "plan damage agreement",
+        "context": "However, a plan damage agreement has been concluded with the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0917.BP030200W000001-0401",
+        "topic": "plan damage agreement",
+        "context": "In order to ensure the cost recovery of planning damages for this project, in addition to the existing agreements, a plan damages agreement is concluded between the municipality and initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0141.00081-BP31",
+        "topic": "plan damage agreement",
+        "context": "Any plan damage is passed on by means of a plan damage agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0820.BPNuenKavMauritsg4-D001",
+        "topic": "plan damage agreement",
+        "context": "A plan damages agreement is concluded with the owner.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0221.BPL17001HBI-VA01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0377.BE2016-VG03",
+        "topic": "plan damage agreement",
+        "context": "The municipality has concluded a plan damages agreement with the initiators of both developments, so that possible damage resulting from the plan is borne by the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0230.BPNIEUWSTADSWEG17-VST1",
+        "topic": "plan damage agreement",
+        "context": "This includes a plan damage\\ agreement, the cost recovery is arranged and requirements are made for the location and phasering.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0416.BPSP2012part004-va01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement and an anterior agreement will be concluded with the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1735.GOxGoorNoord-VS10",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded, if necessary, with an initiator of a plan.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0175.wonen2012bp0003-VG01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement has been concluded with the initiators.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0056.BPGK15BEHE1-VA01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement has been concluded for this purpose.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0080.13003BP00-VG01",
+        "topic": "plan damage agreement",
+        "context": "Finally, a plan damages agreement is concluded with the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1734.HERVdehogehof-VSG1",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement has also been concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1931.BP2009DK025-VG01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0141.00047-BP31",
+        "topic": "plan damage agreement",
+        "context": "Therefore, a plan damage agreement is concluded with the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0737.01BPXIIWP02-vg01",
+        "topic": "plan damage agreement",
+        "context": "The municipality has entered into a plan damages agreement with the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0777.0084ETTENOOST-3001",
+        "topic": "plan damage agreement",
+        "context": "A plan damages agreement has also been concluded to allow any plan damages to be passed on to the owner. As soon as this is implemented, there will be a cost recovery and a plan damage agreement will be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0244.bpLippenoordweg-0003",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0106.02BP20211000X-C001",
+        "topic": "plan damage agreement",
+        "context": "This agreement is stipulated between the municipality and the initiator in a plan damages agreement/anterior agreement.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1979.62BP-VG01",
+        "topic": "plan damage agreement",
+        "context": "The scope of such plan damage agreement is that the damage suffered by third parties is wholly (or partly) the responsibility of the proposer, because the damage results from the modification of the zoning plan or the granting of an environmental permit on the basis of his or her request for a development plan.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1734.0269DRIEfazantstr-VSG1",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement has also been concluded with the developing owner of the land in the planning area.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0296.BGBPanhuiswegong-DFBP",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1740.bpKEbroekdijk42b-vst1",
+        "topic": "plan damage agreement",
+        "context": "Since the municipality does not own the land to be developed, an anterior agreement has been concluded with the initiator as well as a plan damage agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1735.GOOR-VS10",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded, if necessary, with an initiator of a plan.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0340.BPBlauwendraadweid-VA01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0737.11BPIV-vg01",
+        "topic": "plan damage agreement",
+        "context": "The municipality has entered into a plan damages agreement with the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0166.00991301-VB01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded, if necessary, with an initiator of a plan.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1734.0325BUITwagenst24A-VSG1",
+        "topic": "plan damage agreement",
+        "context": "With the developing owner of the land in the planning area, a plan damage agreement has also been concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1940.WPDEH185WONINGEN-VA01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will be concluded with the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0406.BPKeuchenius2931-VG01",
+        "topic": "plan damage agreement",
+        "context": "A plan damages agreement has also been drawn up.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0090.BP2022SSW013-0401",
+        "topic": "plan damage agreement",
+        "context": "The municipality concludes a plan damage agreement with the initiator, with which the recovery of any plan damage is covered.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0546.BP00617-0301",
+        "topic": "plan damage agreement",
+        "context": "A plan damages agreement shall be drawn up between the Municipality of Leiden and the applicant with regard to the carrying out of the financial costs and any risks associated with the execution of the zoning plan.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1705.218-VG01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0340.BPVissersweg23-VA01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1734.0303ZTTNbeatrixstr-VSG1",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement has also been concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0269.OB113-VG01",
+        "topic": "plan damage agreement",
+        "context": "The cost recovery of the municipality and possible plan damage will be part of the anterior agreement and the plan damage agreement, which will be concluded with the initiator of this zoning plan.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0441.BPCOOGJEWELWEG12A-VA02",
+        "topic": "plan damage agreement",
+        "context": "For this purpose, a plan damage agreement has been signed between the municipality and the applicant.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1705.188-VG01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement has also been signed, which ensures that any plan damage is borne by the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0770.WPhint2028-VAST",
+        "topic": "plan damage agreement",
+        "context": "Possible plan damage resulting from the change of the planning regime is, according to a plan damage agreement to be concluded with the municipality pursuant to Article 6 (4)a of the Land Planning Act, also on the account of the initiator.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0340.BPZwijnsbergen4749-VA01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0213.BPBRKOM100014-va01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1696.BPGodelindehof-va01",
+        "topic": "plan damage agreement",
+        "context": "A plan damages agreement is also concluded with the housing association regarding any plan damages claims.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1581.DBGarnhemsebovweg7-VA01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0232.BG075jagtlustweg17-VWP1",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will be concluded between the municipality and the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0809.BPHoekje12-VA01",
+        "topic": "plan damage agreement",
+        "context": "In addition, a plan damages agreement has been agreed between the municipality and the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0502.BP16sGravenwegWest-4001",
+        "topic": "plan damage agreement",
+        "context": "The costs can be recovered through the emptying regulation and a plan damages agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0342.WPLG0010-0301",
+        "topic": "plan damage agreement",
+        "context": "For this construction site, the municipality of Soest will conclude an anterior operating agreement with the initiator, which includes a plan damage agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1734.0251BUITgrotemo185-VSG1",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement is also concluded with the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0299.BP00POELWIJK-VA01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0293.BPKLAP209211-VA01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0296.ZUIDWOORDSESTG9-VG01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0037.BP1904-vs01",
+        "topic": "plan damage agreement",
+        "context": "Lefier's gonna sign a plan damages agreement. Lefier's gonna sign a plan damages agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1705.240-VG01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0273.WPBGKraakweg3a-VA01",
+        "topic": "plan damage agreement",
+        "context": "In addition, a plan damage agreement is concluded with the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0263.BP1156-VG01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1734.0344ELSTBeethstr-VSG1",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement has also been concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1783.abp00000013w152-VA01",
+        "topic": "plan damage agreement",
+        "context": "Nor is there any plan damage agreement signed.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1705.242-VG01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1684.18BPBlauwesteen6-VA01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0263.BP1205-VG01",
+        "topic": "plan damage agreement",
+        "context": "Prior to the planning procedure, the plan damage\\ agreement is also signed.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0450.BPLangebuurt41en43-VS01",
+        "topic": "plan damage agreement",
+        "context": "The municipality concludes a plan damages agreement with the initiator so that possible damage resulting from the plan is on the account of the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0059.BPHaWidePetZuid-VG01",
+        "topic": "plan damage agreement",
+        "context": "In addition, fees are charged for the zoning review in accordance with the rates set by the City Council and a plan damage agreement is concluded that places the risk of possible plan damage on the applicant.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0340.HeetenGrootveldln-vg01",
+        "topic": "plan damage agreement",
+        "context": "However, a plan damage agreement is concluded with the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0302.BP78124-vg01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1945.BpGroHogeHorst25-VSG1",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0059.PHHaFiifh1ab21-ON01",
+        "topic": "plan damage agreement",
+        "context": "For this purpose, a plan damages agreement is signed between the municipality and the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0402.18bp01monnikenberg-va01",
+        "topic": "plan damage agreement",
+        "context": "Since this partial revision of the Monnikenberg zoning plan requires a new planological decision and may result in plan damage claims, a plan damage agreement has been concluded between the municipality of Hilversum and the initiators of the present partial revision of the Monnikenberg zoning plan.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0737.14BPVIWP07-vg01",
+        "topic": "plan damage agreement",
+        "context": "A plan damages agreement has been agreed with the owners of the property.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1734.0299ELSTvogelzan25-VSG1",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement has also been concluded with the developing owner of the land in the planning area.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1734.0288VGP2018-VSG1",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement has also been concluded with the developing owner of the land in the planning area.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0252.MAbpGroteloef2-VA01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0858.BPdrschaepmanstr37-VA01",
+        "topic": "plan damage agreement",
+        "context": "The developer has concluded an anterior agreement with the municipality, including a plan damages agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1911.OVBPKAP2012002-va01",
+        "topic": "plan damage agreement",
+        "context": "A plan damages agreement has been concluded between the initiator and the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1911.OVBPKAP2012004-va01",
+        "topic": "plan damage agreement",
+        "context": "A plan damages agreement has been concluded between the initiator and the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0984.BP20007-va01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0273.WPBPHooiweg16-VA01",
+        "topic": "plan damage agreement",
+        "context": "In addition, a plan damage agreement is concluded with the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0855.BSP2013029-e001",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement is also concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1911.OVBPKAP2012003-va01",
+        "topic": "plan damage agreement",
+        "context": "A plan damages agreement has been concluded between the initiator and the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0840.2581K0024-VA01",
+        "topic": "plan damage agreement",
+        "context": "Finally, a plan damage agreement between the initiator and the municipality is concluded for any plan damage.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1783.abp00000013w104-VA01",
+        "topic": "plan damage agreement",
+        "context": "Both an anterior agreement and a plan damage agreement are signed for this plan.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1509.BP000152-VA01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement is also part of this.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0141.00125-BP31",
+        "topic": "plan damage agreement",
+        "context": "Any plan damage is passed on by means of a plan damage agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0273.BPBGPeppelerweg50-VA01",
+        "topic": "plan damage agreement",
+        "context": "In addition, a plan damage agreement has been concluded with the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1734.0245HTRNhoenderkmp-VSG1",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement is also concluded with the developing owner of the land located within the planning area.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0299.BP03ZUIDERLAAN40-VA01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0296.BPSteenoven-VG01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1734.0248OOSTstationst6-VSG1",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement shall be concluded with the developing owner of the land located within the planning area. A plan damage agreement is also concluded with the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0858.WPamundsenstraat2-VA01",
+        "topic": "plan damage agreement",
+        "context": "Possible plan damage resulting from the change of the planning regime is, according to a plan damage agreement to be concluded with the municipality pursuant to Article 6 (4)a of the Land Planning Act, also on the behalf of the initiator.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1884.BPHERENWEG74A-VAS1",
+        "topic": "plan damage agreement",
+        "context": "For any plan damage a plan damage\\ agreement has been signed, in which it has been agreed that any plan damage to third parties to be granted will be reimbursed by the initiator to the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0056.BPZH17INBR1-VA01",
+        "topic": "plan damage agreement",
+        "context": "This plan is subject to a plan damages agreement and a sales agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0417.BPHV-Va01",
+        "topic": "plan damage agreement",
+        "context": "A plan damages agreement has been concluded between the initiator and the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1696.BPlglsdno2012-va03",
+        "topic": "plan damage agreement",
+        "context": "Plan damage is the responsibility of initiators and, where appropriate, a plan damage agreement is concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1903.BPKOM10020-VG01",
+        "topic": "plan damage agreement",
+        "context": "The scope of such plan damage agreement is that the damage suffered by third parties is wholly (or partly) the responsibility of the proposer, because the damage results from the modification of the zoning plan or the granting of an environmental permit on the basis of his or her request for a development plan.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0907.BP15054LAN24MIL-VA01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1734.0231HTRNboterstron-VSG1",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement has also been concluded with the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1719.0bp21drim27pluk58a-vg01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0845.UP2015SMGCENTRP107-VA01",
+        "topic": "plan damage agreement",
+        "context": "For this purpose, plan damages\\ agreements have been concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0439.BPPURMERWEG2018-va01",
+        "topic": "plan damage agreement",
+        "context": "A plan damages agreement and an anterior agreement will be concluded separately with both parties.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0327.240-0401",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0230.PH4BESCHSTAD-VST1",
+        "topic": "plan damage agreement",
+        "context": "In order to ensure economic viability, a plan damages agreement has been entered into which it has been agreed that any plan damages to third parties to be granted will be reimbursed by the initiator to the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1652.WPKeijzershof-VA01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0345.BPLindewijck-oh01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement has also been concluded with the developing owner of the land located within the planning area.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1783.obp00000007w22-VA01",
+        "topic": "plan damage agreement",
+        "context": "For this plan no anterior agreement has been concluded, but a plan damage agreement.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1721.WPMeursstraatong13-vg02",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0106.02BP20191000U-C001",
+        "topic": "plan damage agreement",
+        "context": "This agreement is stipulated between the municipality and the initiator in a plan damages agreement/anterior agreement.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1730.BPVosbergln20Eelde-0401",
+        "topic": "plan damage agreement",
+        "context": "A plan damages agreement has been concluded between the municipality and the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0385.BPStationswegKwa-vg01",
+        "topic": "plan damage agreement",
+        "context": "A plan damages agreement is concluded between the municipality and the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0668.BENLeeuwseVeldherz-BOH1",
+        "topic": "plan damage agreement",
+        "context": "In order to cover the risk and any costs of planning damages, the municipality has concluded a plan damages agreement with the developing party.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0024.01BP0006-VG01",
+        "topic": "plan damage agreement",
+        "context": "Damage caused by this change of plan will be recovered from the applicant for the construction plan by means of a pre-concluded plan damage agreement between the municipality and the applicant.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0106.02BP201610002-C001",
+        "topic": "plan damage agreement",
+        "context": "This agreement is stipulated between the municipality and the initiator in a plan damages agreement/anterior agreement.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1891.bpWEfugelbuter-0401",
+        "topic": "plan damage agreement",
+        "context": "In order to ensure the economic viability of the zoning plan, the municipality of Dantumadiel will therefore conclude a plan damage agreement with the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0907.BP20110KLEINEWGNP-VA01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1734.0328ZTTNheldringon-VSG1",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement has also been concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0263.BP1236-VG01",
+        "topic": "plan damage agreement",
+        "context": "Prior to the planning procedure, the plan damage\\ agreement is also signed.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0233.BPbulderweg12-0401",
+        "topic": "plan damage agreement",
+        "context": "This includes a plan damage agreement, the cost recovery is arranged and requirements are made for the location and phasering.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0141.00088-BP31",
+        "topic": "plan damage agreement",
+        "context": "Any plan damage is passed on by means of a plan damage agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1949.WPFraNoorderbleo-VAS1",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement is also concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1734.0307BUITstenkstr45-VSG1",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement has also been concluded with the developing owner of the land located within the planning area.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0214.LIEBuisjesstrt5en7-WVA1",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1705.140-VG01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement has also been signed, which ensures that any plan damage is borne by the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0737.01BPXV-vg01",
+        "topic": "plan damage agreement",
+        "context": "Woonfriesland is charged a fee for the current zoning review and a plan damage agreement is concluded with Woonfriesland.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1705.282-VG01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1783.obp00000007w19-VA01",
+        "topic": "plan damage agreement",
+        "context": "For this plan\u00c2 a plan damages agreement has been signed and the Rates table attached to the Empty Regulation Westland has been signed.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1948.BGO000BP0042017P-VG01",
+        "topic": "plan damage agreement",
+        "context": "In order to ensure the economic viability of the zoning plan, a plan damage agreement has been concluded for all planning locations.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1970.WpDkStadsdock-VG01",
+        "topic": "plan damage agreement",
+        "context": "Finally, a plan damage agreement between the initiator and the municipality is concluded for any plan damage.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0622.0264bpzZbw22016-0030",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement is concluded with the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1948.VHL003BP0022017P-VG01",
+        "topic": "plan damage agreement",
+        "context": "In order to ensure the economic viability of the zoning plan, a plan damage agreement has been concluded for the planning site.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0385.wpZeedijk1Edam-vg01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will be concluded with the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0344.BPVLEUTENSEVAART-VA02",
+        "topic": "plan damage agreement",
+        "context": "For this purpose, a plan damages agreement has been concluded between the municipality and initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1774.WEEBPGUNNERSTR10-VG01",
+        "topic": "plan damage agreement",
+        "context": "For this purpose, a plan damage agreement (anterior agreement) has been concluded with the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0106.02BP201610003-C001",
+        "topic": "plan damage agreement",
+        "context": "This agreement is stipulated or otherwise arranged between the municipality and the initiator in a plan damage agreement/anterior agreement.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0221.BPL20004HMO-VA01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0546.BP00157-0301",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement shall be concluded with the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0344.BPHEYCOPDICHTERSWI-VA01",
+        "topic": "plan damage agreement",
+        "context": "For this purpose, a plan damages agreement has been concluded between the municipality and initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1705.210-VG01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1734.0336ELSTgroenest84-VSG1",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement has also been concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0059.BPSvMolenweg77-VG01",
+        "topic": "plan damage agreement",
+        "context": "In addition, fees are charged for the zoning review in accordance with the rates set by the City Council and a plan damage agreement is concluded that places the risk of possible plan damage on the applicant.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0147.BpAHB-vg01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded, if necessary, with an initiator of a plan.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0233.BPzandkampwg19-0401",
+        "topic": "plan damage agreement",
+        "context": "This includes a plan damage\\ agreement and the cost recovery is arranged.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0737.01BPXVII-vg01",
+        "topic": "plan damage agreement",
+        "context": "Woonfriesland is charged a fee for the current zoning review and a plan damage agreement is concluded with Woonfriesland.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0141.00054-BP31",
+        "topic": "plan damage agreement",
+        "context": "Any plan damage is passed on by means of a plan damage agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1742.BPRW2017004-0401",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1734.0249BUITdijkstr8a-VSG1",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement is also concluded with the developing owner of the land located within the planning area.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0273.WPBGHooiweg10en10a-VA01",
+        "topic": "plan damage agreement",
+        "context": "In addition, a plan damage agreement is concluded with the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0785.BP2019001Zuidbesou-vg01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will be concluded with the initiater.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0263.BP1158-VG02",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0907.BP20102TEELBKONMIL-VA01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1931.BPW2102BG045-VG01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0141.00071-BP31",
+        "topic": "plan damage agreement",
+        "context": "Any plan damage is passed on by means of a plan damage agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1955.bpsgshbwonouddoe22-va01",
+        "topic": "plan damage agreement",
+        "context": "In addition, a plan damage agreement is concluded with the initiator in order to recover any costs for the municipality from the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0197.BP00097-VG01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1705.278-VG01",
+        "topic": "plan damage agreement",
+        "context": "In addition, a plan damage agreement has been concluded with each initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1734.0315BUITgrmolen108-VSG1",
+        "topic": "plan damage agreement",
+        "context": "A plan damages agreement has also been concluded with the developing owner of the land.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0299.PV00BABBW32-VA01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1684.18BPBlauwesteenong-VA01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0988.BPWoongebieden2019-GU01",
+        "topic": "plan damage agreement",
+        "context": "Where developments in this zoning plan are taken into account (see Chapter 5\\), a plan damage agreement has been concluded with the initiator and if an anterior agreement is considered.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0273.WPBGNijkerkHandels-VA01",
+        "topic": "plan damage agreement",
+        "context": "In addition, a plan damage agreement is concluded with the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0484.B140HRhoogvliet-VA01",
+        "topic": "plan damage agreement",
+        "context": "On 17 December 2015, the Municipality of Alphen aan den Rijn and operator signed an operating agreement and a plan damages agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1949.BPFraLLollumerw19-VAS1",
+        "topic": "plan damage agreement",
+        "context": "In addition, a plan damage agreement is concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0855.WYZ2015007-e001",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement is also concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0233.BPoudetelgwg243245-0401",
+        "topic": "plan damage agreement",
+        "context": "This includes a plan damage\\ agreement, the cost recovery is arranged and requirements are made for the location and phasering.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0141.00083-BP31",
+        "topic": "plan damage agreement",
+        "context": "Any plan damage is passed on by means of a plan damage agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0301.op0101Landelijkgeb-vs01",
+        "topic": "plan damage agreement",
+        "context": "Any plan damage is passed on to initiators by concluding an agreement, the so-called plan damage agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0141.00126-BP31",
+        "topic": "plan damage agreement",
+        "context": "Any plan damage is passed on by means of a plan damage agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1948.BGV000BP0032017P-VG01",
+        "topic": "plan damage agreement",
+        "context": "In order to ensure the economic viability of the zoning plan, a plan damage agreement has been concluded for all planning locations.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1705.187-VG01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement has also been signed, which ensures that any plan damage is borne by the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1509.BP000147-VA01",
+        "topic": "plan damage agreement",
+        "context": "A plan damages agreement is concluded between the municipality and the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0141.00026-BP31",
+        "topic": "plan damage agreement",
+        "context": "Any plan damage is passed on by means of a plan damage agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0141.00106-BP31",
+        "topic": "plan damage agreement",
+        "context": "Furthermore, a plan damage agreement is concluded with the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0141.00123-BP31",
+        "topic": "plan damage agreement",
+        "context": "Any plan damage is passed on by means of a plan damage agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0233.BPkonijnenwal20-0401",
+        "topic": "plan damage agreement",
+        "context": "This includes a plan damage\\ agreement, the cost recovery is arranged and requirements are made for the location and phasering.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0173.BP09032-va01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement as referred to in Article 6 (4) (a) of the Regional Planning Act has been concluded with the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1734.0300ZTTNhessenbe19-VSG1",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement has also been concluded with the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1705.219-VG01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0141.00104-BP31",
+        "topic": "plan damage agreement",
+        "context": "Any plan damage is passed on by means of a plan damage agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0246.413Postweg-VA01",
+        "topic": "plan damage agreement",
+        "context": "The municipality concludes a plan damage agreement with the initiator, so that any plan damage resulting from the plan is passed on to the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1903.BPBUI01023-VG01",
+        "topic": "plan damage agreement",
+        "context": "The scope of such plan damage agreement is that the damage suffered by third parties is wholly (or partly) the responsibility of the proposer, because the damage results from the modification of the zoning plan or the granting of an environmental permit on the basis of his or her request for a development plan.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0230.WPSINGEL19-VST1",
+        "topic": "plan damage agreement",
+        "context": "For any plan damage a plan damage\\ agreement has been signed, in which it has been agreed that any plan damage to third parties to be granted will be reimbursed by the initiator to the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0096.20181487-ON01",
+        "topic": "plan damage agreement",
+        "context": "Finally, a plan damage agreement between the initiator and the municipality is concluded for any plan damage.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1783.abp00000013w84-VA01",
+        "topic": "plan damage agreement",
+        "context": "For the amendment plan, a plan damages agreement has been signed and fees are charged, as set out in the tariff table of the emptying Regulation 2019\\.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1705.236-VG01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0059.PHHaNijewei89-VG01",
+        "topic": "plan damage agreement",
+        "context": "For this purpose, a plan damages agreement is signed between the municipality and the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0299.HZ04MOFASE3-VA01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1948.VHL003WP0012017W-VG01",
+        "topic": "plan damage agreement",
+        "context": "In order to ensure the economic viability of the zoning plan, a plan damage agreement has been concluded for the planning site.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0230.WPPARKWEG15-VST1",
+        "topic": "plan damage agreement",
+        "context": "For any plan damage, a plan damage\\ agreement has been signed which, for reasons of economic viability, agreed that any plan damage to third parties to be granted will be reimbursed by the initiator to the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0226.BPBUITENGEBIED024-VS01",
+        "topic": "plan damage agreement",
+        "context": "Any plan damage is passed on by means of a plan damage agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0668.BENWaterstraatong-BOH1",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0233.BPDeHoogeRiet-0401",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1734.0343DRIEBaltuss37-VSG1",
+        "topic": "plan damage agreement",
+        "context": "With the developing owner of the land in the planning area, a plan damage agreement has also been concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1911.WPVanPomeren-va01",
+        "topic": "plan damage agreement",
+        "context": "Similar to the anterior agreement, a plan damage agreement has also been signed.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0289.0057Mouterij-VSG1",
+        "topic": "plan damage agreement",
+        "context": "Furthermore, a plan damages agreement has been concluded between the municipality and developers.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0855.BSP2014023-e001",
+        "topic": "plan damage agreement",
+        "context": "At the Scharwoudestraat a plan damage agreement will be signed by developer.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0106.02BP201610004-C001",
+        "topic": "plan damage agreement",
+        "context": "This agreement is either established between the municipality and the initiator in a plan damages agreement/anterior agreement or otherwise contractually arranged.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0141.WP00003-WP31",
+        "topic": "plan damage agreement",
+        "context": "To this end, a plan damage\\ agreement has been concluded with the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0141.00079-BP31",
+        "topic": "plan damage agreement",
+        "context": "Any plan damage is passed on by means of a plan damage agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0342.VPSOE0001-0401",
+        "topic": "plan damage agreement",
+        "context": "By construction site, the municipality of Soest will conclude an anterior operating agreement with the initiator, including a plan damage agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1961.BPSWOverheicop1a-VA01",
+        "topic": "plan damage agreement",
+        "context": "An anterior agreement and/or a plan damage agreement is also concluded with the initiator of the plan.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0308.BP0083-VG01",
+        "topic": "plan damage agreement",
+        "context": "However, a plan damage agreement is concluded between the municipality and the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1969.BPLE21POST1-VA01",
+        "topic": "plan damage agreement",
+        "context": "A plan damages agreement has been concluded between the municipality and the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1901.Oosteinde8a-BP80",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement is concluded between the municipality and the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0737.14BPVIWP05-vg01",
+        "topic": "plan damage agreement",
+        "context": "A plan damages agreement has been agreed with the owners of the property.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1734.0242HERvenusong-VSG1",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement shall be concluded with the developing owner of the land located within the planning area.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1949.BPMenRypsterdyk28-VAS1",
+        "topic": "plan damage agreement",
+        "context": "In addition, a plan damage agreement is concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0441.WPZANDKANAALKADE24-VA01",
+        "topic": "plan damage agreement",
+        "context": "For this purpose, a plan damage agreement has been signed between the municipality and the applicant.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1705.229-VG01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0296.BGBHeikampseweg6-VG01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1667.BPRwoon1023-VAST",
+        "topic": "plan damage agreement",
+        "context": "For the other plots, a plan damages agreement will be concluded between the municipality and the initiator.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0450.Assum7-VS01",
+        "topic": "plan damage agreement",
+        "context": "In addition, a plan damages agreement is concluded between the municipality and initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1931.BP1902DK024-VG01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0855.BSP2015003-e001",
+        "topic": "plan damage agreement",
+        "context": "In addition, a plan damages agreement has been concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0193.BP18017-0004",
+        "topic": "plan damage agreement",
+        "context": "To this end, an anterior agreement (including a plan damage agreement) was concluded between the initiator and the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1783.abp00000013w141-VA01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement has been signed.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1700.202010BPWHPH-vas1",
+        "topic": "plan damage agreement",
+        "context": "Finally, a plan damages agreement is signed with the applicant which exempts the municipality of Twenterand from the financial consequences of this zoning plan.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1719.0bp18rijakkerkdijk-vg01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0263.BP1083-VG01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement has been concluded for the settlement of plan damage.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0081.02BP0005-VA01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement has also been concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1667.BPGveeg-VAST",
+        "topic": "plan damage agreement",
+        "context": "For the other plots, a plan damages agreement will be concluded between the municipality and the initiator.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1783.abp00000013w107-VA01",
+        "topic": "plan damage agreement",
+        "context": "For this plan a plan damages agreement has been signed and the Rates table attached to the Westland Empty Regulation has been signed.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1966.DeKleinePlantage-VS01",
+        "topic": "plan damage agreement",
+        "context": "This plan damage agreement will be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0296.HUURlingsedam54-DFBP",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0302.BP01203-ow01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1734.0278ELSTrijzenburg-VSG1",
+        "topic": "plan damage agreement",
+        "context": "With the developing owner of the land located within the planning area, a plan damage agreement has also been concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1734.0324BUITgrindweg22-VSG1",
+        "topic": "plan damage agreement",
+        "context": "With the developing owners of the land in the planning area, a plan damage agreement has also been concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0356.BPUHL2018HER001-VA02",
+        "topic": "plan damage agreement",
+        "context": "For any plan damage a plan damage\\ agreement has been signed, in which it has been agreed that any plan damage to third parties to be granted will be reimbursed by the initiator to the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0302.BP01158-vg01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0246.415Bloemstraat-VA01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1705.232-VG01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0984.BP21013-va01",
+        "topic": "plan damage agreement",
+        "context": "All we're gonna do is sign a plan damages agreement.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0269.OB114-VG01",
+        "topic": "plan damage agreement",
+        "context": "An anterior agreement and a plan damages agreement with the initiator will be concluded so that there are no financial consequences for the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1955.bplgbgbwonrav46-va01",
+        "topic": "plan damage agreement",
+        "context": "In addition, a plan damage agreement is concluded with the initiator in due course, in order to be able to recover any costs for the municipality from the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0252.BUbpVeldweg1-VA01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0106.02BP20211000M-C001",
+        "topic": "plan damage agreement",
+        "context": "This agreement is stipulated between the municipality and the initiator in a plan damages agreement/anterior agreement.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0147.BpAHB-ow01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded, if necessary, with an initiator of a plan.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0553.bpdorpLindenhof-vax1",
+        "topic": "plan damage agreement",
+        "context": "An anterior agreement and/or a plan damage agreement is also concluded with the initiator of the plan.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0147.BpAHBHZ-ow01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded, if necessary, with an initiator of a plan.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1949.WPMinHermanawei40-VAS1",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement is also concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0296.NRDZeswegong-DFBP",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1719.bpSluizewMoersew-vg01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1525.WP2018WAR10025-VA01",
+        "topic": "plan damage agreement",
+        "context": "In this context, a plan damages agreement under Article 6\\.4a Wro has also been concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1734.0250OOSTstations21-VSG1",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement is also concluded with the developing owner of the land located within the planning area.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0736.BP018BgbWest-va02",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement has also been concluded with promoters.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0664.BPGC17-VG99",
+        "topic": "plan damage agreement",
+        "context": "In the present case, these costs are covered by the levying of fees and the conclusion of a plan damages agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1740.wpOCbonegraafsew11-vst1",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0106.02BP20171000S-C001",
+        "topic": "plan damage agreement",
+        "context": "This agreement is stipulated between the municipality and the initiator in a plan damages agreement/anterior agreement.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0758.BP2015214003-0401",
+        "topic": "plan damage agreement",
+        "context": "For the development of this site, the municipality has concluded an anterior agreement, including a plan damages agreement, with Hilva Haagweg Breda c.v., so that the accountability of the financial feasibility is met.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0373.BPG10004delvpad2a-C001",
+        "topic": "plan damage agreement",
+        "context": "A plan damages agreement is concluded between the municipality and the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0147.BpAHBHZ-vg01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded, if necessary, with an initiator of a plan.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1884.WPZUIDSCHANS-VAS1",
+        "topic": "plan damage agreement",
+        "context": "For this construction site, the municipality of Kaag and Braassem will conclude an anterior operating agreement with the initiator, which includes a plan damage agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0944.LINDENLAAN3-VA01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0546.BP00140-0301",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement shall be concluded with the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0296.NRDZeswegnaast10-DFBP",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0299.BP00MARIENDWG17-VA01",
+        "topic": "plan damage agreement",
+        "context": "In addition, a plan damage agreement is concluded with the initiator in due course, in order to be able to recover any costs for the municipality from the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1690.BP00455-0401",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement has been signed.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1700.201511BPVZPH-vas1",
+        "topic": "plan damage agreement",
+        "context": "An anterior agreement (plan damage agreement) is concluded with the applicant.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0233.BPwatervalwg159173-0401",
+        "topic": "plan damage agreement",
+        "context": "This includes a plan damage\\ agreement, the cost recovery is arranged and requirements are made for the location and phasering.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1773.BP2015004015-0301",
+        "topic": "plan damage agreement",
+        "context": "For this purpose, a plan damages agreement is concluded between the municipality and the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1734.0331BUITtielstrong-VSG1",
+        "topic": "plan damage agreement",
+        "context": "With the developing owner of the land in the planning area, a plan damage agreement has also been concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1652.Buitengebied102020-VA01",
+        "topic": "plan damage agreement",
+        "context": "For this purpose, a plan damages agreement shall be concluded for each private initiative.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0296.BGBGroenewoudseweg-VGBP",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1740.bpKEhoofdstraat99-vst1",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0855.BSP2016023-e001",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement is also concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1948.VHL003WP0022017W-VG01",
+        "topic": "plan damage agreement",
+        "context": "In order to ensure the economic viability of the zoning plan, a plan damage agreement has been concluded for the planning area.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1740.bpKEbroekdijkn46-vst1",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0293.PHBPBEEKENOORD2020-VS01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0855.WYZ2016004-e001",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement is also concluded. Any compensation to be paid for damage to plans will be borne by the initiator, who has concluded a plan damage agreement with the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1740.OPKastanjelaan21-vst1",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1734.0254ELSTeuroplzuid-VSG1",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement is also concluded with the developing owner of the land in the planning area.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0907.BP21116TEELBSTRMIL-VA01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1684.BPCuGraafschap40-VA01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1581.LSMkonjulianaln50-VA01",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement will also be concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0373.BPG04011Heerw6569-C001",
+        "topic": "plan damage agreement",
+        "context": "A plan damages agreement is also concluded with the initiator regarding any plan damages claims.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0226.BPBUITENGEBIED020-VS01",
+        "topic": "plan damage agreement",
+        "context": "The municipality and the initiator have also concluded a plan damages agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1734.0252BUITgrindweg3-VSG1",
+        "topic": "plan damage agreement",
+        "context": "A plan damage agreement is also concluded with the developing owner of the land located within the planning area.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0273.BPBGHandelsweg2-VA01",
+        "topic": "plan damage agreement",
+        "context": "In addition, a plan damage agreement is concluded with the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0141.00101-BP31",
+        "topic": "plan damage agreement",
+        "context": "Furthermore, a plan damage agreement is concluded with the initiator.",
+        "answer": "{ \"answer\": true }"
+    }
+]

@@ -1,0 +1,2078 @@
+[
+    {
+        "IMRO": "t_NL.IMRO.1948.VHL003WP0032017W-VG01",
+        "topic": "cooperation agreement",
+        "context": "For the development of the Scheifelaar II, the municipality has concluded a cooperation agreement with a developing party.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1742.BPRW2020004-0402",
+        "topic": "cooperation agreement",
+        "context": "In the present case, a cooperation agreement is concluded between the initiator and the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1700.201601BPVZPH-vas1",
+        "topic": "cooperation agreement",
+        "context": "In principle, the initiator is also prepared to conclude a cooperation agreement with the municipality containing the operating contribution to be paid. In the present case, a cooperation agreement and an anterior agreement are concluded between the initiator and the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0267.BP0139-0002",
+        "topic": "cooperation agreement",
+        "context": "The realization of the assignments is recorded in (cooperation) agreements.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0383.BPC21herzduinbosch-VS01",
+        "topic": "cooperation agreement",
+        "context": "The cooperation agreement concluded in 2010 between the municipality and Parnassia includes a research task to investigate whether social housing on the grounds of Dune and Bosch can be realized.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0420.BPHZBloesWognum-VA01",
+        "topic": "cooperation agreement",
+        "context": "A cooperation agreement between the municipality and the developer was concluded on 29 December 2006 for the purpose of housing development at the 'Bloesemgaerde' site. The operation of the plan and the cost recovery related to the further development of housing shall take place unchanged on the basis of the agreements already made in this cooperation agreement. Further agreements are covered in the Cooperation Agreement.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0228.BPU2018ENKA0004-0301",
+        "topic": "cooperation agreement",
+        "context": "These principles are already laid down in the cooperation agreement with the developer (2009) and the subsequent policy frameworks, including the image quality plan Enka Carr\u00e9 (2013).",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1684.09BPvaluwe2C-VA01",
+        "topic": "cooperation agreement",
+        "context": "For the development of the Valuwe, a cooperation agreement has been drawn up, including the funding for the plan review.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1621.BP0104U10-VAST",
+        "topic": "cooperation agreement",
+        "context": "Cooperation agreements have been concluded with the developers which provide for the cost recovery.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0394.UPGhfdtudorparkh-C001",
+        "topic": "cooperation agreement",
+        "context": "Compared to the cooperation agreement entered into with Ymere in 2009, an impact (allonge) was made in 2012.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0361.BP00166-0305",
+        "topic": "cooperation agreement",
+        "context": "Principles have been developed in a cooperation agreement between the municipality and the housing corporation.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0400.214BPKONSPOOR2019-VST1",
+        "topic": "cooperation agreement",
+        "context": "For the development of the Koningstraat / Spoorstraat, a cooperation agreement was signed on 14 December 2016 between Woningstichting Den Helder and the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1700.201816BPVHMP-vas1",
+        "topic": "cooperation agreement",
+        "context": "In the present case, a cooperation agreement and an anterior agreement are concluded between the initiator and the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1969.BPTB19HERS1-VA01",
+        "topic": "cooperation agreement",
+        "context": "On 16 September 2009, De Zijlen concluded a Cooperation Agreement with the municipality of Leek (now the municipality of Westerkwartier) Redevelopment Sintmaheerdt in which agreements were made on the basis of the socialization of the care with regard to the development of the area of Sintmaheerdt into a new integrated \"ordinary\" residential area of the municipality of Westerkwartier, in which besides the clients of De Zijlen other future residents can settle. With the signing of this cooperation agreement, the municipality has agreed to cooperate in the development desired by the applicant. The cooperation agreement lays down that the costs of making the public space mature are to be borne by De Zijlen and that the municipality is not at financial risk.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1700.201514BPVHPH-vas1",
+        "topic": "cooperation agreement",
+        "context": "For this project, an anterior agreement or cooperation agreement will be concluded so that the cost recovery for the municipality is fully insured.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0394.UPGhfdTudorparkB-C001",
+        "topic": "cooperation agreement",
+        "context": "Compared to the cooperation agreement entered into with Ymere in 2009, an impact (allonge) was made in 2012.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0394.UPGhfdTudorparkC-C001",
+        "topic": "cooperation agreement",
+        "context": "Compared to the cooperation agreement entered into with Ymere in 2009, an impact (allonge) was made in 2012.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0873.OSCAxBP107xMOEDx01-VG01",
+        "topic": "cooperation agreement",
+        "context": "At the end of October 2016, the land with a nature destination was transferred to Natuurmonumenten and a cooperation agreement was signed.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0756.WP15SbkJanslaan-VG01",
+        "topic": "cooperation agreement",
+        "context": "Non-participating parties (such as private individuals) may, at the request of the municipality, voluntarily or by means of project agreements (such as land sales or cooperation agreements) commit to the ambition of the covenant.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1700.202017BPVZPH-vas1",
+        "topic": "cooperation agreement",
+        "context": "In the present case, a cooperation agreement is concluded between the initiator and the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1911.PHWilhelminalaan1-va01",
+        "topic": "cooperation agreement",
+        "context": "The municipality of Hollands Kroon has concluded a cooperation agreement with Bot Bouw Initiative.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1700.201816BPVHMP-ont1",
+        "topic": "cooperation agreement",
+        "context": "In the present case, a cooperation agreement and an anterior agreement are concluded between the initiator and the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0762.BP201604-C001",
+        "topic": "cooperation agreement",
+        "context": "A cooperation agreement has already been concluded with a CPO-collective for the realisation of the houses.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1740.bpDOfructus-vst1",
+        "topic": "cooperation agreement",
+        "context": "To this end, a cooperation agreement has been concluded with the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0824.BPRvRMolenbaan-VA01",
+        "topic": "cooperation agreement",
+        "context": "A cooperation agreement is being drawn up between the Development Company Space for Space CV and the municipality of Oisterwijk for costs and land exploitation.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0889.UPOPPEBRIKUITW1-VA01",
+        "topic": "cooperation agreement",
+        "context": "For the remaining dwellings, a cooperation agreement has been concluded with the contracting company Jongen Venlo b.v.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0484.HRwestvaartpark-VA01",
+        "topic": "cooperation agreement",
+        "context": "A cooperation agreement between the municipalities concerned, the High Council, the province of Zuid-Holland and the Ministry of Infrastructure and the Environment defined eight clusters containing several projects. The 2007 'Transformation Vision Old Rhine Zone' initially led to the signing of a Cooperation Agreement Old Rhine Zone on 27 November 2008.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0599.BP2140ParkZblokST-va01",
+        "topic": "cooperation agreement",
+        "context": "The municipality and Vestia have agreed in the cooperation agreement Tweebosbuurt to build new social housing for part of the current residents of the Tweebosbuurt.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0394.WPGbadlynoostquatr-C001",
+        "topic": "cooperation agreement",
+        "context": "The preparation of an exploitation plan is not an issue because a cooperation agreement has been concluded for the development of the plan area.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1948.OED001BP0022017P-VG01",
+        "topic": "cooperation agreement",
+        "context": "In March 2016, mayor and aldermen set the contributions at \u20ac35,000 (Van de Meulengraaf) and \u20ac31,140 (Van den Oever) and these amounts are also included in the cooperation agreements between the municipality and the initiators.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0228.BPU2019ENKA0001-0301",
+        "topic": "cooperation agreement",
+        "context": "All these principles and further developments are set out in the 'Convenant on Restoration, Conservation and Development of the Enka in Ede' (Grondbank Bennekomseweg Ede, Gemeente Ede and Rijksdienst voor de Monumentenzorg, 2004), the 'Cooperation agreement Grondbank Bennekomseweg CV' (2009), the 'Stedenbouwplan en Beeldkwaliteitvisie' (2009) and the 'Veeldkwaliteitplan Enka' (2013).",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0828.BPdorpshartgff2021-VG01",
+        "topic": "cooperation agreement",
+        "context": "The municipality of Oss has concluded a cooperation agreement with the developer, including a recovery of any plan damage.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0394.UPGhfdTudorparkE-C001",
+        "topic": "cooperation agreement",
+        "context": "Compared to the cooperation agreement entered into with Ymere in 2009, an impact (allonge) was made in 2012.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1883.BPMunnikstraat-VA01",
+        "topic": "cooperation agreement",
+        "context": "Since the municipality itself is the initiator, no operating agreement has been concluded.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0175.buiten2012bp0045-VG01",
+        "topic": "cooperation agreement",
+        "context": "In the present case, a cooperation agreement is concluded between the initiator and the municipality of Ommen.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0394.UPGnwvcentrum2010-C001",
+        "topic": "cooperation agreement",
+        "context": "Compared to the cooperation agreement entered into with Ymere in 2003, an impact (alonge) was made in 2015 for the current second tranche of housing in the centre of Nieuw-Vennep.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0296.Huurlingsedamfase2-VG01",
+        "topic": "cooperation agreement",
+        "context": "In addition, the Co-operation Agreement for Huurlingsedam contains a provision that will examine whether there is a concrete need for life-support housing. A cooperation agreement has been concluded between the municipality and VOF Huurlingsedam.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0056.BPZH15UITB-VA01",
+        "topic": "cooperation agreement",
+        "context": "The municipality established the agreements with Plegt-Vos in a cooperation agreement (November 2010) and additional in an addendum (October 2013).",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1680.ANNTVELD-VG01",
+        "topic": "cooperation agreement",
+        "context": "In the meantime, a cooperation agreement has been signed between initiators and the municipality, in which agreements have been reached on, inter alia, the sewage treatment plan. For this zoning plan, the cost recovery is otherwise insured because a cooperation agreement has been concluded between the initit customer/developer and the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0160.BP00297-VG01",
+        "topic": "cooperation agreement",
+        "context": "The agreements are laid down in the 'Cooperation Agreement on Living and Working Conditions'.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0397.BPreggelaan14-0201",
+        "topic": "cooperation agreement",
+        "context": "This is regulated at project level in the program of requirements / cooperation agreement with the project developer.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0327.170-0401",
+        "topic": "cooperation agreement",
+        "context": "As regards the financial viability of the construction plan, which is made possible by the present zoning plan, the municipality notes that this construction plan is part of the cooperation agreement concluded between the municipality and the developer, Heijmans (right successor of Proper Stok Groep), whereby it has been agreed that Heijmans is responsible for the land exploitation and the acquisition of land from third parties. The cost recovery is thus regulated by the various cooperation agreements concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0396.BPdemaere2019-VA01",
+        "topic": "cooperation agreement",
+        "context": "The construction plans in Beverwijk-Heemskerk are included in the Regional Action Programme living 2016-2020 (RAP), a cooperation agreement between the regions of IJmond, Zuid Kennemerland and the province in which the joint housing agreements are included.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0815.BPL12041HMI-VA01",
+        "topic": "cooperation agreement",
+        "context": "The implementation has been developed in a programme with several sub-plans that runs phase by phase until 2012/2018 and is enshrined in a cooperation agreement between the municipality and two market players.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1930.BPHDLWATERRIJK2-3001",
+        "topic": "cooperation agreement",
+        "context": "In addition to a purchase agreement, a cooperation agreement has been concluded with the initiator on the method of cooperation between the municipality and initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1652.Buitengebied102015-VA01",
+        "topic": "cooperation agreement",
+        "context": "To this end, a cooperation agreement has been concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1700.202005BPDHPH-vas1",
+        "topic": "cooperation agreement",
+        "context": "In the present case, a cooperation agreement and an anterior agreement are concluded between the initiator and the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1652.UWPVVDASDONCK-VA01",
+        "topic": "cooperation agreement",
+        "context": "These parties have concluded a strategic cooperation agreement with each other on the realisation of housing in some locations at the heart of Gemert. This is the 4th location developed under the cooperation agreement. The cooperation agreement states that, on the basis of an urban reconnaissance, at least 55 housing units can be realized in the total area. With the plan, Gemert-Bakel and Goed Wonen implement the cooperation agreement of 6 February 2013, in which agreements were made on land sales to Goed Wonen at 5 locations in Gemert-Bakel and the realisation of a number of housing plans there.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1700.201715BPWHPH-vas1",
+        "topic": "cooperation agreement",
+        "context": "The initiator will also conclude a cooperation agreement with the municipality containing the operating contribution to be paid. In the present case, a cooperation agreement and an anterior agreement are concluded between the initiator and the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1700.201819BPBGPH-vas1",
+        "topic": "cooperation agreement",
+        "context": "In the present case, a cooperation agreement is concluded between the initiator and the municipality of Twenterand.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1901.17PHOudeTolMw-BP80",
+        "topic": "cooperation agreement",
+        "context": "The municipality of Bodegraven-Reeuwijk has concluded a cooperation agreement with the initiators.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0396.BPcoornhert2016-VA01",
+        "topic": "cooperation agreement",
+        "context": "On 30 June 2009, a cooperation agreement was concluded between the municipality of Heemskerk and Woonopmaat.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1700.201721BPVZPH-vas1",
+        "topic": "cooperation agreement",
+        "context": "The initiator will also conclude a cooperation agreement with the municipality containing the operating contribution to be paid. In the present case, a cooperation agreement and an anterior agreement are concluded between the initiator and the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1621.BP0118-VAST",
+        "topic": "cooperation agreement",
+        "context": "In December 2014, the municipality and the developing party agreed on the principles of redevelopment and a cooperation agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0860.VE03ag010000BP2015-VG01",
+        "topic": "cooperation agreement",
+        "context": "For the development of the Scheifelaar II, the municipality has concluded a cooperation agreement with a developing party.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0599.BP2105Paradijshof-va01",
+        "topic": "cooperation agreement",
+        "context": "On 15 March 2005, the Municipality and OCNC signed a cooperation agreement for the implementation of the master plan.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0352.wbdopstap-bva1",
+        "topic": "cooperation agreement",
+        "context": "A cooperation agreement has been concluded with the developer.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1700.201606BPWHPH-vas1",
+        "topic": "cooperation agreement",
+        "context": "The initiator will also conclude a cooperation agreement with the municipality containing the operating contribution to be paid. In the present case, a cooperation agreement and an anterior agreement are concluded between the initiator and the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0664.BPGS03-OH99",
+        "topic": "cooperation agreement",
+        "context": "The Cooperation Agreement will therefore be reviewed.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0489.BPWGO20180021-VI01",
+        "topic": "cooperation agreement",
+        "context": "A cooperation agreement has been concluded between the municipality and Patrimonium, which is also an anterior agreement within the framework of the WRO for reimbursement of costs.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0385.BPTunnelpad-vg01",
+        "topic": "cooperation agreement",
+        "context": "For this purpose, the Empire and the co-governments have made Cooperation Agreements.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0059.BPSv4strland2016-VG01",
+        "topic": "cooperation agreement",
+        "context": "With regard to the present plan, a realisation/cooperation agreement has been concluded in which the developer's contributions to building housing are arranged.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0826.BSPhz6slotjes-VA01",
+        "topic": "cooperation agreement",
+        "context": "In 2008, further arrangements were laid down in a Cooperation Agreement. This resulted in a Cooperation Agreement (SOK) between the municipality of Oosterhout and Thuisvester (formerly Cires), which was concluded in 2008 and completed in 2014. Since 2008 (concluded cooperation agreement (SOK)) has been engaged in the restructuring of the Slotjes Midden district.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0397.BPh1landgoederen-0201",
+        "topic": "cooperation agreement",
+        "context": "This is regulated at project level in the program of requirements / cooperation agreement with the project developer.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0160.0000BP00305-VG01",
+        "topic": "cooperation agreement",
+        "context": "On 26 January 2016, the City Council adopted the Cooperation Agreement \"Main Lines Agreement' and related Main Ground Operation. The Co-operation Agreement Phase 1 and the Circle, Marsheight and Havezate Es sub-operations were also adopted, including the 5th budget amendment 2016.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0352.wbddirkfock-uva1",
+        "topic": "cooperation agreement",
+        "context": "A cooperation agreement has been concluded with the developer.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0664.BPGZ27-ON99",
+        "topic": "cooperation agreement",
+        "context": "The cooperation agreement stipulates that the principles of the 'Political brand Safe Living New Building' are to be applied.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1700.201716BPVZPH-vas1",
+        "topic": "cooperation agreement",
+        "context": "The initiator will also conclude a cooperation agreement with the municipality containing the operating contribution to be paid. In the present case, a cooperation agreement and an anterior agreement are concluded between the initiator and the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1742.BPRW2020007-0401",
+        "topic": "cooperation agreement",
+        "context": "In the present case, a cooperation agreement is concluded between the initiator and the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0394.UPGhfdTudorparkG-C001",
+        "topic": "cooperation agreement",
+        "context": "Compared to the cooperation agreement entered into with Ymere in 2009, an impact (allonge) was made in 2012.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0394.UPGhfdTudorparkF-C001",
+        "topic": "cooperation agreement",
+        "context": "Compared to the cooperation agreement entered into with Ymere in 2009, an impact (allonge) was made in 2012.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0394.UPGhfdtudorparki-C001",
+        "topic": "cooperation agreement",
+        "context": "Compared to the cooperation agreement entered into with Ymere in 2009, an impact (allonge) was made in 2012.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1742.BPRW2017003-0401",
+        "topic": "cooperation agreement",
+        "context": "In the present case, a cooperation agreement and an anterior agreement are concluded between the initiator and the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1700.201801BPVZPH-vas1",
+        "topic": "cooperation agreement",
+        "context": "They will also conclude a cooperation agreement with the municipality containing any operating contribution to be paid. In the present case, a cooperation agreement and an anterior agreement are concluded between initiators and the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1700.201915BPBGPH-vas1",
+        "topic": "cooperation agreement",
+        "context": "In the present case, a cooperation agreement is concluded between the initiator and the municipality of Twenterand.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1948.EER000BP0012017P-VG01",
+        "topic": "cooperation agreement",
+        "context": "Agreements on the conditions under which the plan review should be drawn up are laid down in a cooperation agreement between the initiator and the municipality of Veghel.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0228.BP2019ENKA0002-0301",
+        "topic": "cooperation agreement",
+        "context": "In the 2009 cooperation agreement a compensation has been agreed with the initiator for any damage claimed under the said article from the Wro. In 2009, a cooperation agreement was concluded with the Landbank, covering inter alia the cost recovery and the aspect of planning damage.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0867.BPWWFlorisVlaan09-VA01",
+        "topic": "cooperation agreement",
+        "context": "The municipality of Waalwijk concluded a purchase and operation agreement with the initiator on 1 November 2018, which includes the cost recovery.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1979.57BP-VG01",
+        "topic": "cooperation agreement",
+        "context": "In this case, a cooperation agreement between initiator and former municipality of Delfzijl, now Eemsdelta, will be concluded. As a result, no operating plan is required and the cost of land exploitation is covered by the cooperation agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0531.bp06VolgerlOstPH01-3001",
+        "topic": "cooperation agreement",
+        "context": "The cooperation between Hendrik-Ido-Ambacht and Zwijndrecht is laid down in a cooperation agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0394.BPGhfdtudpeo1eherz-C001",
+        "topic": "cooperation agreement",
+        "context": "Compared to the cooperation agreement entered into with Ymere in 2009, an impact (allonge) was made in 2012.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0396.BPdevelst2018-VA01",
+        "topic": "cooperation agreement",
+        "context": "The construction plans in Beverwijk-Heemskerk are included in the Regional Action Programme living 2016-2020 (RAP), a cooperation agreement between the regions of IJmond, Zuid Kennemerland and the province in which the joint housing agreements are included.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0928.BPKerkradeWestII-Vg01",
+        "topic": "cooperation agreement",
+        "context": "The municipality and the developing party of the Grachterheide project signed a new cooperation agreement in 2016. This cooperation agreement also provides for an amending power.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0756.BP14KomplanRvt-VG01",
+        "topic": "cooperation agreement",
+        "context": "Non-participating parties (such as private individuals) may, at the request of the municipality, voluntarily or by means of project agreements (such as land sales or cooperation agreements) commit to the ambition of the covenant.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0416.BPNSZS2013herz001-va01",
+        "topic": "cooperation agreement",
+        "context": "The modification plan fits within the municipal spatial policy, as reflected in the North and South Scharwoude zoning plan, in the Image Quality Plan and in the concept of the \"Operation Agreement'.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0296.Huurlingsedamfase3-VG01",
+        "topic": "cooperation agreement",
+        "context": "A cooperation agreement has been concluded between the municipality and VOF Huurlingsedam.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0420.BPKTripkouwOostII-VA01",
+        "topic": "cooperation agreement",
+        "context": "A cooperation agreement has been concluded with the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0840.9000B0012-DEF1",
+        "topic": "cooperation agreement",
+        "context": "In the meantime, a cooperation agreement has been drawn up between the development company Space for Space II CV and the municipality of Rucphen for costs and land exploitation.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1771.DeWeverij-BVA1",
+        "topic": "cooperation agreement",
+        "context": "To this end, a cooperation agreement has been concluded with the municipality. The municipality of Geldrop-Mierlo signed a cooperation agreement with the owner and initiator on 31 March 2015. Before the zoning plan is adopted, the cooperation agreement will be converted into an anterior agreement, which will otherwise ensure the cost recovery.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0845.BP2017BGSMG00M100-VA01",
+        "topic": "cooperation agreement",
+        "context": "The parties concerned, the estate de Wamberg, the province of Noord-Brabant, the municipality of 's-Hertogenbosch, Rijkswaterstaat, Waterschap Aa en Maas and the municipality of Sint-Michielsgestel have concluded a cooperation agreement in which agreements have been made on the diversion of the Zuid-Willemsvaart and the dynamic stream valley.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1700.201409BPVZPH-vas1",
+        "topic": "cooperation agreement",
+        "context": "In principle, the initiator is also prepared to conclude a cooperation agreement with the municipality containing the operating contribution to be paid. In the present case, a cooperation agreement is concluded between the initiator and the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1930.BPHDLWATERRIJK4EN5-3001",
+        "topic": "cooperation agreement",
+        "context": "In addition to a purchase agreement, a cooperation agreement has been concluded with the initiator on the method of cooperation between the municipality and initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1883.BPAnemoonstraat-VA01",
+        "topic": "cooperation agreement",
+        "context": "Decision-making on the Cooperation Agreement took place on the following dates in 2011:",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0489.BPWGO20150027-VI01",
+        "topic": "cooperation agreement",
+        "context": "This has led to an agreement which has been ratified by a cooperation agreement in this case. This resulted in an agreement, which was ratified by a cooperation agreement or anterior agreement on 23 June 2015.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1652.BPAttendoren-VA01",
+        "topic": "cooperation agreement",
+        "context": "These parties have concluded a strategic cooperation agreement with each other on the realisation of housing in some locations at the heart of Gemert. This is the 5th location developed under the cooperation agreement. In the cooperation agreement (SOK) between initiator Goed Wonen and the municipality, agreements were made on the parking standard to be used. In doing so, the plan complies with the standard as agreed in the Cooperation Agreement. With the plan, Gemert-Bakel and Goed Wonen implement the cooperation agreement of 6 February 2013, in which agreements were made on land sales to Goed Wonen at 5 locations in Gemert-Bakel and the realisation of a number of housing plans there. The cooperation agreement stipulates that the municipality of Gemert-Bakel will bear the risks and financial charges arising from any planning claims by third parties.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0327.171-0401",
+        "topic": "cooperation agreement",
+        "context": "As regards the financial viability of the construction plan, which is made possible by the present zoning plan, the municipality notes that this construction plan is part of the cooperation agreement concluded between the municipality and the developer, Heijmans (right successor of Proper Stok Groep), whereby it has been agreed that Heijmans is responsible for the land exploitation and the acquisition of land from third parties.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0158.BP1176-0002",
+        "topic": "cooperation agreement",
+        "context": "In the present case, there are no costs to be recovered, so no operating agreement has been concluded.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0317.E029UWPZpolderWB5-Va01",
+        "topic": "cooperation agreement",
+        "context": "To this end, a cooperation agreement was signed on 22 August 2013 as an anterior agreement under the Wro. By setting out all the arrangements in the cooperation agreement, which ensure the cost recovery, it is therefore not necessary to establish an operating plan.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1621.BP0104U09-VAST",
+        "topic": "cooperation agreement",
+        "context": "Cooperation agreements have been concluded with the developers which provide for the cost recovery.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1700.201726BPWHPH-vas1",
+        "topic": "cooperation agreement",
+        "context": "The initiator will also conclude a cooperation agreement with the municipality containing the operating contribution to be paid. In the present case, a cooperation agreement and an anterior agreement are concluded between the initiator and the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0620.bp0033-VG01",
+        "topic": "cooperation agreement",
+        "context": "For the Zorglandgoed Bloemendaal, a cooperation agreement has recently been concluded with the parent initiative 'De Iris' (living with guidance for young people with learning difficulties), and with De Inbergier5.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1930.BPHDLWATERRIJK3-3001",
+        "topic": "cooperation agreement",
+        "context": "In addition to a purchase agreement, a cooperation agreement has been concluded with the initiator on the method of cooperation between the municipality and initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0301.bp0219Veld15tm17-vs01",
+        "topic": "cooperation agreement",
+        "context": "At the beginning of 2011, the municipality concluded a cooperation agreement with the developer under the current zoning plan 'Noorderhaven'. After 2011, additional agreements have been made at various times and have been signed in the Allonge on the Noorderhaven cooperation agreement of 2019.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0262.eeDetmerskazerne-BP41",
+        "topic": "cooperation agreement",
+        "context": "A cooperation agreement has been concluded between the three parties in the PPP.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0420.BPKSEWNIB-VA01",
+        "topic": "cooperation agreement",
+        "context": "In view of the above, no operating agreement or plan damages agreement has been concluded (yet) with a developing party.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0263.BP1155-VG01",
+        "topic": "cooperation agreement",
+        "context": "In order, among other things, to reduce this imbalance, there is an amendment which stipulates that no cooperation agreement will be drawn up for the Hond-nestraat project in Hedel.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0317.E029UWPZpolderWB4-Va01",
+        "topic": "cooperation agreement",
+        "context": "To this end, a cooperation agreement was signed on 22 August 2013 as an anterior agreement under the Wro. By setting out all the arrangements in the cooperation agreement, which ensure the cost recovery, it is therefore not necessary to establish an operating plan.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1700.202032BPBGWP-vas1",
+        "topic": "cooperation agreement",
+        "context": "In the present case, a cooperation agreement and an anterior agreement are concluded between the initiator and the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0664.BPGZ27-VG99",
+        "topic": "cooperation agreement",
+        "context": "The cooperation agreement stipulates that the principles of the 'Political brand Safe Living New Building' are to be applied.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0269.WZ120-VG01",
+        "topic": "cooperation agreement",
+        "context": "In the present case, a cooperation agreement and an anterior agreement are concluded between the initiator and the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1948.VHL002BP0022017P-VG01",
+        "topic": "cooperation agreement",
+        "context": "The 'building' aspect is dressed up for the planning area in accordance with the cooperation agreement concluded between initiator and municipality. There are agreements in the cooperation agreement on parking spaces for the church (parish house). In accordance with the cooperation agreement concluded between initiator and municipality, the houses will comply with the (social) safety requirements set out in the Building Decision. As indicated in Section 14.1, a flexible design of the destination was chosen on the basis of the principles and framework conditions that follow from the established urban plan and the anterior agreement (cooperation agreement) concluded with the initiator. In view of the ownership relationships, the cooperation agreement and the damage compensation agreement, economic viability is ensured and therefore the College of Mayors and aldermen may waive the establishment of an operating plan within the meaning of Article 6.12, second paragraph of Wro.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0753.bpBroekstraat11-VG01",
+        "topic": "cooperation agreement",
+        "context": "An anterior/operation agreement has been concluded with the initiator.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0935.BPA2Traverse-gc01",
+        "topic": "cooperation agreement",
+        "context": "This cooperation agreement lays down all project elements, rights, obligations and risks for the realisation of the project A2 Passage Maastricht. The components of this zoning plan were part of the cooperation agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1700.201610BPBGPH-vas1",
+        "topic": "cooperation agreement",
+        "context": "In the present case, a cooperation agreement is concluded between the initiator and the municipality of Twenterand.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0748.WP200a-0301",
+        "topic": "cooperation agreement",
+        "context": "The financial feasibility has been agreed in the cooperation agreement entered into by the parties.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0228.BP2016ENKA0002-0301",
+        "topic": "cooperation agreement",
+        "context": "The municipality of Ede and Grondbank Bennekomseweg CV have concluded a cooperation agreement for the redevelopment. The cooperation agreement provides for the collection of costs for the municipality, consisting of contributions for infrastructure facilities in the planning area, suburb facilities and municipal planning costs.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0531.bp06VolgerlOstUP03-3001",
+        "topic": "cooperation agreement",
+        "context": "The cooperation between Hendrik-Ido-Ambacht and Zwijndrecht is laid down in a cooperation agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0228.BPU2017ENKA0001-0301",
+        "topic": "cooperation agreement",
+        "context": "The municipality of Ede and Grondbank Bennekomseweg CV have concluded a cooperation agreement for the redevelopment. The cooperation agreement provides for the collection of costs for the municipality, consisting of contributions for infrastructure facilities in the planning area, suburb facilities and municipal planning costs.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0394.UPGhfdTudorparkA-C001",
+        "topic": "cooperation agreement",
+        "context": "Compared to the cooperation agreement entered into with Ymere in 2009, an impact (allonge) was made in 2012.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1742.WPHW2020001-0401",
+        "topic": "cooperation agreement",
+        "context": "In the past, the municipality has concluded a cooperation agreement with Rotij Plandevelopment for the development and realization of De Liesen.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0010.50BP-VG01",
+        "topic": "cooperation agreement",
+        "context": "In addition to the DAL\\ municipalities (Delfzijl, Appingedam and Loppersum), a total of 27 municipalities, 2 water boards and 2 water companies participate in the cooperation agreement Groningen and Noord\\-Drenthe.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0014.BP564Polaris-vg01",
+        "topic": "cooperation agreement",
+        "context": "The costs to be incurred are covered by the fee and by cost recovery on the basis of an operation\\ agreement with Lefier.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1916.Buitenvoorde-VG01",
+        "topic": "cooperation agreement",
+        "context": "The three measures mentioned above shall be laid down, where possible, in intent or cooperation agreements with other developing parties.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0193.BP16007-0004",
+        "topic": "cooperation agreement",
+        "context": "The municipalities and the province signed the cooperation agreement on 27 January 2016.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0855.BSP2020014-e001",
+        "topic": "cooperation agreement",
+        "context": "It is important that the plans of TTS1 and TTS2 are seen as 1 development location, there is also 1 cooperation agreement between the developer and the municipality. The plans of TTS1 and TTS2 are seen as 1, there is also 1 cooperation agreement between the developer and the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0879.BPPrinsenstraat2-VS01",
+        "topic": "cooperation agreement",
+        "context": "The municipality has concluded an agreement with the developing party in addition to the cooperation agreement, in which further agreements have been made on the construction of the compensation zone. In order to implement Article 3 (3) of the Regulation, the municipality and developer have agreed in a cooperation agreement that the latter will physically invest 1% of the land issue price in the compensation zone.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0622.0295wp01Vopo2010-0030",
+        "topic": "cooperation agreement",
+        "context": "In order to make this development economically feasible, a cooperation agreement was signed on 30 April 2018.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0345.PHDeEilandB-vg01",
+        "topic": "cooperation agreement",
+        "context": "For Veenendaal\\-Oost, a Cooperation Agreement was concluded in 2003 between the municipality and a number of private parties.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0457.BP0400BL-vg01",
+        "topic": "cooperation agreement",
+        "context": "The agreements in the Cooperation Agreement (SUOK) form the basis for this. The Empire has signed, as one of the parties involved, for reasons of, among other things, state-owned positions, the position vis-\u00e0-vis national networks (rich road, rail, electricity lines) and the necessary adaptation of state policy on the ground, the Cooperation Agreement and the Implementing Agreement.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0268.BP26500-VG01",
+        "topic": "cooperation agreement",
+        "context": "The waterboard has therefore concluded a cooperation agreement with the municipality of Nijmegen.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1955.bpsgddmwonbloembrt-va01",
+        "topic": "cooperation agreement",
+        "context": "To this end, the Parties have concluded a cooperation agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0345.UPDeStratenDp7-vg01",
+        "topic": "cooperation agreement",
+        "context": "For Veenendaal\\-Oost, a Cooperation Agreement was concluded in 2003 between the municipality and a number of private parties.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0232.EPE031Klaarbeekww-VBP1",
+        "topic": "cooperation agreement",
+        "context": "For the initiative \"Klaarbeek', an additional agreement was entered into in September 2018 \\- on the basis of the cooperation agreement already entered into in January 2014 for the Klaarbeek plan area.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0267.BP0110-0002",
+        "topic": "cooperation agreement",
+        "context": "The realisation of the housing assignments is recorded in (cooperation) agreements.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0611.BPVlielanderstraat-VA02",
+        "topic": "cooperation agreement",
+        "context": "On 27 June 2016, a cooperation agreement was concluded between the municipality of Cromstrijen, Bolton Development and Bouhuisen group.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0193.BP17002-0004",
+        "topic": "cooperation agreement",
+        "context": "On 27 January 2016, the municipalities and the province signed a cooperation agreement covering residential regions and further agreements on housing numbers and alignment with the region. In the cooperation agreement, the province and municipalities in West Overijssel have included that, in order to ensure economical and careful use of space and regional support and coordination for the ladder of sustainable urbanization municipalities and provinces make agreements on programming.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0518.BP0338AMadeVroon3h-51VA",
+        "topic": "cooperation agreement",
+        "context": "The municipality of The Hague and the development combination Madestein VOF (consisting of Building Fund Development and Synchroon) signed a cooperation agreement in December 2008 for the development of the project Vroondaal. Within the zoning area of the mother plan are landowners who are not covered by the cooperation agreement and with whom the municipality of The Hague has not yet concluded an agreement. In view of the cooperation agreement between GEM Vroondaal and the Municipality of The Hague with regard to the entire development of Vroondaal, the cost recovery is otherwise ensured.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1783.MONOTTERSCHELPpbp-VA01",
+        "topic": "cooperation agreement",
+        "context": "The Duingeest Otterscheel zoning plan is a development plan in which cost stories are otherwise ensured through a cooperation agreement/anterior agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0193.BP14009-0004",
+        "topic": "cooperation agreement",
+        "context": "The municipalities and the province signed the cooperation agreement on 27 January 2016.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0356.BPWBI2021HER001-VA02",
+        "topic": "cooperation agreement",
+        "context": "As with the zoning plan for the city centre, we assume that the municipality of Nieuwegein will draw up the modification plan in accordance with the agreements under the cooperation agreement, the final design of the traminfra and the design for the bus station.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0344.BPEUROPAWEGMAXIMAP-VA01",
+        "topic": "cooperation agreement",
+        "context": "For the purpose of drawing up this plan, a purchase and cooperation agreement has been drawn up between the initiator of this plan and the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1916.noortheylaan1b-VG01",
+        "topic": "cooperation agreement",
+        "context": "The three measures mentioned above shall be laid down, where possible, in intent or cooperation agreements with other developing parties.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1722.20151369-VA01",
+        "topic": "cooperation agreement",
+        "context": "Between the municipality of Ferwerderadiel and construction company Bloemsma a formal act of creation and a cooperation agreement have been drawn up.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0267.BP0155-0002",
+        "topic": "cooperation agreement",
+        "context": "The realisation of the housing assignments is recorded in (cooperation) agreements.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0638.BP00020-VAS2",
+        "topic": "cooperation agreement",
+        "context": "In the case of the present zoning plan, no operating plan shall be established because the municipality and the developer have a cooperation/operation agreement (before the zoning plan is established) within the meaning of Article 6\\.24",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0627.Triangeltb42-0401",
+        "topic": "cooperation agreement",
+        "context": "Agreements on this are laid down in a cooperation agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0158.BP1131-0002",
+        "topic": "cooperation agreement",
+        "context": "The administrative agreement Twente has been concluded with the Twente municipalities and the cooperation agreement West\\-Overijssel is used in West\\-Overijssel.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0513.1109BPWestergouwe3-DF01",
+        "topic": "cooperation agreement",
+        "context": "For Westergouwe a cooperation agreement has been concluded between the municipality and the combination Volker Wessels/Heijmans.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0193.BP16017-0004",
+        "topic": "cooperation agreement",
+        "context": "On 27 January 2016, the municipalities and the province signed a cooperation agreement covering residential regions and further agreements on housing numbers and alignment with the region. In the cooperation agreement, the province and municipalities in West Overijssel have included that, in order to ensure economical and careful use of space and regional support and coordination for the ladder of sustainable urbanization municipalities and provinces make agreements on programming.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0150.P359-VG01",
+        "topic": "cooperation agreement",
+        "context": "In the Cooperation Agreement on Housing Agreements, municipalities in West\\-Overijssel and Overijssel provinces agree among others: Moreover, in a qualitative sense, the Geertruidentuin also falls within the policy objectives of the 2016 Cooperation Agreement on Housing.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1708.STWPHeinenVSpeykst-VA01",
+        "topic": "cooperation agreement",
+        "context": "These agreements are included in the Cooperation Agreement on Housing Agreements. The cooperation agreement covers five issues: housing agreements between the municipalities of West\\-Overijssel and the province.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0518.BP0296BWatVldNoord-50VA",
+        "topic": "cooperation agreement",
+        "context": "On 22 December 1995, the municipality of The Hague and Bouwfonds Woningbouw BV closed the Cooperation Agreement Wateringse Veld. With this Co-operation Agreement, the cost recovery is otherwise assured:",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0307.BP00140-0301",
+        "topic": "cooperation agreement",
+        "context": "For the implementation of the Vathorst zoning plan, the municipality of Amersfoort has entered into a cooperation agreement with the development company Vathorst.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0874.ANDLBP201701-VG01",
+        "topic": "cooperation agreement",
+        "context": "About the other \u20ac95\\.298,98 municipalities and developers have made agreements in a cooperation agreement. A cooperation agreement between the municipality and the developer establishes the quality contribution to be paid by the developer.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0230.UP1PHVOSSENAKKER-VST1",
+        "topic": "cooperation agreement",
+        "context": "In this case, the establishment of an operating plan is not necessary because the cost recovery is otherwise ensured through a cooperation agreement concluded with a developer.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0406.BPKEUCHHOF2017-VG01",
+        "topic": "cooperation agreement",
+        "context": "After the plans for the expansion of the main shopping centre (e.g. shops, homes) under the Cooperation Agreement (SOK) concluded with the parties were not feasible and the SOK was terminated, a participation process was launched in mid-2015 to establish a sound framework for the development of the area around the Keuchenius street.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0344.BPCENTRUMDEELGEB45-VA01",
+        "topic": "cooperation agreement",
+        "context": "In the present case, the cooperation agreement concluded already in 2006 between the municipality of Utrecht, the Portaal Foundation, the Mitros Foundation and Proper\\-Stok Group B.V. \"Relationship Renovation Plan",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0531.bp27RietlaanOost-3001",
+        "topic": "cooperation agreement",
+        "context": "The cooperation between Hendrik\\-Ido\\-Ambacht and Zwijndrecht is laid down in a cooperation agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0344.BP2EDAALSEWISSELSP-VA01",
+        "topic": "cooperation agreement",
+        "context": "In this case, the cost recovery is ensured by an anterior/operation agreement between the municipality and initiator, so that the preparation of an operating plan is not necessary.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0546.BP00138-0301",
+        "topic": "cooperation agreement",
+        "context": "Together with the province of Zuid\\-Holland, Leiden University and the municipalities of Oegstgeest, Rijnsburg, Valkenburg and Voorhout, the municipality of Leiden drew up a strategic master plan and a cooperation agreement for this area in 2007. In collaboration with neighbouring municipalities, province and university, a strategic masterplan and cooperation agreement was adopted in 2007 for the planning area 'Knoop Leiden West'. The division into three categories follows from the cooperation agreement concluded between Leiden University and the municipality of Leiden.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1652.BPDoonheideII-VA01",
+        "topic": "cooperation agreement",
+        "context": "This residential vision serves as a basis for agreements with Goed Wonen (performance agreements) and developers (operation agreements).",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0274.bp0204ob-va02",
+        "topic": "cooperation agreement",
+        "context": "To settle this, a cooperation agreement has been concluded with the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0153.BP00171-0003",
+        "topic": "cooperation agreement",
+        "context": "In view of the above under the operation agreement, it can be argued that the cost recovery is sufficiently assured and the economic viability of the present modification plan has been sufficiently demonstrated.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0267.BP0115-0002",
+        "topic": "cooperation agreement",
+        "context": "The realisation of the housing assignments is recorded in (cooperation) agreements.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0599.BP1065BoezbVeilter-va02",
+        "topic": "cooperation agreement",
+        "context": "Opinions and recommendations have been taken over as far as possible and secured in the zoning plan and/or the Cooperation Agreement with the market participants. The Cooperation Agreement concluded between the municipality of Rotterdam and the developer stipulates that the sustainability objectives, which are included in the area vision, such as climate-adaptive and water-robust building, will be achieved in the implementation of the plan. The Cooperation Agreement concluded between the municipality of Rotterdam and the developer stipulates that the above-mentioned sustainability objectives, which are included in the area vision, will be achieved in the implementation of the plan.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0345.Stuivenbergheem-vg01",
+        "topic": "cooperation agreement",
+        "context": "For Veenendaal\\-Oost, a Cooperation Agreement was concluded in 2003 between the municipality and a number of private parties.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0150.P331-VG01",
+        "topic": "cooperation agreement",
+        "context": "The Deventer housing programme is included in the 'Cooperation agreement on housing agreements'.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1952.bphgzstadsdeel1-va01",
+        "topic": "cooperation agreement",
+        "context": "In a cooperation agreement with Geveke Bouw BV, the municipality has otherwise insured the cost recovery. The Cooperation Agreement was signed by both Parties on 20 December 2017. The cooperation agreement is based on a final land exploitation.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0307.BP00129-0301",
+        "topic": "cooperation agreement",
+        "context": "The cooperation agreements ('self-management contracts') concluded include rules of the game.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0399.Noordergeestkerk-0401",
+        "topic": "cooperation agreement",
+        "context": "From the market*Kennemer Wonen has conducted a (internal) feasibility study with the result that the project is feasible under the financial principles as agreed with the municipality and included in the Anterieure agreement or cooperation agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0627.Uptriangelplan4-0401",
+        "topic": "cooperation agreement",
+        "context": "Agreements on this are laid down in a cooperation agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0164.BPU0030a-0301",
+        "topic": "cooperation agreement",
+        "context": "Following this, the Parties concluded the Berflo Es Cooperation Agreement (SOK Berflo Es) in 2005.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0317.EBPZuidpolder2herz-Va01",
+        "topic": "cooperation agreement",
+        "context": "To this end, a cooperation agreement was signed on 22 August 2013 as an anterior agreement under the Wro. The fact that all the arrangements have been made in the cooperation agreement , ensuring the cost recovery , does not mean that an operating plan is needed.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1783.LIEKERNWILGNBRT-VA02",
+        "topic": "cooperation agreement",
+        "context": "The main principles of the cooperation agreement (SOK) which are spatially relevant to the Liermolen and Molensloot plan are set out below:",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0627.UPTriangelplan6-0401",
+        "topic": "cooperation agreement",
+        "context": "For this development, a joint land exploitation was established in accordance with the March 2010 cooperation agreement between the municipality of Waddinxveen and BPD.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0340.HeetenGrootveldln-vg01",
+        "topic": "cooperation agreement",
+        "context": "For the small part located within the commune of Rhenen, no operating agreement is entered into.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1783.OWZDEGOUWf2en3Aobp-VA01",
+        "topic": "cooperation agreement",
+        "context": "A revised cooperation agreement has been established between the municipality and Bouwfonds (BPD).",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0301.bp0220NHVeld21B-vs01",
+        "topic": "cooperation agreement",
+        "context": "In early 2011, under the current Northerhaven zoning plan, the municipality established a cooperation agreement with the developer with a land exploitation.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1659.BPBDdehogeregtherz-VG01",
+        "topic": "cooperation agreement",
+        "context": "A cooperation agreement has been concluded between the municipality and De Hoge Regt B.V. for the development of the residential area De Hoge Regt.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0193.BP14008-0004",
+        "topic": "cooperation agreement",
+        "context": "On 27 January 2016, the municipalities and the province signed a cooperation agreement covering residential regions and further agreements on housing numbers and alignment with the region.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0345.UPEilandI-oh01",
+        "topic": "cooperation agreement",
+        "context": "In the note 'Interprovincial Structure Vision Ede\\-Veenendaal' (ISEV; August 1994\\) and a cooperation agreement concluded in 2007 it was agreed to create a nature development zone. For Veenendaal\\-oost, a Cooperation Agreement was concluded in 2003 between the municipality and a number of private parties.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1690.BP00376-0401",
+        "topic": "cooperation agreement",
+        "context": "For the development of this site, a cooperation agreement was concluded with the municipality of De Wolden on 23 April 2014.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0307.BP00120-0301",
+        "topic": "cooperation agreement",
+        "context": "For the implementation of the Vathorst zoning plan, the municipality of Amersfoort has entered into a cooperation agreement with the development company Vathorst.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0153.BP00168-0003",
+        "topic": "cooperation agreement",
+        "context": "In view of the above under the Operation Agreement, it can be argued that the cost recovery is sufficiently otherwise assured and the economic viability of the present zoning plan has been sufficiently demonstrated.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0451.HZVINCKEBRT01-VG01",
+        "topic": "cooperation agreement",
+        "context": "These have been developed in a cooperation agreement and an operating agreement.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1783.abp00000010w01-VA01",
+        "topic": "cooperation agreement",
+        "context": "The following text is also included with the developer's anterior ground operation agreement:",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1930.BPDeHaven2019-3001",
+        "topic": "cooperation agreement",
+        "context": "The Haven\\-Zuid area is developed through a cooperation agreement with three project developers and the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0917.BP030505W000005-0401",
+        "topic": "cooperation agreement",
+        "context": "A cooperation agreement has been concluded between the municipality and the owner of the other land in the planning area (also developing party). As of March 2020, a cooperation agreement between the municipality and the owner of the other land has been established and the underlying documents that form the basis for this zoning plan 'Schinkelquadrant\\-Zuid 2020' have been prepared.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0503.BP0067-2001",
+        "topic": "cooperation agreement",
+        "context": "Realisation in this area is laid down in the cooperation agreement signed by the hospital and the municipality at the end of 2010.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0518.BP0297AMadeVroon1h-50VA",
+        "topic": "cooperation agreement",
+        "context": "The municipality of The Hague and the development combination Madestein VOF (consisting of Building Fund Development and Synchroon) signed a cooperation agreement in December 2008 for the development of the project Vroondaal. Within the zoning area of the mother plan are landowners who are not covered by the cooperation agreement and with whom the municipality of The Hague has not yet concluded an agreement.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0715.BPTNZOTH01-VG01",
+        "topic": "cooperation agreement",
+        "context": "A basic operating agreement was concluded in 2005 between the municipality of Terneuzen and AM Zeeland B.V. for the realisation of the zoning plan \"Othene Zuid'. In order to develop further, it will always be necessary to enter into sub-operation agreements.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1509.BP000152-VA01",
+        "topic": "cooperation agreement",
+        "context": "The new building of the residential care centre MMP is made financially possible by a cooperation agreement between the initiators.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0855.BSP2016021-e001",
+        "topic": "cooperation agreement",
+        "context": "A cooperation agreement between the municipality and the initiator was concluded on 21 June 2004.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0267.BP0159-0002",
+        "topic": "cooperation agreement",
+        "context": "The realisation of the housing assignments is recorded in (cooperation) agreements.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0532.UWPwaterweide-VG01",
+        "topic": "cooperation agreement",
+        "context": "The cooperation agreement between BPD and Sunday states that BPD and Sunday take over the land and storage operations for shared account and risk.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0274.bp0200rh-va02",
+        "topic": "cooperation agreement",
+        "context": "To settle this, a cooperation agreement has been concluded with the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1771.BpTwekaterrein-BVA1",
+        "topic": "cooperation agreement",
+        "context": "To this end, a cooperation agreement has been concluded with the municipality. The municipality of Geldrop\\-Mierlo has concluded a cooperation agreement with the owner of the land and an anterior agreement with the developer.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0274.bp0203wh-va02",
+        "topic": "cooperation agreement",
+        "context": "To settle this, a cooperation agreement has been concluded with the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0879.BPPrinsenstraatF3-VS01",
+        "topic": "cooperation agreement",
+        "context": "The municipality has concluded an agreement with the developing party in addition to the cooperation agreement, in which further agreements have been made on the construction of the scenic zone. In order to implement Article 3 (3) of the Regulation, the municipality and developer have agreed in a cooperation agreement that the latter will physically invest 1% of the land issue price in the landscape area.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0056.BPZH17UITB1-VA01",
+        "topic": "cooperation agreement",
+        "context": "The municipality laid down the agreements with Plegt\\-Vos in a cooperation agreement (November 2010\\) and additional in an addendum (October 2013\\).",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0345.Buurtstede-vg01",
+        "topic": "cooperation agreement",
+        "context": "New developments at cross-plot level will only be taken into account in updating zoning plans, such as this plan, when all relevant investigations have been carried out, mayor and aldermen can agree to the development and an (operation) agreement has been signed with the municipality. For Veenendaal\\-Oost, a Cooperation Agreement was concluded in 2003 between the municipality and a number of private parties.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0575.BPBGZEESTRAAT50-VA01",
+        "topic": "cooperation agreement",
+        "context": "The initiator has concluded a cooperation agreement with the GOM, Greenpoort Development Company.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1699.2016BP051-vg01",
+        "topic": "cooperation agreement",
+        "context": "On 28 September 2016, Woonborg signed the 'cooperation agreement expedition energy-neutral living Drenthe'.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1708.STWBloemenbuurtBP-VA01",
+        "topic": "cooperation agreement",
+        "context": "In addition, the various regional municipalities and the province of Overijssel have made joint agreements in the Cooperation Agreement on housing agreements. The Cooperation Agreement provides the framework for the addition of housing.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1783.OWZDEGOUWf1f3cobp-VA01",
+        "topic": "cooperation agreement",
+        "context": "A cooperation agreement has been established between the municipality and Bouwfonds.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0385.bpBtJulianawegEO-vg02",
+        "topic": "cooperation agreement",
+        "context": "In December 2002, the plan was adopted administratively and endorsed by a cooperation agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0307.BP00103-0301",
+        "topic": "cooperation agreement",
+        "context": "New developments at cross-plot level are only taken into account in revisions of land use plans, such as this plan, when all relevant studies have been carried out, mayor and aldermen can agree to the development and an (operation) agreement has been signed with the municipality.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0345.Veenderij-vg01",
+        "topic": "cooperation agreement",
+        "context": "Other new developments at cross-plot level will only be taken into account in updating zoning plans, such as this plan, when all relevant investigations have been carried out, mayor and aldermen can agree to the development and an (operation) agreement has been signed with the municipality. For Veenendaal\\-oost, a Cooperation Agreement was concluded in 2003 between the municipality and a number of private parties.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1598.BPKdeBurghherz01-va01",
+        "topic": "cooperation agreement",
+        "context": "These have been worked out in a cooperation agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0150.U005-VG01",
+        "topic": "cooperation agreement",
+        "context": "In the Cooperation Agreement on Housing Agreements, municipalities in West\\-Overijssel and Overijssel provinces agree among others:",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1783.LIEKERNLIERMOLNobp-VA01",
+        "topic": "cooperation agreement",
+        "context": "The main principles of the cooperation agreement (SOK) which are spatially relevant to the Liermolen and Molensloot plan are set out below:",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0845.UP2015SMGCENTRP107-VA01",
+        "topic": "cooperation agreement",
+        "context": "Between Winde BV, Zorggroep Elde/Elde Wonen BV and the municipality of Sint\\-Michielsgestel, the 'Cooperation Agreement Binnengebied, also containing an anterior agreement within the meaning of Section 6\\.4 of the Regional Planning Act', was concluded for the redevelopment of the Binnengebied in Sint\\-Michielsgestel.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1930.UPHavenVeerweg-3001",
+        "topic": "cooperation agreement",
+        "context": "The Haven\\-Zuid area is developed through a cooperation agreement with three project developers and the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0345.UPDeEilandenDp3-vg01",
+        "topic": "cooperation agreement",
+        "context": "In the note 'Interprovincial Structure Vision Ede\\-Veenendaal' (ISEV; August 1994\\) and a cooperation agreement concluded in 2007 it was agreed to create a nature development zone. For Veenendaal\\-oost, a Cooperation Agreement was concluded in 2003 between the municipality and a number of private parties.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0153.BP00228-0003",
+        "topic": "cooperation agreement",
+        "context": "In view of the above under the Operation Agreement, it can be argued that the cost recovery is sufficiently otherwise assured and the economic viability of the present zoning plan has been sufficiently demonstrated.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1979.63BP-VG01",
+        "topic": "cooperation agreement",
+        "context": "In addition to the DAL\\ municipalities (Delfzijl, Appingedam and Loppersum), a total of 27 municipalities, 2 water boards and 2 water companies participate in the cooperation agreement Groningen and Noord\\-Drenthe. In this case, a cooperation agreement between initiator and the municipality of Eemsdelta will be concluded. As a result, no operating plan is required and the cost of land exploitation is covered by the cooperation agreement.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0531.bp06VolgerlOstUP02-3001",
+        "topic": "cooperation agreement",
+        "context": "The cooperation between Hendrik\\-Ido\\-Ambacht and Zwijndrecht is laid down in a cooperation agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0200.bp1297-vas1",
+        "topic": "cooperation agreement",
+        "context": "For the redevelopment project, a cooperation agreement was concluded between the municipality and private parties.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0230.PH1VOSSENAKKER-VST1",
+        "topic": "cooperation agreement",
+        "context": "In this case, the establishment of an operating plan is not necessary because the cost recovery is otherwise ensured through a cooperation agreement concluded with a developer.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0441.BPBGZZandNoordF2-VA01",
+        "topic": "cooperation agreement",
+        "context": "The cooperation agreement between the municipality and the developer dates back to the coalition agreement. The municipality and developer have concluded a cooperation agreement which can be classified as an anterior agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0457.BPBloemui-vg01",
+        "topic": "cooperation agreement",
+        "context": "The agreements in the Cooperation Agreement (SUOK) form the basis for this. The Empire has signed, as one of the parties involved, for reasons of, among other things, state-owned positions, the position vis-\u00e0-vis national networks (rich road, rail, electricity lines) and the necessary adaptation of state policy on the ground, the Cooperation Agreement and the Implementing Agreement.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1699.2017BPU003-vg01",
+        "topic": "cooperation agreement",
+        "context": "An important point here is that a cooperation agreement has been concluded for the area with a market participant (Heijmans), with a production agreement being established.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0637.BP00075-0003",
+        "topic": "cooperation agreement",
+        "context": "In this context, cooperation agreements have been concluded with regard to the necessary financing of projects. On this subject, the parties concluded an additional agreement to the 2005 Cooperation Agreement, which laid down the housing programme and financial arrangements.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0331.08Benschopuitbrn-BP01",
+        "topic": "cooperation agreement",
+        "context": "For this purpose, the Municipality of Lopik has concluded a cooperation agreement with Heiliigers Project Development e.g.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0317.E029UWPZpolderWB11-Va01",
+        "topic": "cooperation agreement",
+        "context": "To this end, a cooperation agreement was signed on 22 August 2013 as an anterior agreement under the Wro. By setting out all the arrangements in the cooperation agreement, which ensure the cost recovery, it is therefore not necessary to establish an operating plan.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0758.BP2016227004-0401",
+        "topic": "cooperation agreement",
+        "context": "The Waterschap has signed a cooperation agreement with the Markdal Association in which agreement has been reached on the prioritisation and preparatory work for the implementation of measures.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1948.VHL001BP0012019P-VG01",
+        "topic": "cooperation agreement",
+        "context": "In accordance with the cooperation agreement concluded between initiator and municipality, the houses will comply with the (social) safety requirements set out in the Building Decision. In view of the relationship of ownership, the cooperation agreement and the compensation agreement, economic viability is guaranteed and may therefore be waived by the College of Mayors and aldermen from the establishment of an operating plan within the meaning of Article 6 (12), second paragraph of Wro.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0150.P364-VG01",
+        "topic": "cooperation agreement",
+        "context": "In the cooperation agreement on housing agreements West\\-Overijssel 2016\\-2020, agreements were made at regional level between the municipalities in West\\-Overijssel and the province of Overijssel concerning, among other things, the planning and housing needs.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0345.WPEilandJ-vg01",
+        "topic": "cooperation agreement",
+        "context": "In the note 'Interprovincial Structure Vision Ede\\-Veenendaal' (ISEV; August 1994\\) and a cooperation agreement concluded in 2007 it was agreed to create a nature development zone. For Veenendaal\\-oost, a Cooperation Agreement was concluded in 2003 between the municipality and a number of private parties.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0748.BP0257-0301",
+        "topic": "cooperation agreement",
+        "context": "On 24 April 2013, Stadlander signed the cooperation agreement with Gageldenonk\\-West in which the cost recovery is arranged.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0274.bp0208ob-va02",
+        "topic": "cooperation agreement",
+        "context": "To settle this, a cooperation agreement has been concluded with the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0193.BP18009-0004",
+        "topic": "cooperation agreement",
+        "context": "The municipalities and the province signed the cooperation agreement on 27 January 2016.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0153.BP00166-0003",
+        "topic": "cooperation agreement",
+        "context": "In view of the above under the Operation Agreement, it can be argued that the cost recovery is sufficiently otherwise assured and the economic viability of the present zoning plan has been sufficiently demonstrated.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0317.E029UWPZpolderWB9-Va01",
+        "topic": "cooperation agreement",
+        "context": "To this end, a cooperation agreement was signed on 22 August 2013 as an anterior agreement under the Wro. By setting out all the arrangements in the cooperation agreement, which ensure the cost recovery, it is therefore not necessary to establish an operating plan.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0748.BP0232-0701",
+        "topic": "cooperation agreement",
+        "context": "A cooperation agreement between Stadlander and the municipality of Bergen op Zoom has been drawn up for the redevelopment of the Scheldt Balkon. A new cooperation agreement was concluded with Stadlander on 27 June 2018 in which agreements were made on cost sharing and planning damages.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0453.BP0705BINNENHAVEN1-R001",
+        "topic": "cooperation agreement",
+        "context": "In close cooperation with the owner of the land, the zoning plan Zeeweg terrain e.o. was drawn up in 2006 and the corresponding realization/\\-operation agreement was concluded to enable the development of the project 'De Binnenhaven'.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0193.BP16016-0004",
+        "topic": "cooperation agreement",
+        "context": "On 27 January 2016, the municipalities and the province signed a cooperation agreement covering residential regions and further agreements on housing numbers and alignment with the region.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0274.bp0166rh-va02",
+        "topic": "cooperation agreement",
+        "context": "To settle this, a cooperation agreement will be concluded with the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0344.BPCARTDRHFASE2EN6-VA01",
+        "topic": "cooperation agreement",
+        "context": "In this case, the cost recovery is ensured by an anterior/operation agreement between the municipality and initiator, so that the preparation of an operating plan is not necessary.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0345.UPDeOntmoetingDp7-oh01",
+        "topic": "cooperation agreement",
+        "context": "For Veenendaal\\-oost, a Cooperation Agreement was concluded in 2003 between the municipality and a number of private parties.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0345.UPEilandH-oh01",
+        "topic": "cooperation agreement",
+        "context": "In the note 'Interprovincial Structure Vision Ede\\-Veenendaal' (ISEV; August 1994\\) and a cooperation agreement concluded in 2007 it was agreed to create a nature development zone. For Veenendaal\\-oost, a Cooperation Agreement was concluded in 2003 between the municipality and a number of private parties.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1699.2018BP077-vg01",
+        "topic": "cooperation agreement",
+        "context": "A cooperation agreement has been concluded between the market party and the municipality, including agreements on the number of dwellings to be developed.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.9925.IPBommelerwaard-VST2",
+        "topic": "cooperation agreement",
+        "context": "On 9 December 2009, the province of Gelderland, the municipalities of Maasdriel and Zaltbommel and the waterscape of Rivierenland signed the 'Cooperation agreement on restructuring greenhouse horticulture and mushroom cultivation Bommelerwaard' (SOK). The agreements, as laid down in the Cooperation Agreement, are laid down in a plan of regional integration. The Bommelerwaard integration plan focuses on the implementation of the Cooperation Agreement signed on 9 December 2009 by the province of Gelderland, the municipalities of Zaltbommel and Maasdriel and the Waterschap Rivierenland. The Cooperation Agreement includes, inter alia, a system for financing and risk-sharing in connection with the implementation of the restructuring programme for horticulture.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0193.BP15015-0004",
+        "topic": "cooperation agreement",
+        "context": "The housing programme for Zwolle for the period 2016 to 2026 has been presented by the province of Overijssel and the municipality in the West Overijssel region in the document 'Cooperation Agreement Housing Agreements West Overijssel' and further developed in the 'Regional Housing Programming West\\-Overijssel' (hereinafter RWP). On 27 January 2016, the municipalities and the province signed this cooperation agreement which agreed on residential regions and further agreements on housing numbers and alignment with the region. Two agreements in the cooperation agreement are important for the planning. In the cooperation agreement, the province and municipalities in West Overijssel have included that for the purpose of economical and careful use of space and regional support and coordination for the ladder of sustainable urbanization municipalities and provinces make agreements on programming. The housing programme for Zwolle for the period 2016 to 2026 has been portrayed by the province of Overijssel and the municipality in the West Overijssel region in the document 'Cooperation Agreement Housing Agreements West Overijssel' and further developed in the 'Regional Housing Programming West\\-Overijssel'. On 27 January 2016, the municipalities and the province signed this cooperation agreement which agreed on residential regions and further agreements on housing numbers and alignment with the region. The examination of paragraph 2\\.2\\.1\\.2 of this explanatory memorandum showed that the plan is in line with the agreements of the Cooperation Agreement and the RWP West Overijssel.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0294.BP2011SGEELINKNOOR-VA01",
+        "topic": "cooperation agreement",
+        "context": "A cooperation agreement has been concluded with the owner of the surrounding land to involve it in the development of Eelink, Eelink Noord.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0344.BPCARTSIUSDRIFASE1-VA01",
+        "topic": "cooperation agreement",
+        "context": "In this case, the cost recovery is ensured by an anterior/operation agreement between the municipality and initiator, so that the preparation of an operating plan is not necessary.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0317.E029UWPZpolderWB6-Va01",
+        "topic": "cooperation agreement",
+        "context": "To this end, a cooperation agreement was signed on 22 August 2013 as an anterior agreement under the Wro. By setting out all the arrangements in the cooperation agreement, which ensure the cost recovery, it is therefore not necessary to establish an operating plan.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0420.BPKWOGGRSLAGTERLN-VA01",
+        "topic": "cooperation agreement",
+        "context": "The agreements are eventually laid down in an (anterior) cooperation agreement.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1684.09BPvaluwePatakon-VA01",
+        "topic": "cooperation agreement",
+        "context": "A Cooperation Agreement has been drawn up for the development of De Valuwe.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0358.07L-VG01",
+        "topic": "cooperation agreement",
+        "context": "The municipality signed a cooperation agreement with developer Bohemia on 24 October 2005 for the development of the Gardens of Aalsmeer.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0518.UP0006BErasmusMid-50VA",
+        "topic": "cooperation agreement",
+        "context": "On 22 December 1995, the municipality of The Hague and Bouwfonds Woningbouw BV closed the Cooperation Agreement Wateringse Veld. In addition to the Cooperation Agreement, an allonge to this Agreement was concluded in December 2015, making specific arrangements for the developments made possible in this impact plan. The Allenge to the Cooperation Agreement shall be regarded as an anterior agreement within the meaning of Article 6 (2) of the Regional Planning Act. The agreements made under the Cooperation Agreement provide for a different cost recovery:",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0166.00991188-VB01",
+        "topic": "cooperation agreement",
+        "context": "In addition, a cooperation agreement (27 June 2005) with Deltawonen provides the plan damage recovery. This Cooperation Agreement lays down in the building programme that deltaWonen realizes the properties in the Hanseatic Quarter.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0317.E029UWPZpolderWB12-Va01",
+        "topic": "cooperation agreement",
+        "context": "To this end, a cooperation agreement was signed on 22 August 2013 as an anterior agreement under the Wro. By setting out all the arrangements in the cooperation agreement, which ensure the cost recovery, it is therefore not necessary to establish an operating plan.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0193.BP19007-0003",
+        "topic": "cooperation agreement",
+        "context": "The municipalities and the province signed the cooperation agreement on 27 January 2016. In the cooperation agreement, the province and municipalities in West Overijssel have included that, in order to ensure economical and careful use of space and regional support and coordination for the ladder of sustainable urbanization municipalities and provinces make agreements on programming.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0274.bp0173rh-va02",
+        "topic": "cooperation agreement",
+        "context": "To settle this, a cooperation agreement will be concluded with the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0281.BP00029-va01",
+        "topic": "cooperation agreement",
+        "context": "A cooperation agreement has been concluded between the municipality of Tiel and the SCW which lays down agreements on construction, management and maintenance.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0518.BP0338AMadeVroon3h-50VA",
+        "topic": "cooperation agreement",
+        "context": "The municipality of The Hague and the development combination Madestein VOF (consisting of Building Fund Development and Synchroon) signed a cooperation agreement in December 2008 for the development of the project Vroondaal. Within the zoning area of the mother plan are landowners who are not covered by the cooperation agreement and with whom the municipality of The Hague has not yet concluded an agreement. In view of the cooperation agreement between GEM Vroondaal and the Municipality of The Hague with regard to the entire development of Vroondaal, the cost recovery is otherwise ensured.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0983.BP201816MANRESA-VA01",
+        "topic": "cooperation agreement",
+        "context": "By means of the cooperation agreement signed on 4 October 2018 and the subsequently drawn up and signed anterior agreement, the College of Mayors and aldermen has indicated their cooperation with the initiative.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0243.BP00209-0002",
+        "topic": "cooperation agreement",
+        "context": "On 22 December 2006, following a restricted European tender procedure, a cooperation agreement was concluded with a consortium of private parties. The other tasks shall be carried out by the Commission on the basis of the abovementioned cooperation agreement. The cooperation agreement provides exhaustively for the collection of the costs of land exploitation.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0879.BPPrinsenstraatF1-VS01",
+        "topic": "cooperation agreement",
+        "context": "The municipality concludes an agreement with the developing party in addition to the cooperation agreement, in which further agreements are made on the construction of the compensation zone. The municipality and developer have agreed in a cooperation agreement that the latter will physically invest 1% of the land issue price in the compensation zone.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0274.bp0178ob-va02",
+        "topic": "cooperation agreement",
+        "context": "This is also laid down in the Cooperation Agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0267.BP0132-0002",
+        "topic": "cooperation agreement",
+        "context": "The realisation of the housing assignments is recorded in (cooperation) agreements.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0345.UPDeOntmoetingDp6-vg01",
+        "topic": "cooperation agreement",
+        "context": "For Veenendaal\\-oost, a Cooperation Agreement was concluded in 2003 between the municipality and a number of private parties.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0166.00991314-VB01",
+        "topic": "cooperation agreement",
+        "context": "In addition, a cooperation agreement (27 June 2005) with deltaWonen regulates the plan damage recovery. This Cooperation Agreement lays down in the building programme that deltaWonen realizes the properties in the Hanseatic Quarter.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0274.bp0205rh-va02",
+        "topic": "cooperation agreement",
+        "context": "To settle this, a cooperation agreement has been concluded with the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1586.BPGR0505-VG01",
+        "topic": "cooperation agreement",
+        "context": "Initially, the municipality of Oost Gelre and Oldenhuis Development BV had concluded a cooperation agreement for the realization in this planning area of 80 homes.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1740.bpKEcasterhovenB7-vst1",
+        "topic": "cooperation agreement",
+        "context": "Within the framework of the whole plan Casterhoven, a cooperation agreement has been concluded between the municipality and the market parties.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0317.E029UWPZpolderWB10-Va01",
+        "topic": "cooperation agreement",
+        "context": "To this end, a cooperation agreement was signed on 22 August 2013 as an anterior agreement under the Wro. By setting out all the arrangements in the cooperation agreement, which ensure the cost recovery, it is therefore not necessary to establish an operating plan.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0479.STED3851BP-0301",
+        "topic": "cooperation agreement",
+        "context": "In order to ensure the quality and sustainability ambitions of the municipality, further agreements with the developer are set out in a cooperation agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0243.BP00176-0002",
+        "topic": "cooperation agreement",
+        "context": "To settle this, a cooperation agreement is concluded with the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0200.bp1298-vas1",
+        "topic": "cooperation agreement",
+        "context": "For the development of the Schatkamer van Zuid, a cooperation agreement has been concluded between two housing corporations, the Province of Gelderland and the municipality. In this cooperation agreement, the principles relating to the land exploitation and cost recovery of this area have been further developed.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0307.BP00125-0301",
+        "topic": "cooperation agreement",
+        "context": "A cooperation agreement has been concluded with the Alliance on the cost of public facilities, the risk of possible planning damage, payment of equipment costs etc.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0267.BP0104-0002",
+        "topic": "cooperation agreement",
+        "context": "The realisation of the housing assignments is recorded in (cooperation) agreements.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0627.Uptriangelplan3-0401",
+        "topic": "cooperation agreement",
+        "context": "Agreements on this are laid down in a cooperation agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0613.BPEssendael-VST1",
+        "topic": "cooperation agreement",
+        "context": "Agreements on this are laid down in a cooperation agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0193.BP15018-0004",
+        "topic": "cooperation agreement",
+        "context": "In the cooperation agreement, the province and municipalities in West Overijssel have included that, in order to ensure economical and careful use of space and regional support and coordination for the ladder of sustainable urbanization municipalities and provinces make agreements on programming.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1659.BPBDdba2017-VG01",
+        "topic": "cooperation agreement",
+        "context": "A new cooperation agreement has been signed for this purpose, including the need for the planning area to be completed within 3 years. The cooperation agreement also applies to this plan, which includes, inter alia, that the planning area must be completed within 3 years.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0274.bp0224rh-va02",
+        "topic": "cooperation agreement",
+        "context": "To settle this, a (cooperation) agreement has been concluded with the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1783.POECTRMhetDORPobp-VA01",
+        "topic": "cooperation agreement",
+        "context": "The municipality and BPD (formerly Bouwfonds) have now established a (revised) cooperation agreement. The cooperation agreement includes in the quality agenda the following on Poeldijk Dorp:",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1509.BP000148-VA01",
+        "topic": "cooperation agreement",
+        "context": "Financial and economic arrangements have been made within a cooperation agreement between Wonion and the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0345.UPEilandK-oh01",
+        "topic": "cooperation agreement",
+        "context": "In the note 'Interprovincial Structure Vision Ede\\-Veenendaal' (ISEV; August 1994\\) and a cooperation agreement concluded in 2007 it was agreed to create a nature development zone. For Veenendaal\\-oost, a Cooperation Agreement was concluded in 2003 between the municipality and a number of private parties.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0289.0057Mouterij-VSG1",
+        "topic": "cooperation agreement",
+        "context": "A cooperation agreement has been concluded between the municipality and developers. The cooperation agreement lays down the allocation of costs between the different parties.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0398.BP11BUITENGEBIED00-VA03",
+        "topic": "cooperation agreement",
+        "context": "The environmental, water storage and financing standards (operation agreements and planning damages agreements) shall be filled in when using the change power.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0513.1106UPWestergouwe2-DF01",
+        "topic": "cooperation agreement",
+        "context": "The standards are based on 1.6 parking space for a cheap home, 1.8 for a medium-priced home and 2 for an expensive home, in accordance with the terms of the cooperation agreement between Westergouwe.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1621.BP0189-VAST",
+        "topic": "cooperation agreement",
+        "context": "A cooperation agreement (SOK) or an Ant\u00e9rieur agreement (AOK) will be concluded with relevant market parties promoters/developers.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1916.noortheylaan2w-VG01",
+        "topic": "cooperation agreement",
+        "context": "The three measures mentioned above shall be laid down, where possible, in intent or cooperation agreements with other developing parties. The three measures mentioned above shall be laid down, where possible, in intent or cooperation agreements with other developing parties.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0345.UPDeEilandenDp4-vg01",
+        "topic": "cooperation agreement",
+        "context": "In the note 'Interprovincial Structure Vision Ede\\-Veenendaal' (ISEV; August 1994\\) and a cooperation agreement concluded in 2007 it was agreed to create a nature development zone. For Veenendaal\\-oost, a Cooperation Agreement was concluded in 2003 between the municipality and a number of private parties.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0874.ALMKBP201501-VST1",
+        "topic": "cooperation agreement",
+        "context": "The municipality and the initiator have concluded a cooperation agreement which stipulates that, under conditions, all costs are for the developing party.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1916.Stompwijk-VG01",
+        "topic": "cooperation agreement",
+        "context": "The three measures mentioned above shall be laid down, where possible, in intent or cooperation agreements with other developing parties. The three measures mentioned above shall be laid down, where possible, in intent or cooperation agreements with other developing parties.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1783.OWZKREKENf2opb-VA01",
+        "topic": "cooperation agreement",
+        "context": "A cooperation agreement has been established between the municipality and BPD. This results from the agreements made between the municipality of The Hague and Westland and the agreements on spatial implementation made in the Cooperation Agreement of OBWZ.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0484.13BPBGvanRW11totR-VA01",
+        "topic": "cooperation agreement",
+        "context": "The 2007 'Transformation Vision Old Rhine Zone' initially led to the signing of a Cooperation Agreement Old Rhine Zone. The Old Rhine Zone Cooperation Agreement was signed on 27 November 2008.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0627.BPTriangelzuidoost-0401",
+        "topic": "cooperation agreement",
+        "context": "For this development, a joint land exploitation was established in accordance with the March 2010 cooperation agreement between the municipality of Waddinxveen and BPD.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0363.F1312BPSTD-VG01",
+        "topic": "cooperation agreement",
+        "context": "A cooperation agreement is established between the dike managers (Waternet/Hogeheemraadschap AGV and Hoogheemraadschap Rijnland), the sewage system manager (Waternet) and the district.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0579.BPKampBuit-VA01",
+        "topic": "cooperation agreement",
+        "context": "For the grounds west of the Rijnsburgerweg, the spatial objectives are laid down in the Cooperation Agreement Knoop Leiden West (hereinafter 'the Cooperation Agreement'). This cooperation agreement provides for the establishment of an integrated plan for this area for the development of these grounds in order to guarantee the objectives set out in the Strategic Master Plan.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1740.bpKEcasterhoven24-vst1",
+        "topic": "cooperation agreement",
+        "context": "The municipality has concluded a cooperation agreement with two market players.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1740.bpKEcasterhovenA3-vst1",
+        "topic": "cooperation agreement",
+        "context": "The municipality has concluded a cooperation agreement with two market players.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0855.BSP2014014-e001",
+        "topic": "cooperation agreement",
+        "context": "In 2009 the municipality concluded a (anterior) cooperation agreement with Heijmans Vastgoed Realisation BV and Proper\\-Stok Groep BV for the development and realization of the Koningsoord plan, in which these market parties bear the risk for the land\\ and storage operation. The cooperation agreement with Heijmans has been revised and adapted to the current plan with However, in the already concluded anterior cooperation agreement with Heijmans, it has been agreed that Heijmans will develop and realise the entire plan at its own expense and risk. Due to the fact that this anterior cooperation agreement with Heijmans does not create a shortage in the operation of the municipal land, the land of Heijmans and also the land of the non-connected parties, municipal land exploitation is in principle final.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0627.bpStationspark-0401",
+        "topic": "cooperation agreement",
+        "context": "Agreements on this are laid down in a cooperation agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0193.BP17012-0004",
+        "topic": "cooperation agreement",
+        "context": "The municipalities and the province signed the cooperation agreement on 27 January 2016.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0627.BPDeelplanG1enG2-0401",
+        "topic": "cooperation agreement",
+        "context": "For this development, a joint land exploitation was established in accordance with the March 2010 cooperation agreement between the municipality of Waddinxveen and BPD.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0531.bp06VolgerlOstWP01-3001",
+        "topic": "cooperation agreement",
+        "context": "The cooperation between Hendrik\\-Ido\\-Ambacht and Zwijndrecht is laid down in a cooperation agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0193.BP16015-0005",
+        "topic": "cooperation agreement",
+        "context": "The municipalities and the province signed the cooperation agreement on 27 January 2016.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0855.BSP2015020-e001",
+        "topic": "cooperation agreement",
+        "context": "For the development of Stappegoor, a cooperation agreement was concluded between the municipality and the concessionaire on 16 May 2006\\.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0150.P354-VG01",
+        "topic": "cooperation agreement",
+        "context": "In January 2016, the Co-operation Agreement Housing Agreements West\\-Overijssel was signed by the Province and participating municipalities.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0317.E029UWPZpolderWB7-Va01",
+        "topic": "cooperation agreement",
+        "context": "To this end, a cooperation agreement was signed on 22 August 2013 as an anterior agreement under the Wro. By setting out all the arrangements in the cooperation agreement, which ensure the cost recovery, it is therefore not necessary to establish an operating plan.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0267.BP0133-0002",
+        "topic": "cooperation agreement",
+        "context": "The realisation of the housing assignments is recorded in (cooperation) agreements.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0221.BPL15006HMO-VA01",
+        "topic": "cooperation agreement",
+        "context": "A cooperation agreement between the initiator and the municipality of Doesburg is guaranteed",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0281.BP00054-va01",
+        "topic": "cooperation agreement",
+        "context": "A cooperation agreement has been concluded with the initiator and the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0193.BP16000-0004",
+        "topic": "cooperation agreement",
+        "context": "On 27 January 2016, the municipalities and the province signed a cooperation agreement covering residential regions and further agreements on housing numbers and alignment with the region. In the cooperation agreement, the province and municipalities in West Overijssel have included that, in order to ensure economical and careful use of space and regional support and coordination for the ladder of sustainable urbanization municipalities and provinces make agreements on programming.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0451.uwvinckebuurt-VG01",
+        "topic": "cooperation agreement",
+        "context": "These have been developed in a cooperation agreement and an operating agreement.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1740.bpKEcasterhovenA2b-vst2",
+        "topic": "cooperation agreement",
+        "context": "The municipality has concluded a cooperation agreement with two market players.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0203.1579-0003",
+        "topic": "cooperation agreement",
+        "context": "De Burgt concluded a cooperation agreement between the participating parties to the CV/BV\\ structure in 1998 and an additional agreement (to this end) in 2015. For the cost of compensation for damage referred to in Article 6\\.1 of the Wro (plan damage), a provision is included in the Cooperation Agreement (Article 2\\.14\\.6\\)",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0166.00991193-VB01",
+        "topic": "cooperation agreement",
+        "context": "The Co-operation Agreement on Housing Agreements West\\-Overijssel states that a short-term balance must be struck on the housing market.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0034.BP4ABCDEG01-vg01",
+        "topic": "cooperation agreement",
+        "context": "The agreement in which it is regulated is included in Annex 13 Cooperation Agreement Almere Gate Coastal Zone. Where the distance of 4 metres differs from the imagination and is not exactly 4 metres, what is agreed in the cooperation agreement is going for, i.e. there is a distance of 4 metres.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0748.WP200b-0301",
+        "topic": "cooperation agreement",
+        "context": "On 24 April 2013, Stadlander signed the cooperation agreement with Gageldenonk\\-West in which the cost recovery is arranged.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0505.BP203Zuiddubbeldam-3001",
+        "topic": "cooperation agreement",
+        "context": "On 5 April 2005 the cooperation agreement \"Belthure Park Dordrecht\" was concluded between the municipality and Wilgendael BV.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0356.BPBH2015HER001-VA02",
+        "topic": "cooperation agreement",
+        "context": "Various agreements between the municipality of Nieuwegein and Portaal are laid down in a cooperation agreement (SOK) dated 19 March 2015\\.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1734.0250OOSTstations21-VSG1",
+        "topic": "cooperation agreement",
+        "context": "The costs are recovered by means of an anterior agreement to be concluded with the initiator (operation agreement).",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0416.BPNSZS2012herz002-va01",
+        "topic": "cooperation agreement",
+        "context": "A derogation has been established for planning developments which have already been the subject of prior decision-making or which have already been the subject of a cooperation agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0267.BP0103-0002",
+        "topic": "cooperation agreement",
+        "context": "The realisation of the housing assignments is recorded in (cooperation) agreements.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1979.64BP-VG01",
+        "topic": "cooperation agreement",
+        "context": "In addition to the DAL\\ municipalities (Delfzijl, Appingedam and Loppersum), a total of 27 municipalities, 2 water boards and 2 water companies participate in the cooperation agreement Groningen and Noord\\-Drenthe.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0855.BSP2017031-e001",
+        "topic": "cooperation agreement",
+        "context": "The service agreement stipulates that the municipality will examine the costs involved in the necessary construction/modification of the sewage system for the purpose of the initiative, including an understanding of the economic viability of the initiative, for which the parties intend to enter into a development/operation agreement.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0317.E029UWPZpolderWB8-Va01",
+        "topic": "cooperation agreement",
+        "context": "To this end, a cooperation agreement was signed on 22 August 2013 as an anterior agreement under the Wro. By setting out all the arrangements in the cooperation agreement, which ensure the cost recovery, it is therefore not necessary to establish an operating plan.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0148.DKernen2016hz9-vs01",
+        "topic": "cooperation agreement",
+        "context": "On 27 January 2016, the \"Cooperation Agreement' was signed for housing agreements between West\\-Overijssel'. The programming document, the Regional Housing Programming West\\-Overijssel (RWP West\\-Overijssel) is an integral part of the cooperation agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0796.0002386-1401",
+        "topic": "cooperation agreement",
+        "context": "Previously, the municipality of 's\\-Hertogenbosch and GGZ Oost Brabant concluded a cooperation agreement (SOK) in the framework of Structural Vision Landgoed Coudewater, covering among other things the distribution of tasks and responsibilities.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0518.BP0295CVogelwijk-50VA",
+        "topic": "cooperation agreement",
+        "context": "On 17 September 2013, the College approved the Cooperation Agreement with the Hague University of Applied Sciences on the Sportcampus Zuiderpark (RIS 264666\\) which lays down these agreements.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1680.ANNZUIDLWG24-VB01",
+        "topic": "cooperation agreement",
+        "context": "For this zoning plan, the cost recovery is otherwise insured, because a cooperation agreement has been concluded between the initiator/developer and the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1734.0282ELSTspoorkrrwn-VSG1",
+        "topic": "cooperation agreement",
+        "context": "Second, the municipality has entered into cooperation agreements with Park Lingezogen and ProRail.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0274.bp0178ob-va03",
+        "topic": "cooperation agreement",
+        "context": "This is also laid down in the Cooperation Agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1696.BP22Rading38402014-va01",
+        "topic": "cooperation agreement",
+        "context": "For areas where new developments are taking place, according to the Wro, an operating plan should be established at the same time as the zoning plan, unless the cost recovery is otherwise ensured (e.g. through municipal land issuance or the conclusion of a (ground operation) agreement with all owners.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0166.00991067-VB01",
+        "topic": "cooperation agreement",
+        "context": "In addition, a cooperation agreement (27 June 2005) with Deltawonen provides the plan damage recovery. This Cooperation Agreement lays down in the building programme that deltaWonen realizes the properties in the Hanseatic Quarter.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0193.BP18007-0004",
+        "topic": "cooperation agreement",
+        "context": "On 19 September 2019, the DeltaWonen Foundation, the SWZ Housing Foundation and the Municipality of Zwolle signed the cooperation agreement 'Kleurrijk Holtenbroek'.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0274.bp0186ob-va02",
+        "topic": "cooperation agreement",
+        "context": "To settle this, a cooperation agreement will be concluded with the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0513.1107UPWieringenhof-OB01",
+        "topic": "cooperation agreement",
+        "context": "For Westergouwe a cooperation agreement has been concluded between the municipality and the combination Volker Wessels/Heijmans.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1884.WESTEND-VAS1",
+        "topic": "cooperation agreement",
+        "context": "The cost recovery and economic feasibility are ensured by the conclusion of a cooperation agreement between the municipality and Heembouw.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1684.09BPUvaluwe4-VA01",
+        "topic": "cooperation agreement",
+        "context": "A Cooperation Agreement has been drawn up for the development of De Valuwe.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0345.UPEilandM-vg01",
+        "topic": "cooperation agreement",
+        "context": "In the note 'Interprovincial Structure Vision Ede\\-Veenendaal' (ISEV; August 1994\\) and a cooperation agreement concluded in 2007 it was agreed to create a nature development zone. For Veenendaal\\-oost, a Cooperation Agreement was concluded in 2003 between the municipality and a number of private parties.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0150.P335-VG01",
+        "topic": "cooperation agreement",
+        "context": "In January 2016, the Cooperation Agreement on Housing Agreements West Overijssel was signed.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0153.R20200012-0003",
+        "topic": "cooperation agreement",
+        "context": "In view of the above under the Operation Agreement, it can be argued that the cost recovery is sufficiently otherwise assured and the economic viability of the present zoning plan has been sufficiently demonstrated.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0917.BP010302W000001-0401",
+        "topic": "cooperation agreement",
+        "context": "The demolition and new construction plan for Hoensbroek is laid down in a cooperation agreement with corporations, the Parkstad region and the province of Limburg. For this restructuring area a cooperation agreement has been concluded between the cooperating parties (i.e. the municipality of Heerlen, province of Limburg, City Region Parkstad Limburg and the housing corporations Woonpunt and De Voorzorg) (26 April 2012\\). These are 33 homes with the addresses Margrietstraat 1 to 31, Margrietstraat 2 to 32 and Christinastraat 1\\. Each year, the Hoensbroek\\-Passart steering committee (participants equal to the parties' cooperation agreement) makes the annual accounts available.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1708.STWmeppelerweg40BP-VA01",
+        "topic": "cooperation agreement",
+        "context": "In addition, the various regional municipalities and the province of Overijssel have made joint agreements in the Cooperation Agreement on housing agreements. The Cooperation Agreement provides the framework for the addition of housing.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0150.P353-VG01",
+        "topic": "cooperation agreement",
+        "context": "In January 2016, the Co-operation Agreement Housing Agreements West\\-Overijssel was signed by the Province and participating municipalities.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1884.UPNOORDERHEMWEG11-VAS1",
+        "topic": "cooperation agreement",
+        "context": "The cost recovery and economic feasibility are ensured by the conclusion of a cooperation agreement between the municipality and Braassemerland VOF.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0274.bp0193rh-va02",
+        "topic": "cooperation agreement",
+        "context": "To settle this, a cooperation agreement has been concluded with the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0399.UwpDeelpl3timpaan-0401",
+        "topic": "cooperation agreement",
+        "context": "The municipality of Heiloo and Timpaan have concluded a cooperation agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1773.BP2019003007-0301",
+        "topic": "cooperation agreement",
+        "context": "Wonen was also present and involved in the meetings of the residents' group and has already entered into a cooperation agreement with the municipality of Olst\\-Wijhe to build and rent 14 properties in the planning area.",
+        "answer": "{ \"answer\": true }"
+    }
+]

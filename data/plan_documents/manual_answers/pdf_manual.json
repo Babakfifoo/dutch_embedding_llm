@@ -1,0 +1,19 @@
+{
+    "t_NL.IMRO.0416.WPHavenplein8a-va01": {
+        "Land allocation/sale": false,
+        "Agreement": false,
+        "Anterior Agreement": false,
+        "Operating Agreement": false,
+        "Realisation Agreement": false,
+        "Plan Damage Agreement": false,
+        "Purchase Agreement": false,
+        "Cooperation Agreement/PPS": false,
+        "Costs born by initiator": false,
+        "developer/initiator is Landowner": true,
+        "Conservation  plan": false,
+        "Municipallity Budget": false,
+        "building plan": false,
+        "Land exploitation Project/scheme": false,
+        "Invalid": false
+    }
+}

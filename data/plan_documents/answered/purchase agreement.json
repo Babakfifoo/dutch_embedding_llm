@@ -1,0 +1,836 @@
+[
+    {
+        "IMRO": "t_NL.IMRO.0858.BPbarentszstraat3-VA01",
+        "topic": "purchase agreement",
+        "context": "A purchase agreement is drawn up between the municipality, as initiator, and a housing corporation, for the sale of the land necessary for the intended development.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0370.2016Middenpad-VA01",
+        "topic": "purchase agreement",
+        "context": "The purchase agreement for the lots will include that half of the ditch adjacent to the garden is the maintenance for the lot owner.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0755.BPHBOEKBergstr28-VA01",
+        "topic": "purchase agreement",
+        "context": "To this end, a chain clause is included in the purchase agreements with the buyers of the nearby buildings.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1621.BP0104U10-VAST",
+        "topic": "purchase agreement",
+        "context": "The developer will also set up green facilities (hagen) on private lots, with maintenance and maintenance laid down in purchase agreements.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1900.2016oostBPhoukepoo-vast",
+        "topic": "purchase agreement",
+        "context": "However, the developer has declared himself willing to lay down in the purchase agreement criteria on the interpretation of the rear heirs.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0642.BP16dorpstraat78-3001",
+        "topic": "purchase agreement",
+        "context": "On 2 November 2015, a purchase agreement, also an anterior agreement, was concluded between the municipality and the initiator. The purchase agreement provides, inter alia, for the recovery of damage to plans and administrative costs in connection with the spatial procedure.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0228.BP2015EDEC0001-0301",
+        "topic": "purchase agreement",
+        "context": "A purchase agreement has been concluded with the developing party in the past. This purchase agreement will be amended and supplemented in a number of respects.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1621.BP0104U13-VAST",
+        "topic": "purchase agreement",
+        "context": "The developer will also build green facilities (hagen) on private lots, with maintenance and maintenance laid down in purchase agreements",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1719.1bp21zandstraat83-vg01",
+        "topic": "purchase agreement",
+        "context": "In the anterior agreement and purchase agreement to be concluded, the private initiator and the municipality agree on the municipal planning costs, the transfer of the land strip and the costs of refurbishing the land strip as a public area.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1674.2096NIEUWELTS-0601",
+        "topic": "purchase agreement",
+        "context": "The first three plots are still owned by the municipality of Roosendaal, the initiator has concluded a purchase agreement with the municipality for this purpose. An anterior/purchase agreement was concluded between the municipality and the initiator on 11 July 2016.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0512.BP2016167-4001",
+        "topic": "purchase agreement",
+        "context": "With regard to the costs of, inter alia, the planning procedure and any planning damage, agreements have been made with the initiator by means of an (anterior) purchase agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0865.vghUPirenelaan1-VG01",
+        "topic": "purchase agreement",
+        "context": "The municipality of Vught concluded a purchase agreement with the initiator on 30 October 2017, in which the cost recovery is otherwise insured.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0523.BPIJZERGIETERIJ-VA02",
+        "topic": "purchase agreement",
+        "context": "It will be agreed with the developer that there will be a passage in the purchase agreement.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1655.BPW6055-C001",
+        "topic": "purchase agreement",
+        "context": "Initiator and landowner have concluded a purchase agreement with respect to the planning area.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0935.bpHoolhoes-vg01",
+        "topic": "purchase agreement",
+        "context": "The municipality of Maastricht and Cuore Development (a partnership between BPD Development and Rialto Real Estate Development) have signed a purchase agreement for the development of the 'Hoolhoes' location in Maastricht. The municipality of Maastricht has concluded a purchase agreement with the developer of the present plan, Cuore Development",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1641.BPL082-VG01",
+        "topic": "purchase agreement",
+        "context": "On the basis of Article 7 of the Purchase Agreement dated 20 July 2004, this property, known as \"Cadastral Municipality of Beegden', section B number 1536, should be excluded from this zoning plan. The plot is not included in this zoning plan, in accordance with the purchase agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1930.BPHDLWATERRIJK2-3001",
+        "topic": "purchase agreement",
+        "context": "In addition to a purchase agreement, a cooperation agreement has been concluded with the initiator on the method of cooperation between the municipality and initiator. The municipal cost recovery is taken into account in the purchase price used at the purchase agreement.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0451.BPIepenlaanD6-VG01",
+        "topic": "purchase agreement",
+        "context": "With this purchase agreement it is made possible for the owners to realize a citizen's residence at the Iepenlaan through the publication of building lots. Since the land is owned by several owners and separate purchase agreements are concluded with these owners, it is not possible to draw up a zoning plan for the entire planning area at once. With this purchase agreement it is made possible for the owners to realize a citizen's residence at the Iepenlaan through the publication of building lots. With this purchase agreement it is made possible for the owners to realize a citizen's residence at the Iepenlaan through the publication of building lots. The municipality of Uithoorn acquires the land for the park by means of a purchase agreement with the current owners.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0393.BPWWS2018-VA01",
+        "topic": "purchase agreement",
+        "context": "In order to prevent soap residue from getting into surface water via the skywater because residents wash their cars, the purchase agreements include that car washing on the street is not allowed.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0858.BPemmalaan-VA01",
+        "topic": "purchase agreement",
+        "context": "A purchase agreement is drawn up between the municipality, as initiator, and the housing association for the sale of the land necessary for the intended development. The starting point of the purchase agreement is that parts of the property of the former municipality yard are sold to the housing association.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0716.bpMarehoekOVM-VG01",
+        "topic": "purchase agreement",
+        "context": "Timek Plan Development and Acquisition Company Deurloo (hereinafter the initiators) have concluded a purchase agreement for the land and have planned to phase-develop this site.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1904.BPSingel1VLD-VG01",
+        "topic": "purchase agreement",
+        "context": "In the private sector, this scheme is supported by the purchase agreements.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0874.ANDLBP201703-VG01",
+        "topic": "purchase agreement",
+        "context": "In addition, private law agreements with landowners are included in the purchase agreement so that the municipality can take enforcement action in the event of an obstructed drainage of the watercourse.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0385.BPTunnelpad-vg01",
+        "topic": "purchase agreement",
+        "context": "A purchase agreement and an anterior agreement have been drawn up.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0451.BPIepenlaanD4-VG01",
+        "topic": "purchase agreement",
+        "context": "With this purchase agreement it is made possible for the owners to create a citizen's residence on the Iepenlaan, or in this case on the Noorddammerweg, through the publication of building lots. Since the land is owned by several owners and separate purchase agreements are concluded with these owners, it is not possible to draw up a zoning plan for the entire planning area at once. The municipality of Uithoorn acquires the land for the park by means of a purchase agreement with the current owners.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0597.BPZANDDriehoek2019-VG01",
+        "topic": "purchase agreement",
+        "context": "The developer concludes a purchase agreement with the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0867.BPWWGrotestr403413-VA01",
+        "topic": "purchase agreement",
+        "context": "For the construction and operation of the proposed initiative, a purchase agreement and \"anterior\" agreement between Casade and the municipality was concluded in 2017.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0228.BP2017EDEO0005-0301",
+        "topic": "purchase agreement",
+        "context": "In 2007 the Municipality of Ede signed a purchase agreement with the Ministry of Defence and thus committed the purchase of the entire barracks.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0736.BP022dorpskernen-ow01",
+        "topic": "purchase agreement",
+        "context": "Therefore, the municipality includes terms and conditions in the purchase agreements.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0005.BPBE16HERS2-VA01",
+        "topic": "purchase agreement",
+        "context": "The purchase agreement with new owners lays down, where relevant for the plot in question, that any additional costs incurred for the disposal of contaminated land, the presence of the wood foundations poles, the monitoring of groundwater before, during and after the installation of the foundation and the environmental supervision during construction are borne by the municipality (project clean-up gas plant).",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1652.BPZandstraat2020-VA01",
+        "topic": "purchase agreement",
+        "context": "Initiator has entered into a provisional purchase agreement with the owner of a property, located at Zandstraat 14 in Bakel, between Gemert and De Mortel, on the purchase of part of the property.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1652.Stedelijk102015-VA03",
+        "topic": "purchase agreement",
+        "context": "Underlying plan development is the result of a previously concluded purchase agreement between In view of the additional agreements in the purchase agreement, e.g.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0575.BPDZHetZilt-VA01",
+        "topic": "purchase agreement",
+        "context": "The municipality has concluded a purchase agreement with the party in question in which the cost recovery is arranged.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1859.BPBTM20170001-0100",
+        "topic": "purchase agreement",
+        "context": "A purchase agreement has already been concluded in an earlier phase for this area, based on a construction programme, urban planning principles and spatial conditions.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0867.BPWWFlorisVlaan09-VA01",
+        "topic": "purchase agreement",
+        "context": "The intended redevelopment has been developed and laid down in an operating and purchase agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1911.BPDenOeverhz003-va01",
+        "topic": "purchase agreement",
+        "context": "A purchase agreement and an anterior agreement have also been concluded.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0779.GBRVRDPerplanherz-vs01",
+        "topic": "purchase agreement",
+        "context": "The purchase agreement also provides for the municipality to adapt the destination of the land sold to the agreed use at the time of the next revision.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0361.BP00145-0305",
+        "topic": "purchase agreement",
+        "context": "No operating plan will be established as the option purchase agreement has been signed.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1652.Stedelijk102021-VA01",
+        "topic": "purchase agreement",
+        "context": "The purchase agreement of 2014 between the municipality and the developer agreed that exemption from the Note Parking Standards would be granted.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1930.BPHDLWATERRIJK4EN5-3001",
+        "topic": "purchase agreement",
+        "context": "In addition to a purchase agreement, a cooperation agreement has been concluded with the initiator on the method of cooperation between the municipality and initiator.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0502.PBP16Couwenhoek-4001",
+        "topic": "purchase agreement",
+        "context": "This has been agreed in the purchase agreement between the municipality and Heijmans Vastgoed B.V.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0228.BPU2015EDEO0002-0301",
+        "topic": "purchase agreement",
+        "context": "In 2007 the Municipality of Ede signed a purchase agreement with the Ministry of Defence and thus committed the purchase of the entire barracks.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0860.MA01aa030000PB2015-VG01",
+        "topic": "purchase agreement",
+        "context": "At the time of the acquisition of the land by initiator in 1997, the purchase agreement between the municipality and the initiator included that two detached houses could be built on the plot after an article 19 WRO (old) procedure for this purpose.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0873.HOWOxBP137xMOEDx17-VG01",
+        "topic": "purchase agreement",
+        "context": "For the purpose of the relocation of the fire station and the municipal yard to Doelstraat, purchase agreements are concluded with the owners and/or developers. Purchase agreements are concluded with the developers. Purchase agreements are concluded with the developers.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0353.Poortdijk101-VA01",
+        "topic": "purchase agreement",
+        "context": "The economic viability is therefore secured in the purchase agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0867.bpWWOranjeplein000-VA01",
+        "topic": "purchase agreement",
+        "context": "Prior to the start of the planning procedure, the Municipality and initiators concluded a purchase agreement, including agreements on the sharing of responsibilities and costs.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0451.BPIepenlaanD5-VG01",
+        "topic": "purchase agreement",
+        "context": "With this purchase agreement it is made possible for the owners to realize a citizen's residence at the Iepenlaan through the publication of building lots. Since the land is owned by several owners and separate purchase agreements are concluded with these owners, it is not possible to draw up a zoning plan for the entire planning area at once. With this purchase agreement it is made possible for the owners to realize a citizen's residence at the Iepenlaan through the publication of building lots. With this purchase agreement it is made possible for the owners to realize a citizen's residence at the Iepenlaan through the publication of building lots. The municipality of Uithoorn acquires the land for the park by means of a purchase agreement with the current owners.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1930.BPHDLWATERRIJK3-3001",
+        "topic": "purchase agreement",
+        "context": "In addition to a purchase agreement, a cooperation agreement has been concluded with the initiator on the method of cooperation between the municipality and initiator. The municipal cost recovery is taken into account in the purchase price used at the purchase agreement.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0823.BPGROOTBIJSTERVELT-VAST",
+        "topic": "purchase agreement",
+        "context": "These agreements are laid down in the purchase agreement of 9 May 2008.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0484.HRwkloosstr6264-VA01",
+        "topic": "purchase agreement",
+        "context": "The business property on the redevelopment site is owned by a (private) developer and a purchase agreement has been concluded with the owner of the business house. The business property on the redevelopment site is owned by a (private) developer and a purchase agreement has been concluded with the owner of the business house.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0451.BPIepenlaanD7-VG01",
+        "topic": "purchase agreement",
+        "context": "With this purchase agreement it is made possible for the owners to realize a citizen's residence at the Iepenlaan through the publication of building lots. With this purchase agreement it is made possible for the owners to realize a citizen's residence at the Iepenlaan through the publication of building lots. With this purchase agreement it is made possible for the owners to realize a citizen's residence at the Iepenlaan through the publication of building lots.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0416.BPSPDMPAD2016-VA01",
+        "topic": "purchase agreement",
+        "context": "Despite the fact that the ladder does not have to be completed, it is clear that there is a need for the plan in view of the preliminary purchase agreements signed with the current owner.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1774.WEEBPHETSPIKKERT-0402",
+        "topic": "purchase agreement",
+        "context": "In a private-law sense, this scheme is supported by the purchase agreements with future residents.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1641.BPL082-OH01",
+        "topic": "purchase agreement",
+        "context": "On the basis of Article 7 of the Purchase Agreement dated 20 July 2004, this property, known as \"Cadastral Municipality of Beegden', section B number 1536, should be excluded from this zoning plan. The plot is not included in this zoning plan, in accordance with the purchase agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0015.BPGG17BEHE1-VA01",
+        "topic": "purchase agreement",
+        "context": "The developer has entered into a purchase agreement with Wold&Waard to develop the other locations on the Parklaan for private rental and purchase properties.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0079.WpKzSaedkampe16-Vg01",
+        "topic": "purchase agreement",
+        "context": "A qualitative obligation to retain the aldersingel will be included in the purchase agreement with the future owner.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0396.BPduitslandln2021-VA01",
+        "topic": "purchase agreement",
+        "context": "It lays down that this obligation is to be incorporated into the future purchase agreements relating to the apartments.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0308.UP0059-VA01",
+        "topic": "purchase agreement",
+        "context": "A purchase agreement has been drawn up for the realization of the houses, which is also regarded as an anterior agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0758.BP2015219002-0401",
+        "topic": "purchase agreement",
+        "context": "Spatial quality and its core are described in the cloak and purchase agreements between the parties and the municipality of Breda.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0221.BPL17001HBI-VA01",
+        "topic": "purchase agreement",
+        "context": "For parking for the new property, the purchase agreement stipulates that the owner does not have to install a parking space on his own premises because the owner can dispose of a private parking space elsewhere through rent or purchase.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0345.UPDeStratenDp7-vg01",
+        "topic": "purchase agreement",
+        "context": "This scheme is supported by the purchase agreements in private law and is in accordance with the Start-up document Opstaldevelopment.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1892.BpStevensstr78Mrd-Va01",
+        "topic": "purchase agreement",
+        "context": "These agreements are secured in the purchase agreement with future buyers.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0874.ANDLBP201702-VSG1",
+        "topic": "purchase agreement",
+        "context": "It is not impossible to include an arrangement in the zoning plan for this purpose, but it is more efficient to provide for this in a private-law way in the purchase agreement.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0406.BPWijngaard-VG01",
+        "topic": "purchase agreement",
+        "context": "The initiators have agreed on the purchase of the land, the agreements are laid down in separate purchase agreements.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0772.80286-0301",
+        "topic": "purchase agreement",
+        "context": "On 30 September 2015, the Summa College and CRA Vastgoed signed a purchase agreement concerning the school location at the Van Vorststraat in Eindhoven.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0153.BP00121-0003",
+        "topic": "purchase agreement",
+        "context": "For this reason, it is not possible to provide for different energy performance standards to be applied in building lots when issuing lots in the purchase agreement, by way of derogation from the Construction Decision.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0344.BPLEEWELEIDSCHRIJN-VA01",
+        "topic": "purchase agreement",
+        "context": "They would also like to see the management and maintenance of the infiltration facilities realized by means of a chain clause laid down in the purchase agreements. The obligation for management and maintenance is also included in the purchase agreements.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0772.80321-0301",
+        "topic": "purchase agreement",
+        "context": "Purchase agreements have been concluded for the lot issue in which the cost recovery is included in the land operation for the issue of the lots.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0855.BSP2020038-e001",
+        "topic": "purchase agreement",
+        "context": "On 28 May 2021, the initiator signed a purchase agreement to purchase the intended building title.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0637.BP00086-0003",
+        "topic": "purchase agreement",
+        "context": "In the present situation, the above conditions are met because the cost recovery of the project is otherwise ensured by the conclusion of an (anterior) (purchase) agreement incorporating the costs incurred by the municipality into the selling price, supplemented, if necessary, by a contribution to those costs in so far as they are not covered by the selling price, while no location and phasing requirements are required.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0153.BP00130-0003",
+        "topic": "purchase agreement",
+        "context": "For this reason, it is not possible to provide for different energy performance standards to be applied in building lots when issuing lots in the purchase agreement, by way of derogation from the Construction Decision.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0106.02BP20161000N-C001",
+        "topic": "purchase agreement",
+        "context": "The costs are otherwise insured through a purchase agreement with the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0080.06003BP01-VG01",
+        "topic": "purchase agreement",
+        "context": "The purchase agreements are in all cases accompanied by clean land declarations.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1740.bpOPrijnbandijk816-vst1",
+        "topic": "purchase agreement",
+        "context": "This will be dealt with in the purchase agreements.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0736.BPP034herenw110-va01",
+        "topic": "purchase agreement",
+        "context": "It can be said that the extension is also in line with the terms and conditions of sale used by the municipality in the 2011 purchase agreement on the plots Herenweg 108 and 110\\. This zoning plan constitutes the planning framework of the desired initiative. Under the 2011 purchase agreement on the plots Herenweg 108 and 110, it was agreed that of the total area 2/3rd part should remain uncultivated and that 1/3rd part may be built.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0796.0002433-1401",
+        "topic": "purchase agreement",
+        "context": "The purchase agreement provides for the allocation of all costs associated with the planned developments within the planning area.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0153.BP00105-0003",
+        "topic": "purchase agreement",
+        "context": "For this reason, it is not possible to provide for different energy performance standards to be applied in building lots when issuing lots in the purchase agreement, by way of derogation from the Construction Decision.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0118.2022BP9005003-VG01",
+        "topic": "purchase agreement",
+        "context": "In the present case, a purchase agreement is concluded between initiator and the municipality of Hoogeveen.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0153.BP00116-0003",
+        "topic": "purchase agreement",
+        "context": "For this reason, it is not possible to provide for different energy performance standards to be applied in building lots when issuing lots in the purchase agreement, by way of derogation from the Construction Decision.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0858.BPcarolusdreef100-VA01",
+        "topic": "purchase agreement",
+        "context": "A purchase agreement between the municipality and the initiator is drawn up between the parties for the purchase and sale of the land required for the intended development.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0153.BP00122-0003",
+        "topic": "purchase agreement",
+        "context": "For this reason, it is not possible to provide for different energy performance standards to be applied in building lots when issuing lots in the purchase agreement, by way of derogation from the Construction Decision.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0153.BP00068-0004",
+        "topic": "purchase agreement",
+        "context": "For this reason, it is not possible to provide for different energy performance standards to be applied in building lots when issuing lots in the purchase agreement, by way of derogation from the Construction Decision.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1926.bp000180115-4001",
+        "topic": "purchase agreement",
+        "context": "As a result of the transformation, there will be multiple owners who will keep a maintenance strip free as a point of interest in the purchase agreements of the lots.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0518.BP0299HYpenbrgD20-50VA",
+        "topic": "purchase agreement",
+        "context": "The measures on the lots themselves will be laid down in the lot passports and purchase agreements, which will also safeguard those measures.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0479.STED3866BP-0301",
+        "topic": "purchase agreement",
+        "context": "In October 2018, the parties signed a purchase agreement for the mill and surrounding land.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1930.HERZKVNZLD-3001",
+        "topic": "purchase agreement",
+        "context": "The municipality has concluded a purchase agreement with the developer and the proceeds cover the costs.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0501.vansleenfase5-0130",
+        "topic": "purchase agreement",
+        "context": "The land is owned by the municipality and in accordance with the purchase agreement dated 26 July 2017 concluded between the municipality of Brielle and the Catharina Foundation (Foundation for Living, Care and Welfare, Western Voorne) these are transferred.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0637.BP00065-0003",
+        "topic": "purchase agreement",
+        "context": "For the development of the project, the municipality has concluded an anterior purchase agreement with the initiator in which the (financial) agreements on the project have been established, including cost recovery.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0344.BPCOHENLTUINDOOST-VA01",
+        "topic": "purchase agreement",
+        "context": "In mid-2017, as a follow-up to the purchase agreement, the Municipality of Utrecht asked FORM to cooperate with the intended redevelopment and to initiate a zoning procedure for this purpose.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0106.02BP201810006-C001",
+        "topic": "purchase agreement",
+        "context": "This agreement is stipulated between the municipality and Actium in a purchase agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0296.BHRCPOdeRivierduin-VGBP",
+        "topic": "purchase agreement",
+        "context": "However, the construction and maintenance of such a facility is included in the purchase agreement between the municipality and lot buyer.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0345.WPEilandJ-vg01",
+        "topic": "purchase agreement",
+        "context": "This scheme is supported by the purchase agreements in private law and is in accordance with the Start-up document Opstaldevelopment.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0546.BP00157-0301",
+        "topic": "purchase agreement",
+        "context": "A purchase agreement has been concluded between the municipality and the Dutch Housing Foundation Ons Doel. The municipal planning costs and costs for the redevelopment of the public area that are attributable to the redevelopment will be covered on the basis of the agreements in the purchase agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0748.UP189f-0701",
+        "topic": "purchase agreement",
+        "context": "After a successful co\\-creation process and realisation of Nieuwe Kaai phase 1 (23 land-based homes), the municipality and ERA Contour signed at the end of 2015 both a purchase agreement for Nieuwe Kaai phase 2 (26 land-based homes, now produced) and a co\\-creation agreement for Nieuwe Kaai phase 3.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0344.BPVROUWJUTTENHBIN-VA01",
+        "topic": "purchase agreement",
+        "context": "After selection, Altrecht has concluded a purchase agreement with FORM Development BV (VORM) from Papendrecht about the transfer of part of the land and real estate. An operating agreement has been concluded with the developer and a purchase agreement has been concluded with Altrecht which also covers these aspects.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0637.BP00060-0003",
+        "topic": "purchase agreement",
+        "context": "The cost recovery is otherwise insured by an anterior purchase agreement. For the development of the project, the municipality has concluded an anterior purchase agreement with the initiator in which the (financial) agreements on the project have been established, including cost recovery.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0826.BSPslotjeshz4-VA01",
+        "topic": "purchase agreement",
+        "context": "The municipality has concluded a purchase agreement with the initiator for the land situated within the operating area/plan area.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0153.BP00126-0003",
+        "topic": "purchase agreement",
+        "context": "For this reason, it is not possible to provide for different energy performance standards to be applied in building lots when issuing lots in the purchase agreement, by way of derogation from the Construction Decision.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0482.ckclocatie114-vg01",
+        "topic": "purchase agreement",
+        "context": "The municipality has concluded with Housing Power 10 a purchase agreement to sell the plots belonging to the (former) canteen so that Housing Power 10 can realize twenty new social rental apartments on the site. The purchase agreement states that 20 social rental apartments must be realized. About the parking needs of the plan and the minimum number of parking spaces to be realized on your own premises have been agreed in the purchase agreement between Woonkracht 10 and the municipality.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0396.BPmarytgen2021-VA01",
+        "topic": "purchase agreement",
+        "context": "In addition, the policy rules should be included in the later purchase agreements between initiator and future buyers.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0860.MA01aa040000PB2016-VG01",
+        "topic": "purchase agreement",
+        "context": "In the case of land purchase agreements have been made with the owner of the agricultural holding, that the environmental permit is withdrawn and that the agricultural destination is changed, if the planning of Steenoven II gives rise to this.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0310.0008BP15003-VG02",
+        "topic": "purchase agreement",
+        "context": "This will be laid down in the purchase agreements of potential candidates.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0080.06022BP00-VG01",
+        "topic": "purchase agreement",
+        "context": "A purchase agreement will be concluded between those parties and the municipality, with the operation being wholly owned and at the risk of the developing parties.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1783.abp00000013w142-VA01",
+        "topic": "purchase agreement",
+        "context": "For this plan an anterior agreement and purchase agreement has been signed.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0758.BP2018207003-VG01",
+        "topic": "purchase agreement",
+        "context": "The feasibility has been demonstrated and a development and purchase agreement was concluded in December 2018. With the conclusion of a development/purchase agreement, the purchase price for building land is ensured and agreements are made on the planning and quality of the real estate to be realized. By concluding an anterior agreement (development\\-purchase agreement) municipal costs are covered, and planning and implementation are determined.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0860.MA02aa000000BP2014-VG01",
+        "topic": "purchase agreement",
+        "context": "In the case of land purchase agreements have been made with the owner of the agricultural holding, that the environmental permit is withdrawn and that the agricultural destination is changed, if the planning of Steenoven II gives rise to this.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0200.bp1374-vas1",
+        "topic": "purchase agreement",
+        "context": "A purchase agreement has been concluded with the developing party.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0748.BP0231-0301",
+        "topic": "purchase agreement",
+        "context": "The cost recovery (such as planning costs and planning damages) is governed by anterior agreements or purchase agreements with the parties concerned.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1930.BPBENEDENTOLDIJK-3001",
+        "topic": "purchase agreement",
+        "context": "This is the case if the municipality and the initiator and/or the developing party have concluded a private-law purchase agreement on the distribution of costs in land exploitation.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0342.BPSOE0070-0301",
+        "topic": "purchase agreement",
+        "context": "The financial feasibility and the realisation of the planned development plan with this zoning plan, are ensured by inclusion in a land exploitation and a resulting purchase agreement with The Alliance.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0848.BP824BUITENGEBIED-VA01",
+        "topic": "purchase agreement",
+        "context": "In addition, the purchase agreement contains a provision (with penalty clause) that residents have no objection to the realisation of a property on this property.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0184.BP2019ZHW-0302",
+        "topic": "purchase agreement",
+        "context": "The purchase agreement ensures that the use of the remaining part, which was not purchased by the municipality, should not cause (environmental) pollution to the Zeeheldenwijk.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0153.BP00196-0003",
+        "topic": "purchase agreement",
+        "context": "The content of this agreement is the Purchase Agreement concluded in 2008 between the developer and the Municipality and the Addenda agreed in 2016, 2017 and 2018 in addition to that agreement. For the areas in the planning area that are not yet owned by the developer, it enters into a purchase agreement with the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0034.BP3KNS04-vg01",
+        "topic": "purchase agreement",
+        "context": "This is therefore in accordance with the zoning plan in force at the time and also in accordance with the purchase agreement with the owner of the supermarket from 2014\\. The same agreement stipulates that a second supermarket of up to 800 m\u00c22 bvo is also possible.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0340.BPMaximahuizen-VA01",
+        "topic": "purchase agreement",
+        "context": "In order to ensure the recovery of any costs incurred by the municipality, the purchase agreement to be concluded by the project developer and the municipality includes agreements relating to the recovery of the costs referred to in Article 6\\.2\\.3 and 6\\.2\\.4 of the Spatial Planning Decision. The purchase agreement also lays down general rules on rights and disputes.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1740.bpKEcasterhoven24-vst1",
+        "topic": "purchase agreement",
+        "context": "The developer has entered into a purchase agreement with the current owner.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0050.UPPNBKHF2-VS01",
+        "topic": "purchase agreement",
+        "context": "Furthermore, the waterboard is requested to draw the initiator's attention to the fact that for the development of the plan several reporting and/or licensing obligations exist for operations in or near the water system and to incorporate any (constraints from the) water safety interests into the purchase agreements for the lots of land-based housing that are (partly) located in the protection zones of the barrier.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0575.BPNBjohvhoornstreo-VA01",
+        "topic": "purchase agreement",
+        "context": "The municipality concluded a purchase agreement with the initiator on 14 March 2018.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1783.abp00000013w89-VA01",
+        "topic": "purchase agreement",
+        "context": "A purchase agreement has been concluded with both parties and a plan damage has been signed.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0175.HavenOostBP001-VG01",
+        "topic": "purchase agreement",
+        "context": "For the conversion of the current farm house at the Haven Oost 4 to civilian residence and the possibility of two houses on the rear yard are anterior agreements laid down in the purchase agreement.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1640.BP18HoKloppeven-VG01",
+        "topic": "purchase agreement",
+        "context": "Furthermore, the purchase agreement of the houses within the area of influence provides information on the risks of the pipe pipe and escape routes.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0153.BP00101-0003",
+        "topic": "purchase agreement",
+        "context": "For this reason, it is not possible to provide for different energy performance standards to be applied in building lots when issuing lots in the purchase agreement, by way of derogation from the Construction Decision.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0307.BP00154-0301",
+        "topic": "purchase agreement",
+        "context": "The land yields used in land exploitation are determined with the developing parties through (purchase) agreements.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1783.abp00000013w26-VA01",
+        "topic": "purchase agreement",
+        "context": "For this change plan, no anterior agreement is concluded, but the costs are included in the purchase agreements.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0597.BPSLIK2020KIEVIT86-VG01",
+        "topic": "purchase agreement",
+        "context": "The developer concludes a purchase agreement with the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0202.879-0301",
+        "topic": "purchase agreement",
+        "context": "According to the purchase agreement, the municipality has the obligation to modify the zoning plan in order to deliver mature land. The purchase agreement also states that any planning damage will be borne by the buyer.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1783.obp00000007w09-VA01",
+        "topic": "purchase agreement",
+        "context": "For this plan no anterior agreement is concluded, but the costs are settled in the purchase agreement (ground issuance\\ agreements) with the buyers of the different lots.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0637.BP00102-0003",
+        "topic": "purchase agreement",
+        "context": "For the development of the project, the municipality has concluded an anterior purchase agreement with the initiators in which the (financial) agreements on the project have been established, including cost recovery.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0356.BPBH2015HER001-VA02",
+        "topic": "purchase agreement",
+        "context": "On 7 October 2015, a purchase agreement was also concluded with Trebbe Wonen.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0779.RVBPHeereland-vs01",
+        "topic": "purchase agreement",
+        "context": "In order to ensure that there is room for a possible increase in the thighs or increase in the purchase agreements with the future residents of these houses, an obligation may be included to give up part of the backyard for this purpose.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1924.ODPhazersweg25-BP31",
+        "topic": "purchase agreement",
+        "context": "The construction and maintenance of these are secured in an agreement with the initiator containing the obligation to include a chain clause in the purchase agreements with the buyers of the houses.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0059.Bp8KVeegplan2017-VG01",
+        "topic": "purchase agreement",
+        "context": "Contractually, the agreements with Memento Mori are fixed in the purchase agreement concluded with the municipality. The purchase agreement of 2013 does not contain any provision concerning the non-application of an objection against the four intended properties to the F\u00c3\u0438gelkamp, as indicated by the local residents.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0546.BP00140-0301",
+        "topic": "purchase agreement",
+        "context": "A purchase agreement was entered into in 2017 to enable this development.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0274.bp0167dw-va02",
+        "topic": "purchase agreement",
+        "context": "Cap of trees in the planning area shall be assessed in this respect and not under the land purchase agreement.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0310.0008BP15004-VG01",
+        "topic": "purchase agreement",
+        "context": "This will be laid down in the purchase agreements of potential candidates.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0796.0002404-1401",
+        "topic": "purchase agreement",
+        "context": "Zayaz signed a purchase agreement with Zayaz on 18 December 2018.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0345.UPEilandM-vg01",
+        "topic": "purchase agreement",
+        "context": "This scheme is supported by the purchase agreements in private law and is in accordance with the Start-up document Opstaldevelopment.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0344.BPMERWEDEDG4DEFENS-VA01",
+        "topic": "purchase agreement",
+        "context": "The municipality has stipulated in the purchase agreement, which is concluded with the RijksVastgoedBedrijf (RVB: De Staat), that all mobile contaminations above the intervention values in the solid soil are removed to a depth of 2,5 meters \u00e2\u00fcmv, by excavation.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0153.BP00104-0003",
+        "topic": "purchase agreement",
+        "context": "For this reason, it is not possible to provide for different energy performance standards to be applied in building lots when issuing lots in the purchase agreement, by way of derogation from the Construction Decision.",
+        "answer": "{ \"answer\": false }"
+    }
+]
