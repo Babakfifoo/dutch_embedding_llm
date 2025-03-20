@@ -450,3 +450,53 @@ with open(f"../data/plan_documents/answered/{TOPIC}.json", "w") as f:
     f.write(json.dumps(obj=topic_1, indent=4))
 
 # %%
+
+prompt = """
+Analyze the following context, follow instructions:
+#### Instructions:
+We have the "context" containing information about cost recovery of the land use plans in the Netherlands.
+We want to see whether agreement is concluded or will be used.
+If the context explicitely mentions that there "will" be an agreement or a contract, answer 'True', otherwise 'False'.
+
+Do not provide any additional information.
+Do not hallucinate.
+Only use the context provided.
+
+#### context:
+
+{context}
+
+"""
+
+TOPIC = "will agree"
+THRESHOLD = 80
+topic_1 = []
+for plan in tqdm(texts):
+    selected_ids = [
+        i
+        for i, s in enumerate(iterable=plan.get("en"))
+        if find_topic(
+            s.lower(),
+            [
+                "agreement", "contract"
+            ],
+            threshold=THRESHOLD,
+        ) and ("will" in s.lower())
+    ]
+    entry = {
+        "IMRO": plan.get("IMRO"),
+        "topic": TOPIC,
+    }
+    if len(selected_ids) == 0:
+        continue
+    entry["context"] = " ".join([plan.get("en")[x] for x in selected_ids]).replace(
+        "story", "recovery"
+    )
+    answer = ask_LLM(entry, prompt)
+    entry["answer"] = answer["message"]["content"]
+    topic_1.append(entry)
+
+with open(f"../data/plan_documents/answered/{TOPIC}.json", "w") as f:
+    f.write(json.dumps(obj=topic_1, indent=4))
+
+# %%

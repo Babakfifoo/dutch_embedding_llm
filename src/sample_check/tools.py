@@ -109,4 +109,6 @@ COLOR_DICT = {
     "Space for Space": "budgetHighlight",
     " realisation ": "purpleHighlight",
     "Realisation ": "purpleHighlight",
+    "promoter": "initHighlight",
+    "will": "redHighlight",
 }

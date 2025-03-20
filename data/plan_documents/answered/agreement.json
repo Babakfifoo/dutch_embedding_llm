@@ -129,7 +129,7 @@
         "IMRO": "t_NL.IMRO.0664.BPWO08-VG99",
         "topic": "agreement",
         "context": "This is the case, inter alia, where the municipality and the initiator and/or the developing party have concluded a private law agreement on the allocation of costs in land exploitation. In this development, an anterior agreement has been concluded between the municipality and the initiator, or the developing party, which means that it is not necessary to draw up an exploitation plan.",
-        "answer": "{\n  \"answer\": true\n}"
+        "answer": "{ \"answer\": true }"
     },
     {
         "IMRO": "t_NL.IMRO.0277.BPKOM2020001-0002",
@@ -243,7 +243,7 @@
         "IMRO": "t_NL.IMRO.0703.07YeBPHofvPoleij42-va01",
         "topic": "agreement",
         "context": "This is the case, inter alia, where the municipality and the initiator and/or the developing party have concluded a private law agreement on the allocation of costs in land exploitation. In this development, an anterior agreement has been concluded between the municipality and the initiator, or the developing party, which means that it is not necessary to draw up an exploitation plan.",
-        "answer": "{\n  \"answer\": true\n}"
+        "answer": "{ \"answer\": true }"
     },
     {
         "IMRO": "t_NL.IMRO.0642.BP16dorpstraat78-3001",
@@ -369,7 +369,7 @@
         "IMRO": "t_NL.IMRO.0416.BPSP2012wp006-va01",
         "topic": "agreement",
         "context": "The agreement between the municipality and the initiator also stipulates that any damage to the plan will be borne by the initiator.",
-        "answer": "{ \"answer\": true }"
+        "answer": "{\n  \"answer\": true\n}"
     },
     {
         "IMRO": "t_NL.IMRO.1911.BPZwinstraat50-va01",
@@ -597,7 +597,7 @@
         "IMRO": "t_NL.IMRO.0405.BPHolenkwartier-va01",
         "topic": "agreement",
         "context": "This is in accordance with the agreements, as included in the anterior agreement between the municipality and developer. This is contractually stipulated in an anterior agreement between the municipality and the developer.",
-        "answer": "{\n  \"answer\": true\n}"
+        "answer": "{\n  \"answer\": false\n}"
     },
     {
         "IMRO": "t_NL.IMRO.0828.HZ3komgeffen2016-VG01",
@@ -639,7 +639,7 @@
         "IMRO": "t_NL.IMRO.0707.BPAMDDoelakkerweg-VA01",
         "topic": "agreement",
         "context": "This assurance is demonstrated by the fact that the guidance of the planning procedure is covered by the levying of fees, that the establishment of facilities in the operating area is not involved, that the planning plan and the necessary feasibility studies have been funded by the initiator, that a plan damage agreement has been concluded between the municipality and the initiator.",
-        "answer": "{ \"answer\": true }"
+        "answer": "{\n  \"answer\": true\n}"
     },
     {
         "IMRO": "t_NL.IMRO.0585.BPSGDROODENBURGVST-VG01",
@@ -777,7 +777,7 @@
         "IMRO": "t_NL.IMRO.0762.BPW201901-C001",
         "topic": "agreement",
         "context": "Under this procedure, an anterior agreement is concluded between the municipality and the initiator. Under this procedure, an anterior agreement is concluded between the municipality and the initiator.",
-        "answer": "{\n    \"answer\": true\n}"
+        "answer": "{ \"answer\": true }"
     },
     {
         "IMRO": "t_NL.IMRO.0513.0701BPGouweKZone-VG01",
@@ -807,7 +807,7 @@
         "IMRO": "t_NL.IMRO.0703.07YeBPGrintweg33A-va01",
         "topic": "agreement",
         "context": "This is the case, inter alia, where the municipality and the initiator and/or the developing party have concluded a private law agreement on the allocation of costs in land exploitation. In this development, an anterior agreement has been concluded between the municipality and the initiator, or the developing party, which means that it is not necessary to draw up an exploitation plan.",
-        "answer": "{\n  \"answer\": true\n}"
+        "answer": "{ \"answer\": true }"
     },
     {
         "IMRO": "t_NL.IMRO.0845.BP2021DGNLTSRSTR45-VA01",
@@ -861,7 +861,7 @@
         "IMRO": "t_NL.IMRO.0703.02KrBPOostweg33-va01",
         "topic": "agreement",
         "context": "This is the case, inter alia, where the municipality and the initiator and/or the developing party have concluded a private law agreement on the allocation of costs in land exploitation. In this development, an anterior agreement has been concluded between the municipality and the initiator, or the developing party, which means that it is not necessary to draw up an exploitation plan.",
-        "answer": "{\n  \"answer\": true\n}"
+        "answer": "{ \"answer\": true }"
     },
     {
         "IMRO": "t_NL.IMRO.0585.BPSGDBHOEK125-VG01",
@@ -873,7 +873,7 @@
         "IMRO": "t_NL.IMRO.1706.WPSRD6014-VAS1",
         "topic": "agreement",
         "context": "Under this amending plan, an anterior agreement is concluded between the municipality and the initiator. In the agreement concluded between the municipality and the initiator, the construction of a 6 m3 storage facility is secured and it is stipulated that the initiator should indicate in the building application how the recovery facility is designed.",
-        "answer": "{ \"answer\": true }"
+        "answer": "{\n    \"answer\": true\n}"
     },
     {
         "IMRO": "t_NL.IMRO.1696.KRKKRTHF2015-va00",
@@ -1017,7 +1017,7 @@
         "IMRO": "t_NL.IMRO.1706.BPMHZ5020-VAS1",
         "topic": "agreement",
         "context": "The actual construction of these parking spaces is ensured in the rules of this zoning plan and also by a provision in the anterior agreement between the municipality and the initiator. The actual construction of the necessary infiltration facility is ensured by a provision in the anterior agreement concluded between the municipality and initiator.",
-        "answer": "{\n  \"answer\": true\n}"
+        "answer": "{\n\"answer\": true}"
     },
     {
         "IMRO": "t_NL.IMRO.0246.608ONTH07HNDNBSWEG-VA01",
@@ -1347,7 +1347,7 @@
         "IMRO": "t_NL.IMRO.0828.WZ1kraaijevnonggff-VG01",
         "topic": "agreement",
         "context": "The arrangements for the implementation of the fund contribution and the implementation of the landscape integration are laid down in an anterior agreement between the municipality and the initiator. The agreements are laid down in an anterior agreement between the municipality and the initiator. The agreements are laid down in an anterior agreement between the municipality and the initiator. In addition, pursuant to Article 6.4a of the Regional Planning Act, a plan damages agreement has been concluded between the municipality and initiator.",
-        "answer": "{\n\"answer\": true\n}"
+        "answer": "{\n    \"answer\": true\n}"
     },
     {
         "IMRO": "t_NL.IMRO.0180.5102021006-VS01",
@@ -1419,7 +1419,7 @@
         "IMRO": "t_NL.IMRO.0823.BPBGBESTSE49STRONG-VAST",
         "topic": "agreement",
         "context": "The demolition of the surplus building, the construction and maintenance of the landscape and the application of rural architecture in the realisation of new business buildings is guaranteed in fact and legally by the inclusion of a conditional obligation in the rules of the zoning plan and also by the conclusion of an anterior agreement between the municipality and initiator.",
-        "answer": "{ \"answer\": true }"
+        "answer": "{\n  \"answer\": true\n}"
     },
     {
         "IMRO": "t_NL.IMRO.1507.SNSONDERTONG-WPV1",
@@ -1497,7 +1497,7 @@
         "IMRO": "t_NL.IMRO.0080.04015BP00-VG01",
         "topic": "agreement",
         "context": "For this purpose, a plan-damaging agreement has been concluded between the municipality and the initiator. The cost recovery, as well as the transfer of the plan damage, is governed by a separate operating agreement signed between the municipality and initiator. The municipality and initiator will keep firefighters Frysl\u00e2n informed.",
-        "answer": "{ \"answer\": true }"
+        "answer": "{\n  \"answer\": true\n}"
     },
     {
         "IMRO": "t_NL.IMRO.0988.BPWalestraat-VA01",
@@ -1683,7 +1683,7 @@
         "IMRO": "t_NL.IMRO.1706.BPMHZ5022-VAS1",
         "topic": "agreement",
         "context": "The actual construction of these parking spaces is ensured in the rules of this zoning plan and also by a provision in the anterior agreement between the municipality and the initiator. The actual construction of the necessary infiltration facility is ensured by a provision in the anterior agreement concluded between the municipality and initiator.",
-        "answer": "{\n  \"answer\": true\n}"
+        "answer": "{\n\"answer\": true}"
     },
     {
         "IMRO": "t_NL.IMRO.0716.WESTPARKZONESMD-VG01",
@@ -1935,7 +1935,7 @@
         "IMRO": "t_NL.IMRO.0246.609ONTBEEKLAND-VA01",
         "topic": "agreement",
         "context": "In consultation between the municipality and the initiator, it is determined how the development of the site can have an added value of the spatial quality (image quality building) and the living environment (landscape integration and improvement of landscape values).",
-        "answer": "{ \"answer\": false }"
+        "answer": "{\n  \"answer\": false\n}"
     },
     {
         "IMRO": "t_NL.IMRO.1926.wp0001801048-4001",
@@ -2019,7 +2019,7 @@
         "IMRO": "t_NL.IMRO.1706.BPBDL0032-VAS1",
         "topic": "agreement",
         "context": "The actual construction of these parking spaces is ensured in the rules of the present modification plan and also by a provision in the anterior agreement between the municipality and the initiator. The actual construction of the necessary infiltration facility is ensured by a provision in the anterior agreement concluded between the municipality and initiator.",
-        "answer": "{\n  \"answer\": true\n}"
+        "answer": "{\n\"answer\": true}"
     },
     {
         "IMRO": "t_NL.IMRO.1892.Wpknblwgt2en4Zhn-Va01",
@@ -2043,7 +2043,7 @@
         "IMRO": "t_NL.IMRO.0703.05RiBPHuizeVliedb-va01",
         "topic": "agreement",
         "context": "This is the case, inter alia, where the municipality and the initiator and/or the developing party have concluded a private law agreement on the allocation of costs in land exploitation. In this development, an anterior agreement has been concluded between the municipality and the initiator, or the developing party, which means that it is not necessary to draw up an exploitation plan.",
-        "answer": "{\n  \"answer\": true\n}"
+        "answer": "{ \"answer\": true }"
     },
     {
         "IMRO": "t_NL.IMRO.0599.BP2033Vrijlandt-va01",
@@ -2139,7 +2139,7 @@
         "IMRO": "t_NL.IMRO.0703.07YeBPBosburg-va01",
         "topic": "agreement",
         "context": "This is the case, inter alia, where the municipality and the initiator and/or the developing party have concluded a private law agreement on the allocation of costs in land exploitation. In this development, an anterior agreement has been concluded between the municipality and the initiator, or the developing party, which means that it is not necessary to draw up an exploitation plan.",
-        "answer": "{\n  \"answer\": true\n}"
+        "answer": "{ \"answer\": true }"
     },
     {
         "IMRO": "t_NL.IMRO.0762.BP201806-C001",
@@ -2217,7 +2217,7 @@
         "IMRO": "t_NL.IMRO.0703.03KnBPEdRondte-va01",
         "topic": "agreement",
         "context": "This is the case, inter alia, where the municipality and the initiator and/or the developing party have concluded a private law agreement on the allocation of costs in land exploitation. In this development, an anterior agreement has been concluded between the municipality and the initiator, or the developing party, which means that it is not necessary to draw up an exploitation plan.",
-        "answer": "{\n  \"answer\": true\n}"
+        "answer": "{ \"answer\": true }"
     },
     {
         "IMRO": "t_NL.IMRO.0296.BGBvabrijdtsestr7-VGBP",
@@ -2301,7 +2301,7 @@
         "IMRO": "t_NL.IMRO.1924.OTMolenpolder-WP40",
         "topic": "agreement",
         "context": "Despite the fact that, in view of the traffic reports, it is not necessary to broaden the connection of the Molenweg to the Molendijk, it has been agreed between the municipality and the initiator that they want to improve traffic flow and road safety on the ground and will ensure an adapted road profile in which the connection of the Molenweg to the Molendijk will be widened. An anterior agreement is concluded between the municipality and the initiator.",
-        "answer": "{ \"answer\": true }"
+        "answer": "{\n  \"answer\": true\n}"
     },
     {
         "IMRO": "t_NL.IMRO.0687.BPBREALAU-VG01",
@@ -2325,13 +2325,13 @@
         "IMRO": "t_NL.IMRO.0310.16002WP0007-VG01",
         "topic": "agreement",
         "context": "The municipality and initiators have included in an anterior agreement, which has been concluded well before the established DuBo policy, to take into account the sustainability ambition set out in the former Dubo agreement. Further planning will take into account the GPR ambition agreed between the municipality and initiator. The municipality and the applicant laid down the agreements on the cost recovery in a so-called anterior operating agreement.",
-        "answer": "{ \"answer\": true }"
+        "answer": "{\n  \"answer\": true\n}"
     },
     {
         "IMRO": "t_NL.IMRO.0703.01HaBPSchoolstraat-va01",
         "topic": "agreement",
         "context": "This is the case, inter alia, where the municipality and the initiator and/or the developing party have concluded a private law agreement on the allocation of costs in land exploitation. In this development, an anterior agreement has been concluded between the municipality and the initiator, or the developing party, which means that it is not necessary to draw up an exploitation plan.",
-        "answer": "{\n  \"answer\": true\n}"
+        "answer": "{ \"answer\": true }"
     },
     {
         "IMRO": "t_NL.IMRO.0085.BPWrongel-VG01",
@@ -3285,7 +3285,7 @@
         "IMRO": "t_NL.IMRO.0855.BSP2016021-e001",
         "topic": "agreement",
         "context": "A cooperation agreement between the municipality and the initiator was concluded on 21 June 2004. In addition, there is an agreement compensation in damages concluded by the municipality and initiator.",
-        "answer": "{\n\"answer\": true\n}"
+        "answer": "{\n    \"answer\": true\n}"
     },
     {
         "IMRO": "t_NL.IMRO.1734.0245HTRNhoenderkmp-VSG1",
@@ -3357,7 +3357,7 @@
         "IMRO": "t_NL.IMRO.0879.BPPrinsenstraatF3-VS01",
         "topic": "agreement",
         "context": "The municipality and developer have agreed that the latter will physically invest 1% of the land issue price in the construction of the landscape area (see paragraph 3\\.2).",
-        "answer": "{ \"answer\": true }"
+        "answer": "{\n\"answer\": true\n}"
     },
     {
         "IMRO": "t_NL.IMRO.1949.WPFraZevenhuizen3-VAS1",
@@ -3489,7 +3489,7 @@
         "IMRO": "t_NL.IMRO.0861.BP00089-0401",
         "topic": "agreement",
         "context": "This is the case, inter alia, where the municipality and the initiator and/or the developing party have concluded a private law agreement on the allocation of costs in land exploitation. In this development, an anterior agreement has been concluded between the municipality and the initiator, or the developing party, which means that it is not necessary to draw up an exploitation plan.",
-        "answer": "{\n  \"answer\": true\n}"
+        "answer": "{ \"answer\": true }"
     },
     {
         "IMRO": "t_NL.IMRO.0164.BP0140-0301",
@@ -3705,7 +3705,7 @@
         "IMRO": "t_NL.IMRO.0796.0002461-1401",
         "topic": "agreement",
         "context": "For these buildings, the municipality grants the developer \\-",
-        "answer": "{ \"answer\": false }"
+        "answer": "{\n  \"answer\": false }"
     },
     {
         "IMRO": "t_NL.IMRO.1731.ElzenlaanSmilde-VST1",
@@ -3771,7 +3771,7 @@
         "IMRO": "t_NL.IMRO.0344.BPVLEUTENSEVAART-VA02",
         "topic": "agreement",
         "context": "For the recovery of costs incurred by the municipality that are not covered by the regular fees, an anterior agreement has been concluded between the municipality and initiator. For this purpose, a plan damages agreement has been concluded between the municipality and initiator.",
-        "answer": "{\n  \"answer\": true\n}"
+        "answer": "{\n    \"answer\": true\n}"
     },
     {
         "IMRO": "t_NL.IMRO.1705.234-VG01",
@@ -4269,7 +4269,7 @@
         "IMRO": "t_NL.IMRO.0289.0057Mouterij-VSG1",
         "topic": "agreement",
         "context": "A cooperation agreement has been concluded between the municipality and developers. Furthermore, a plan damages agreement has been concluded between the municipality and developers.",
-        "answer": "{\n  \"answer\": true\n}"
+        "answer": "{\n    \"answer\": true\n}"
     },
     {
         "IMRO": "t_NL.IMRO.0796.0002312-1401",
@@ -4323,7 +4323,7 @@
         "IMRO": "t_NL.IMRO.0620.bp0018-VG01",
         "topic": "agreement",
         "context": "In the present case, an anterior agreement has been concluded between the municipality and the initiator, which includes agreements on possible planning damage.",
-        "answer": "{\n  \"answer\": true\n}"
+        "answer": "{ \"answer\": true }"
     },
     {
         "IMRO": "t_NL.IMRO.1681.14BP0010-VG01",
@@ -4365,7 +4365,7 @@
         "IMRO": "t_NL.IMRO.0874.ALMKBP201501-VST1",
         "topic": "agreement",
         "context": "The municipality and the initiator have concluded a cooperation agreement which stipulates that, under conditions, all costs are for the developing party.",
-        "answer": "{ \"answer\": true }"
+        "answer": "{\n  \"answer\": true\n}"
     },
     {
         "IMRO": "t_NL.IMRO.0308.BP0083-VG01",

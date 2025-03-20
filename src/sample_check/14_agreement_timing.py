@@ -28,10 +28,10 @@ setup_colors()
 
 
 manual_answers_file = (
-    "./data/plan_documents/results/manual_inspection/inspection_land_allocation.json"
+    "./data/plan_documents/results/manual_inspection/inspection_agreement_timing.json"
 )
-LLM_answer_file = "./data/plan_documents/answered/Land allocation.json"
-FACTOR = "Land Allocation"
+LLM_answer_file = "./data/plan_documents/answered/will agree.json"
+FACTOR = "Agreement timing"
 
 if "original" not in st.session_state:
     with open(LLM_answer_file, "r") as f:
@@ -49,7 +49,6 @@ if "LLM_anterior" not in st.session_state:
     data = [  # Getting the plans with True value ...
         p for p in st.session_state["original"] if json.loads(p.get("answer")).get("answer")
     ]
-    # Whole sample is reviewed
     st.session_state["LLM_anterior"] = data
     st.session_state["plan_idx"] = 0
 
@@ -59,7 +58,7 @@ active_plan["answer"] = bool_cleaner(active_plan.get("answer"))
 
 
 st.title(
-    body=f"{st.session_state['plan_idx']} / {len(st.session_state['LLM_anterior'])} -> {active_plan.get('IMRO')}"
+    body=f"{st.session_state['plan_idx']} / {len(st.session_state["LLM_anterior"])} -> {active_plan.get('IMRO')}"
 )
 
 Information, Questions = st.columns([2, 1])

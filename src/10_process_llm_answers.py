@@ -4,6 +4,7 @@ import json
 import pandas as pd
 from pathlib import Path
 
+
 def bool_cleaner(s: str) -> bool:
     # validating the answer
     if not isinstance(s, str):
@@ -14,8 +15,9 @@ def bool_cleaner(s: str) -> bool:
 
 
 def bool_cleaner_string(s):
-    s = json.loads(s)
-    return s.get("answer", None)
+    if "true" in s:
+        return True
+    return False 
 
 
 def get_answers(res_fp, ans_fp):
@@ -104,6 +106,14 @@ clean_results(
     ans_fp="../data/plan_documents/answered/cooperation agreement.json",
     ins_fp="../data/plan_documents/results/manual_inspection/inspection_coop_20250318.json",
     output="../data/final/06_cooperation_agreement.parquet",
+)
+
+clean_results(
+    name="initiator_land",
+    res_fp="../data/plan_documents/results/inspecting_false/result_developer_land_20250320.json",
+    ans_fp="../data/plan_documents/answered/private ownership.json",
+    ins_fp="../data/plan_documents/results/manual_inspection/inspection_private_ownership_20250320.json",
+    output="../data/final/07_initiator_ownership.parquet",
 )
 
 all_plans = pd.DataFrame(

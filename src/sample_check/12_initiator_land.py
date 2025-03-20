@@ -15,6 +15,12 @@ def colorise(s):
     return s
 
 
+def bool_cleaner_string(s):
+    if "true" in s:
+        return True
+    return False 
+
+
 def bool_cleaner(s: str) -> bool:
     # validating the answer
     if not isinstance(s, str):
@@ -47,29 +53,19 @@ except Exception as e:
 
 if "LLM_anterior" not in st.session_state:
     data = [  # Getting the plans with True value ...
-        p for p in st.session_state["original"] if json.loads(p.get("answer")).get("answer")
+        p for p in st.session_state["original"] if bool_cleaner_string(p.get("answer"))
     ]
-    if len(data) < 400:
-        st.session_state["LLM_anterior"] = data
-    else:
-        numbers = set(
-            random.choices(
-                population=range(len(data)),
-                k=int((len(data) / (1 + (384.16 / len(data))))),
-            )
-        )
-        numbers = list(numbers)
-        st.session_state["sample"] = len(numbers)
-        st.session_state["LLM_anterior"] = [p for i, p in enumerate(data) if i in numbers]
+
+    st.session_state["LLM_anterior"] = data
     st.session_state["plan_idx"] = 0
 
 
-active_plan = st.session_state["LLM_anterior"][st.session_state["plan_idx"]]
+active_plan = st.session_state["LLM_anterior"][st.session_state["plan_idx"] % len(st.session_state['LLM_anterior'])]
 active_plan["answer"] = bool_cleaner(active_plan.get("answer"))
 
 
 st.title(
-    body=f"{st.session_state['plan_idx']} / {st.session_state['sample']} -> {active_plan.get('IMRO')}"
+    body=f"{st.session_state['plan_idx']} / {len(st.session_state['LLM_anterior'])} -> {active_plan.get('IMRO')}"
 )
 
 Information, Questions = st.columns([2, 1])
