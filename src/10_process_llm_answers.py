@@ -125,7 +125,7 @@ clean_results(
 )
 
 clean_results(
-    name="future_agreement",
+    name="agreement",
     res_fp="../data/plan_documents/results/inspecting_false/result_agreement_20250320.json",
     ans_fp="../data/plan_documents/answered/agreement.json",
     ins_fp="../data/plan_documents/results/manual_inspection/inspection_agreement_20250320.json",
