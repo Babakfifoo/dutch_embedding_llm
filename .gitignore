@@ -40,7 +40,6 @@ src/archive/*
 
 # Other files:
 
-*.parquet
 *.est
 
 # GIS files
