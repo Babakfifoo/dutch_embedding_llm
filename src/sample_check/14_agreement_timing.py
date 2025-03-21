@@ -30,7 +30,7 @@ setup_colors()
 manual_answers_file = (
     "./data/plan_documents/results/manual_inspection/inspection_agreement_timing.json"
 )
-LLM_answer_file = "./data/plan_documents/answered/will agree.json"
+LLM_answer_file = "./data/plan_documents/answered/missing.json"
 FACTOR = "Agreement timing"
 
 if "original" not in st.session_state:
