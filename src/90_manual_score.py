@@ -1,6 +1,7 @@
 # %%
 import streamlit as st
 import json
+import pandas as pd
 from itertools import groupby
 from config import MANUAL_QUESTIONS
 from pathlib import Path
@@ -17,7 +18,7 @@ def colorise(s):
 
 
 # %%
-manual_answers_file = Path("./data/plan_documents/manual_answers/sample_manual.json")
+manual_answers_file = Path("./data/plan_documents/manual_answers/Problematics.json")
 
 if manual_answers_file.exists():
     with open(manual_answers_file, "r") as f:
@@ -26,13 +27,15 @@ else:
     st.session_state["manual_answer"] = {}
 
 if "plan_data" not in st.session_state:
-    with open("./data/plan_documents/proper_sample.json") as f:
-        sample = json.loads(f.read())
+    sample = pd.read_csv("./data/problematic.csv")["IMRO"].to_list()
     with open("./data/plan_documents/translated_selected_sents.json", "r") as f:
-        st.session_state["plan_data"] = [
-            x for x in json.loads(f.read()) if x["IMRO"] in sample
-        ]
-    st.session_state["plan_idx"] = 300
+        data = json.loads(f.read())
+
+    st.session_state["plan_data"] = [
+        item for item in data if item["IMRO"].replace("t_", "") in sample
+    ]
+
+    st.session_state["plan_idx"] = 0
 
 
 active_plan = st.session_state["plan_data"][st.session_state["plan_idx"]]

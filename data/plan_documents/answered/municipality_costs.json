@@ -1,0 +1,1694 @@
+[
+    {
+        "IMRO": "t_NL.IMRO.1507.MLBLAKTWEG10A-BPV1",
+        "topic": "municipality_costs",
+        "context": "As a result, any planning damage is not to be borne by the municipality.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1771.BPDeJonkvrouw-VP01",
+        "topic": "municipality_costs",
+        "context": "The costs incurred in carrying out the development are borne by the municipality and the initiator.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1507.SNMAASBREESEWEGONG-BPV1",
+        "topic": "municipality_costs",
+        "context": "As a result, any planning damage is not to be borne by the municipality.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1684.18BPbuitengeb2016-VA02",
+        "topic": "municipality_costs",
+        "context": "The costs associated with this zoning plan are entirely borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1884.BPELZENLAAN-VAS1",
+        "topic": "municipality_costs",
+        "context": "Consequently, all the costs involved in this development will be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1507.AMZWARTEPLAKWEG21-BPV1",
+        "topic": "municipality_costs",
+        "context": "As a result, any planning damage is not to be borne by the municipality.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0984.BP22017-va01",
+        "topic": "municipality_costs",
+        "context": "This ensures that any plan damage to be compensated will not be borne by the municipality of Venray but will be borne by the initiators.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1709.KernKlundert-BP40",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up the zoning plan shall be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0400.214BPKONSPOOR2019-VST1",
+        "topic": "municipality_costs",
+        "context": "The costs for the developments are borne by the municipality and Helder Vastgoed.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0846.BP2015BUIOUBUGEB15-vg02",
+        "topic": "municipality_costs",
+        "context": "The costs associated with this zoning plan are entirely borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1884.BPKERNENWOUBRHOOGM-VAS2",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up the zoning plan shall be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1507.HOKERKEVELDP2-BPV1",
+        "topic": "municipality_costs",
+        "context": "This ensures that any plan damage to be compensated will not be borne by the municipality of Horst aan de Maas but will be borne by the initiator.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0228.BP2016KRNH0001-0302",
+        "topic": "municipality_costs",
+        "context": "The above mentioned costs, which are borne by the municipality, are included in a land operation.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1721.BPZwarteMolen2-VG01",
+        "topic": "municipality_costs",
+        "context": "Any planning damage will be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0988.BPOnzelieveHeren-VA01",
+        "topic": "municipality_costs",
+        "context": "This ensures that any plan damage that may be compensated will not be borne by the municipality of Weert, but will be borne by the initiator.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1894.BPL0128-VG01",
+        "topic": "municipality_costs",
+        "context": "The costs associated with this zoning plan are entirely borne by the municipality of Peel and Maas.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0951.BPswierderkw-VA01",
+        "topic": "municipality_costs",
+        "context": "This ensures that any plan damage to be compensated will not be borne by the municipality of Nuth but will be borne by the initiator.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0225.BPperiodiekstb04-2003",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up this zoning plan shall be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0226.BPDUIVENZUID008-VS01",
+        "topic": "municipality_costs",
+        "context": "The implementation of this plan also does not lead to costs to be borne by the municipality.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1911.BPMiddenmeerwmhz02-va01",
+        "topic": "municipality_costs",
+        "context": "In addition, a separate plan damage agreement has been concluded for this zoning plan, which ensures that any plan damage will not be borne by the municipality.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0785.BP2018003Dorpstrat-vg01",
+        "topic": "municipality_costs",
+        "context": "Only the costs of monitoring the planning procedure are borne by the municipality (for which fees are charged to the initiator).",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0228.BP2017MAAW0002-0301",
+        "topic": "municipality_costs",
+        "context": "Among other things, the above-mentioned costs, which are borne by the municipality, are included in a land operation.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0613.HofvSpuifase1-VST1",
+        "topic": "municipality_costs",
+        "context": "The planning damage risk is borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0984.BP20005-va01",
+        "topic": "municipality_costs",
+        "context": "This ensures that any plan damage to be compensated will not be borne by the municipality of Venray but will be borne by the initiator.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0569.bpNWVZNnieuwvzvhne-va01",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up this zoning plan shall be borne by the municipality. If the financial risk of this plan damage is not passed on to the initiators in advance, it shall be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0785.BP2020001Koestraat-vg01",
+        "topic": "municipality_costs",
+        "context": "Only the costs of monitoring the planning procedure are borne by the municipality (for which fees are charged to the initiator).",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1911.BPUElshofZuid1B-va01",
+        "topic": "municipality_costs",
+        "context": "A separate plan damage agreement has also been concluded for this impact plan, which ensures that any plan damage will not be borne by the municipality.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1507.MLSLOOIERW8a10-BPV1",
+        "topic": "municipality_costs",
+        "context": "As a result, any planning damage is not to be borne by the municipality.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1911.BPZwinstraat50-va01",
+        "topic": "municipality_costs",
+        "context": "The research and planning costs are borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0523.BP2016HGBEBOUWD-VG01",
+        "topic": "municipality_costs",
+        "context": "The planning costs are borne by the municipality of Hardinxveld-Giessendam.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0228.BP2016VELA0001-0301",
+        "topic": "municipality_costs",
+        "context": "The costs borne by the municipality are included in a land operation.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0228.BP2016KRNH0002-0301",
+        "topic": "municipality_costs",
+        "context": "Any damage to plans will be borne by the Municipality of Ede. Among other things, the costs mentioned above - which are borne by the municipality - are included in a land operation.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0441.BGZBPBUITENVAERT-VA02",
+        "topic": "municipality_costs",
+        "context": "This ensures that any plan damage that may be compensated will not be borne by the municipality of Schagen.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1884.BPOUDADERIJPW-VAS1",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up the zoning plan shall be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0847.BP02018013-VS01",
+        "topic": "municipality_costs",
+        "context": "The costs involved in the modification plan are borne by the municipality of Someren.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0394.BPGbeihillegd359-C001",
+        "topic": "municipality_costs",
+        "context": "This ensures that any plan damage that can be compensated will not be borne by the municipality of Haarlemmermeer.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0296.BGBoudwoezikstr5-VG01",
+        "topic": "municipality_costs",
+        "context": "The procedural costs will be borne by the municipality, which will be passed on to the initiator through the municipal emptying regulation.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1894.BPL0244-VG01",
+        "topic": "municipality_costs",
+        "context": "This ensures that any plan damage to be compensated will not be borne by the municipality, but by the initiator.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0984.BP19013-va01",
+        "topic": "municipality_costs",
+        "context": "This ensures that any plan damage to be compensated will not be borne by the municipality of Venray but will be borne by the initiators.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1680.GIENAWEG10AB-VB01",
+        "topic": "municipality_costs",
+        "context": "The costs of managing and maintaining the public area will be borne by the municipality after transfer.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0441.BPWHZ2011Oostwal84-VA01",
+        "topic": "municipality_costs",
+        "context": "In principle, compensation for damage to the plan is thus borne by the municipality as a result of a zoning plan.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0847.BP02016021-VS01",
+        "topic": "municipality_costs",
+        "context": "The costs associated with this zoning plan are entirely borne by the municipality of Someren.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0866.BP00170-0302",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up this zoning plan shall be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1507.SVLUTTELSEWEG-BPV1",
+        "topic": "municipality_costs",
+        "context": "This ensures that any plan damage to be compensated will not be borne by the municipality of Horst aan de Maas but will be borne by the initiator.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0965.BPLGM01OudeMolsber-VG01",
+        "topic": "municipality_costs",
+        "context": "Therefore, any compensation in compensation for damage to plans shall not be borne by the municipality.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0158.WP1007-0002",
+        "topic": "municipality_costs",
+        "context": "Any planning damage will be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0962.BP2ewijzBtg-VA01",
+        "topic": "municipality_costs",
+        "context": "This ensures for these developments that any costs will not be borne by the municipality of Schinnen, but on behalf of the initiator(s).",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1705.189-VG01",
+        "topic": "municipality_costs",
+        "context": "The procedural costs shall be borne by the municipality;",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0523.BP2016BUITENGEBIED-VG01",
+        "topic": "municipality_costs",
+        "context": "The planning costs are borne by the municipality of Hardinxveld-Giessendam.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1507.HOBROEKWEGONG-BPV1",
+        "topic": "municipality_costs",
+        "context": "This ensures that any plan damage to be compensated will not be borne by the municipality of Horst aan de Maas but will be borne by the initiators.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1883.BPHennekuilstraat-VA01",
+        "topic": "municipality_costs",
+        "context": "As a result, any planning damage is not to be borne by the municipality.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0158.BP1170-0002",
+        "topic": "municipality_costs",
+        "context": "Any planning damage will be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0168.03ABP00-0401",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up this plan will be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0870.04BP1125KHJulstr-VA01",
+        "topic": "municipality_costs",
+        "context": "Further costs related to the plan, such as the construction of the public space on the side of the Julianastraat (trottoir) and Kloosterpad (rabat strip) as well as planning damages are borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0632.witt-bVA1",
+        "topic": "municipality_costs",
+        "context": "In this way it is ensured that any planological disadvantage will not be borne by the municipality.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1709.VeegplanKernen2019-BP30",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up and putting into procedure the zoning plan are borne by the municipality of Moerdijk.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1730.BPTynstr2127-0401",
+        "topic": "municipality_costs",
+        "context": "The costs involved in drawing up the change plan are borne by the municipality and are recovered from the initiators via fees.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1705.217-VG01",
+        "topic": "municipality_costs",
+        "context": "The procedural costs shall be borne by the municipality;",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0788.BP18HVTTorenstr4c-VA01",
+        "topic": "municipality_costs",
+        "context": "These costs are entirely borne by the municipality and are covered by the levying of fees.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0797.ParkVlijmen-VG01",
+        "topic": "municipality_costs",
+        "context": "All costs will be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1652.Buitengebied122018-VA01",
+        "topic": "municipality_costs",
+        "context": "Since this is a recovery action because the municipality-wide zoning plan Outside Region 2017 has not been properly processed, this is a recovery action that is to be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0785.BP2020002Rondeakke-vg01",
+        "topic": "municipality_costs",
+        "context": "Only the costs of monitoring the planning procedure are borne by the municipality (for which fees are charged to the initiator).",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1709.VeegplanKernen2019-BP40",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up and putting into procedure the zoning plan are borne by the municipality of Moerdijk.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0228.BP2016MAAW0001-0301",
+        "topic": "municipality_costs",
+        "context": "This makes it clear which costs are to be borne by Woonstede and which costs are to be borne by the municipality.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1884.BPKERNENWOUBRHOOGM-ON01",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up the zoning plan shall be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1742.BPRW2015005-0401",
+        "topic": "municipality_costs",
+        "context": "The costs of the zoning review will be borne by the municipality of Rijssen-Holten.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1774.BUIBPNUTTERSESPOL-0401",
+        "topic": "municipality_costs",
+        "context": "The initiator has concluded a plan-damage risk agreement with the municipality of Dinkelland in which it is agreed that possible plan-damage will not be borne by the municipality of Dinkelland, but will be borne by it.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0394.BPGnwvsportvw1x7-C001",
+        "topic": "municipality_costs",
+        "context": "This ensures that any plan damage that can be compensated will not be borne by the municipality of Haarlemmermeer.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0228.BP2017BENO0001-0301",
+        "topic": "municipality_costs",
+        "context": "Any damage to plans will be borne by the Municipality of Ede. Among other things, the costs mentioned above - which are borne by the municipality - are included in a land operation.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0984.BP20020-va01",
+        "topic": "municipality_costs",
+        "context": "This ensures that any plan damage to be compensated will not be borne by the municipality of Venray but will be borne by the initiator.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0277.BPROZEND2019001-0002",
+        "topic": "municipality_costs",
+        "context": "Furthermore, the costs of drawing up the new zoning plan will be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0984.BP22006-va01",
+        "topic": "municipality_costs",
+        "context": "This ensures that any plan damage to be compensated will not be borne by the municipality of Venray but will be borne by the initiator.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0225.BPperiodiekstgbg03-1803",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up this zoning plan shall be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0059.BPThTuorrebSijeHes-VG01",
+        "topic": "municipality_costs",
+        "context": "Part of this decision is that any damage to the plan resulting from the construction plan is to be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1652.NeerakkerFaseI-VA01",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up the zoning plan are therefore borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1969.BPOL22INBR-VA01",
+        "topic": "municipality_costs",
+        "context": "The costs involved in drawing up the zoning plan shall not be borne by the municipality or by a compensation agreement between the municipality and the buyer.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0342.BPSTB0012-0501",
+        "topic": "municipality_costs",
+        "context": "To the extent that the company meets BAT (best available techniques) in the current situation, the costs of the necessary measures (BAT+) will be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1924.NieuweTonge2013-BP40",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up this zoning plan are entirely borne by the municipality of Goeree-Overflakkee.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0209.BPheemstraw26beu-vadf",
+        "topic": "municipality_costs",
+        "context": "The procedural costs shall be borne by the municipality;",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0870.90BP1016Buitengeb-VA02",
+        "topic": "municipality_costs",
+        "context": "Furthermore, the costs of drawing up this zoning plan will be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0405.BPGroteWaal-va01",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up the zoning plan shall be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1507.LTULSHEGGERWG35-BPV1",
+        "topic": "municipality_costs",
+        "context": "This ensures that any plan damage to be compensated will not be borne by the municipality of Horst aan de Maas but will be borne by the initiator.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1911.BPHippohz0003-va01",
+        "topic": "municipality_costs",
+        "context": "This will also ensure that any plan damage to be compensated will not be borne by the municipality of Hollands Kroon, but will be borne by the initiator.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0299.HZ14VIERKENSHOF-VA01",
+        "topic": "municipality_costs",
+        "context": "The costs of the plan and the procedure are borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0569.bpNKPLandelijkgebi-va01",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up this zoning plan shall be borne by the municipality. If the financial risk of this plan damage is not passed on to the initiators in advance, it shall be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0736.BP022dorpskernen-ow01",
+        "topic": "municipality_costs",
+        "context": "Furthermore, the costs of drawing up the new zoning plan will be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0441.BGZBPBUITENVRTHERZ-VA01",
+        "topic": "municipality_costs",
+        "context": "This ensures that any plan damage that may be compensated will not be borne by the municipality of Schagen.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0005.BPBE16HERS2-VA01",
+        "topic": "municipality_costs",
+        "context": "The purchase agreement with new owners lays down, where relevant for the plot in question, that any additional costs incurred for the disposal of contaminated land, the presence of the wood foundations poles, the monitoring of groundwater before, during and after the installation of the foundation and the environmental supervision during construction are borne by the municipality (project clean-up gas plant).",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0823.BPOIBARCELONA-VAST",
+        "topic": "municipality_costs",
+        "context": "General (procedure) costs, public area costs and any planning costs arising from the project will be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0269.BG144-VG01",
+        "topic": "municipality_costs",
+        "context": "The cost of drawing up the zoning plan and the cost of the zoning procedure will be borne by the municipality and will be paid from general funds.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1940.BPBUI16BUITENGEB-VA01",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up this plan will be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0158.BP1190-0003",
+        "topic": "municipality_costs",
+        "context": "Any planning damage will be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0373.BPG10007Voorstrt54-C001",
+        "topic": "municipality_costs",
+        "context": "This ensures that any plan damage to be compensated will not be borne by the municipality of Bergen, but by the initiator.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0984.BP19027-va01",
+        "topic": "municipality_costs",
+        "context": "This ensures that any plan damage to be compensated will not be borne by the municipality of Venray but will be borne by the initiator.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0263.BP1232-VG01",
+        "topic": "municipality_costs",
+        "context": "The municipality wants to prevent any damage to the plan resulting from the change of plan from being borne by the municipality.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0762.BP201601-C003",
+        "topic": "municipality_costs",
+        "context": "The costs associated with this zoning plan are entirely borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1894.BPL0230-VG01",
+        "topic": "municipality_costs",
+        "context": "This ensures that any plan damage to be compensated will not be borne by the municipality of Peel and Maas but will be borne by the initiator.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1507.AMKERKBOSWEG22-BPV1",
+        "topic": "municipality_costs",
+        "context": "As a result, any planning damage is not to be borne by the municipality.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0840.9000B0020-DEF1",
+        "topic": "municipality_costs",
+        "context": "The costs of building up the land are borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0523.BP2018PARALLELWEG-VG01",
+        "topic": "municipality_costs",
+        "context": "The costs associated with the realisation of a place of residence in the municipal land position are borne by the municipality in this context.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1911.BPUElshofZuid1B001-va01",
+        "topic": "municipality_costs",
+        "context": "A separate plan damage agreement has also been concluded for this impact plan, which ensures that any plan damage will not be borne by the municipality.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0225.BPperiodiekstgbg05-2103",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up this zoning plan shall be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1709.KernKlundert-BP30",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up the zoning plan shall be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0299.BP99KERNENPAHT-VA01",
+        "topic": "municipality_costs",
+        "context": "The costs of the plan and the procedure are borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0269.WZ115-VG01",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up the zoning plan and the costs of the zoning procedure shall be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0355.BPBeukbergen2018-VS01",
+        "topic": "municipality_costs",
+        "context": "Furthermore, the costs of drawing up this zoning plan will be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1970.WPKzFoarwei47-VA01",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up this plan will be borne by the municipality which will issue the land for private commissioning.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0405.BPWesterb143achter-va01",
+        "topic": "municipality_costs",
+        "context": "This ensures that any plan damage to be compensated will not be borne by the municipality of Hoorn, but by the initiator.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0209.BPheemstra14aweu-vadf",
+        "topic": "municipality_costs",
+        "context": "The procedural costs will be borne by the municipality, which will be passed on to the initiator through the municipal emptying regulation.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0296.WOEZklaverpad11-DFBP",
+        "topic": "municipality_costs",
+        "context": "The procedural costs will be borne by the municipality, which will be passed on to the initiator through the municipal emptying regulation.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0809.BPHERZBUITENGEB-VG02",
+        "topic": "municipality_costs",
+        "context": "The costs associated with this zoning plan are entirely borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0228.BP2016MARI0001-0301",
+        "topic": "municipality_costs",
+        "context": "Among other things, the costs mentioned above - which are borne by the municipality - are included in a land operation.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1724.BPUthb0041-VAST",
+        "topic": "municipality_costs",
+        "context": "The costs associated with this zoning plan are entirely borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0225.BPbuitengebied-1603",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up this zoning plan shall be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1911.BPUElshofZuidfase3-va01",
+        "topic": "municipality_costs",
+        "context": "A separate plan damage agreement has also been concluded for this impact plan, which ensures that any plan damage will not be borne by the municipality.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0785.BP2017004Zandeinde-vg01",
+        "topic": "municipality_costs",
+        "context": "Only the costs of monitoring the planning procedure are borne by the municipality (for which fees are charged to the initiator).",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0547.BPamalia-VG01",
+        "topic": "municipality_costs",
+        "context": "This financial coverage is based on a plan damage risk analysis according to possible plan damages that will be borne by the municipality.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0715.WPBVL07-VG01",
+        "topic": "municipality_costs",
+        "context": "The costs incurred are borne by the municipality and fit within the budget released by the council.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1507.SNSTEEGONG-BPV1",
+        "topic": "municipality_costs",
+        "context": "As a result, any planning damage is not to be borne by the municipality.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0225.BPhorRijdt65-2003",
+        "topic": "municipality_costs",
+        "context": "The procedural costs will be borne by the municipality, which will be passed on to the initiators through the municipal emptying regulation.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1701.0000BP000000000573-0003",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up this plan will be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1900.2016miosBPdorpenmo-vast",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up a zoning plan shall be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1911.BPUElshofZuid1C001-va01",
+        "topic": "municipality_costs",
+        "context": "A separate plan damage agreement has also been concluded for this impact plan, which ensures that any plan damage will not be borne by the municipality.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1931.BP1610BT007-VG01",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up this zoning plan shall be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0228.BP2017BENO0002-0301",
+        "topic": "municipality_costs",
+        "context": "Among other things, the costs mentioned above - which are borne by the municipality - are included in a land operation.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0079.WpKzSaedkampe16-Vg01",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up this plan will be borne by the municipality which will issue the land for private commissioning.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0296.WOEZwoezikstr450-DFBP",
+        "topic": "municipality_costs",
+        "context": "The procedural costs will be borne by the municipality, which will be passed on to the initiator through the municipal emptying regulation.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0024.02BP0000-VG01",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up this plan will be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0003.OMGEVINGSPLAN-VG01",
+        "topic": "municipality_costs",
+        "context": "The costs associated with this zoning plan are entirely borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0010.10BP-VG01",
+        "topic": "municipality_costs",
+        "context": "The costs required for this are borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1740.bpNBkernen-vst2",
+        "topic": "municipality_costs",
+        "context": "The planning costs are borne by the municipality of Neder\\-Betuwe.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1581.bpMAAraadhuisplein-va01",
+        "topic": "municipality_costs",
+        "context": "No costs will be borne by the municipality of Utrechtse Heuvelrug.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0106.01BP201810005-C001",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up the plans for public space and the development of the area are borne by the municipality and at risk.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0984.BP17016-va01",
+        "topic": "municipality_costs",
+        "context": "This ensures that any plan damage to be compensated will not be borne by the municipality of Venray but will be borne by the initiator.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0086.17BPKom-0301",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up the zoning plan shall be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0344.BPDONDERSSTRAAT-VA01",
+        "topic": "municipality_costs",
+        "context": "Costs arising from any claims shall not be borne by the municipality of Utrecht.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0736.BPP044PrBernhardl-va01",
+        "topic": "municipality_costs",
+        "context": "These costs are therefore not borne by the municipality of De Ronde Venen.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0209.BPCPOHoutduiflaan-vadf",
+        "topic": "municipality_costs",
+        "context": "All costs to be incurred for the preparation of this destination plan are borne by the municipality and included in the operation for this project.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1774.OOTBPGEMEENTEWERF-VG01",
+        "topic": "municipality_costs",
+        "context": "The municipal and planning costs are borne by the municipality of Dinkelland.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1735.GOxGoorNoord-VS10",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up this plan will be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0059.PHSvDeDellen414318-VG01",
+        "topic": "municipality_costs",
+        "context": "Part of this decision is that any damage to the plan resulting from the construction plan is to be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0855.BSP2017005-e001",
+        "topic": "municipality_costs",
+        "context": "All costs remaining to be incurred for building and housing, noise protection and planning costs (including the fees for the change in the zoning plan in question) shall be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0946.BPWaatskaong2015-VA01",
+        "topic": "municipality_costs",
+        "context": "This ensures that any costs will not be borne by the municipality of Nederweert, but will be borne by the initiator.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0294.BP1808KOHERONTWZON-VA01",
+        "topic": "municipality_costs",
+        "context": "The costs arising from the preparation of the plan and any damage to the plan shall be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0880.BP9579400000-0201",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up this plan will be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0106.02BP20211000X-C001",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up the plans for public space and the development of the area are borne by the municipality and at risk.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0489.BPWGW20160009-VI01",
+        "topic": "municipality_costs",
+        "context": "The costs of changing the zoning plan shall be borne by the municipality as land owner.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1952.bpmigbuitengebied-va01",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up this plan will be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1948.VHL001BP0022018P-VG01",
+        "topic": "municipality_costs",
+        "context": "No plan damage is expected, but any plan damage is to be borne by the municipality and is to be borne by the land exploitation.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1735.GOOR-VS10",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up this plan will be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0984.BP15001-va01",
+        "topic": "municipality_costs",
+        "context": "For the two new homes in the rear of the plots Stationsweg 68 and 70, the planning damage risk is borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0166.00991301-VB01",
+        "topic": "municipality_costs",
+        "context": "The cost of drawing up this zoning plan and the costs involved in the procedure shall be borne by the municipality/project office stations environment.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0344.BPKON135MAARSMEREV-VA01",
+        "topic": "municipality_costs",
+        "context": "Costs arising from any claims shall not be borne by the municipality of Utrecht.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0203.1494-0004",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up this plan will be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0175.wonen2012bp0005-vg01",
+        "topic": "municipality_costs",
+        "context": "Therefore, the costs of carrying out the necessary studies for the purpose of planning because of this zoning plan are borne by the municipality. Costs due to possible planning damage are borne by the municipality. The cost recovery, as well as the transfer of the plan damage, is borne by the municipality.",
+        "answer": "{\n \"answer\": true\n}"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0294.BP1701SGBOTERSTR-VA01",
+        "topic": "municipality_costs",
+        "context": "The costs arising from the preparation of the plan and any damage to the plan shall be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0344.BPKOPOPTUINDORPOOS-VA01",
+        "topic": "municipality_costs",
+        "context": "The costs for the water storage and the clean-up are borne by the municipality of Utrecht, on which agreements have been made with developing party. Costs arising from any claims shall not be borne by the municipality.",
+        "answer": "{\n \"answer\": false\n}"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0344.BPVEEMARKT2EHERZ-VA01",
+        "topic": "municipality_costs",
+        "context": "Any costs of planning damages are included in the financial analysis, and are borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0293.BPGeerkenFort2017-VA01",
+        "topic": "municipality_costs",
+        "context": "The planning costs are borne by the municipality of Westervoort and sufficient budget is available for this.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0086.05BPKom-0301",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up the zoning plan shall be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0785.BP2017009Rondeakke-vg01",
+        "topic": "municipality_costs",
+        "context": "Only the costs of monitoring the planning procedure are borne by the municipality (for which fees are charged to the initiator).",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0855.BSP2018012-e001",
+        "topic": "municipality_costs",
+        "context": "All costs to be incurred (including the fees for the present zoning change) will be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0441.BPHERBWB1eT-VA01",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up this plan will be borne by the municipality. If it is costs directly resulting from the plan, the planning damages costs will be borne by the municipality.",
+        "answer": "{\n \"answer\": true\n}"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0363.N1502BPSTD-VG01",
+        "topic": "municipality_costs",
+        "context": "In principle, compensation for damage to the plan is thus borne by the municipality as a result of a zoning plan.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0056.BPZH18HERZ1-VA01",
+        "topic": "municipality_costs",
+        "context": "The planning and procedural costs of this zoning plan shall be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0946.BPHouwakkVlut2017-VA01",
+        "topic": "municipality_costs",
+        "context": "This ensures that any costs are not borne by the municipality of Nederweert, but on behalf of the initiators.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0200.bp1205-vas1",
+        "topic": "municipality_costs",
+        "context": "It is a recovery plan in which all the necessary costs are borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0252.OVbpSchoonenb3-VA01",
+        "topic": "municipality_costs",
+        "context": "This ensures that any costs will not be borne by the municipality of Heumen, but by the initiator.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0351.BebouwdKomWoudnbrg-vg01",
+        "topic": "municipality_costs",
+        "context": "Only the preparation of the zoning plan involves costs borne by the municipality.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0984.BP18003-va01",
+        "topic": "municipality_costs",
+        "context": "This ensures that any plan damage to be compensated will not be borne by the municipality of Venray but will be borne by the initiator.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0717.0140BPPlus-VO01",
+        "topic": "municipality_costs",
+        "context": "The costs associated with this zoning plan will be borne by the municipality of Veere.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0268.BPa4000-VG01",
+        "topic": "municipality_costs",
+        "context": "The (limited) redevelopment costs are borne by the municipality through land exploitation and are recovered through land issuance or rental (budget neutral).",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1894.BPL0156-VG01",
+        "topic": "municipality_costs",
+        "context": "This ensures that any plan damage to be compensated will not be borne by the municipality of Peel and Maas but will be borne by the initiator.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0024.05BP0000-VG01",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up this plan will be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1978.BPVANVLIETSTRAAT-VG01",
+        "topic": "municipality_costs",
+        "context": "Only the preparation of the zoning plan involves costs borne by the municipality.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1659.BPBDdehogeregtherz-VG01",
+        "topic": "municipality_costs",
+        "context": "This ensures that these costs are not borne by the municipality.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0518.BP0298HLeidschenvn-50VA",
+        "topic": "municipality_costs",
+        "context": "The zoning plan is conservative in nature and its implementation does not involve any costs borne by the municipality.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0106.08BP2016224B-C001",
+        "topic": "municipality_costs",
+        "context": "The damage resulting from the realisation of the project will be borne by the municipality of Assen.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1900.2015oostBPskarwoud-vast",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up a zoning plan shall be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0345.Woongeb2018-vg01",
+        "topic": "municipality_costs",
+        "context": "Furthermore, the costs of drawing up the new zoning plan will be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0893.BP20015AU22ASIE-VA01",
+        "topic": "municipality_costs",
+        "context": "All costs to be incurred for drawing up the destination plan shall be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0637.BP00079-0003",
+        "topic": "municipality_costs",
+        "context": "The costs associated with developments on the Plataanhout in Rokkeveen are partly borne by the municipality of Zoetermeer and partly by the party to which the land is spent.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0840.2581K0024-VA01",
+        "topic": "municipality_costs",
+        "context": "It has made a cost budget in which the development costs are borne by the sale of the lots/dwellings.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0984.BP19018-va01",
+        "topic": "municipality_costs",
+        "context": "This ensures that any plan damage to be compensated will not be borne by the municipality of Venray but will be borne by the initiator.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0037.CHW2207-vo01",
+        "topic": "municipality_costs",
+        "context": "The costs associated with this zoning plan are entirely borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1927.BPKooikerspadSKK-VG01",
+        "topic": "municipality_costs",
+        "context": "The costs for the establishment of the public space are borne by the municipality of Molenwaard.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0090.BW2019DPW011-0401",
+        "topic": "municipality_costs",
+        "context": "The costs for the development of the plan are borne by the municipality and are included in the operating plan.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0575.BPNBHerenweg74-VA01",
+        "topic": "municipality_costs",
+        "context": "Only the preparation of the zoning plan involves costs borne by the municipality.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0163.BPNDOOST2016-VG01",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up this plan will be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0984.BP16009-va01",
+        "topic": "municipality_costs",
+        "context": "This ensures that any plan damage to be compensated will not be borne by the municipality of Venray but will be borne by the initiator.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0086.14BPKom-0301",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up the zoning plan shall be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0203.1402-0003",
+        "topic": "municipality_costs",
+        "context": "The costs will be borne by the municipality on the basis of the above-mentioned developments, including part of the housing included in the plan.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1900.2016westBPworkdolw-vast",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up this zoning plan, the purchase of land and buildings, the demolition of buildings (including asbestos repair), soil cleaning, construction, cables and pipes and utilities are borne by the municipality. Any damage to the plan will also be borne by the municipality.",
+        "answer": "{\n  \"answer\": true\n}"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1924.herzHRVBMLHKG-BP30",
+        "topic": "municipality_costs",
+        "context": "The other costs for drawing up this zoning plan are entirely borne by the municipality of Goeree\\-Overflakkee.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0518.BP0302ESpuimarkt-50VA",
+        "topic": "municipality_costs",
+        "context": "The implementation of the zoning plan shall not involve any costs borne by the municipality.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1987.BPDorpen2017-0401",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up this plan will be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1783.KRNVERZAMELPLNabp-VA01",
+        "topic": "municipality_costs",
+        "context": "Only the preparation of the zoning plan involves costs which are borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0370.BPBUITEN2012HERZ21-VA01",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up this plan will be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1507.HOVENRAYSEWEGONG-BPV1",
+        "topic": "municipality_costs",
+        "context": "This ensures that any plan damage to be compensated will not be borne by the municipality of Horst aan de Maas but will be borne by the initiator.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1924.herzHRVBMLHKG-BP20",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up this zoning plan are entirely borne by the municipality of Goeree\\-Overflakkee.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1507.HM3KAVELSBTNKANS-BPV1",
+        "topic": "municipality_costs",
+        "context": "This ensures that any plan damage to be compensated will not be borne by the municipality of Horst aan de Maas but will be borne by the initiator.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0106.02BP20191000U-C001",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up the plans for public space and the development of the area are borne by the municipality and at risk.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0037.CHW2207-on01",
+        "topic": "municipality_costs",
+        "context": "The costs associated with this zoning plan are entirely borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0847.BP02018004-VS01",
+        "topic": "municipality_costs",
+        "context": "The costs associated with this zoning plan are entirely borne by the municipality of Someren.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0303.D1000-0ONH",
+        "topic": "municipality_costs",
+        "context": "Only the preparation of the zoning plan involves costs borne by the municipality.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0946.BPSmisserstraat36-VA01",
+        "topic": "municipality_costs",
+        "context": "Since the possibility of building at this site has been cancelled by mistake, the costs of restoring the zoning plan will be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0118.2014BP8027004-VG01",
+        "topic": "municipality_costs",
+        "context": "The costs for the implementation of this zoning plan are partly borne by the municipality of Hoogeveen and partly by the initiator.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0736.BPP029gvaemstel-VG01",
+        "topic": "municipality_costs",
+        "context": "These costs are therefore not borne by the municipality of De Ronde Venen.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0106.02BP201610002-C001",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up the plans for public space and the development of the area are borne by the municipality and at risk.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0847.BP02018003-VS01",
+        "topic": "municipality_costs",
+        "context": "The costs associated with this zoning plan are entirely borne by the municipality of Someren.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0501.HerzRvRWoningen-0040",
+        "topic": "municipality_costs",
+        "context": "All costs involved in drawing up this zoning plan shall be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0203.1310-0003",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up this plan will be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0946.BPOLVstraat18-VA01",
+        "topic": "municipality_costs",
+        "context": "This ensures that any costs will not be borne by the municipality of Nederweert, but will be borne by the initiator.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0637.BP00075-0003",
+        "topic": "municipality_costs",
+        "context": "The costs associated with the developments in Palenstein are partly borne by the municipality of Zoetermeer and partly by the developing parties.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0576.BP201400028-0003",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up this plan will be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1970.WpDkStadsdock-VG01",
+        "topic": "municipality_costs",
+        "context": "It has made a cost budget in which the development costs are borne by the sale of the lots/dwellings.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1948.VHL003BP0022017P-VG01",
+        "topic": "municipality_costs",
+        "context": "On this basis, any planning damage will be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0106.02BP201810006-C001",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up the plans for public space and the development of the area are borne by the municipality and at risk.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1705.234-VG01",
+        "topic": "municipality_costs",
+        "context": "The implementation of the zoning plan therefore does not result in costs to be borne by the municipality of Lingewaard.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0106.02BP201610003-C001",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up the plans for public space and the development of the area are borne by the municipality and at risk.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0268.BPa2002-VG01",
+        "topic": "municipality_costs",
+        "context": "Any costs for planning damages will be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0576.BP201700039-0003",
+        "topic": "municipality_costs",
+        "context": "Only the preparation of the zoning plan involves costs borne by the municipality.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0203.1351-0003",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up this plan will be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0147.BpAHB-vg01",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up the zoning plan and the costs involved in the procedure shall be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1927.WPKavelSlagenAMS-VG01",
+        "topic": "municipality_costs",
+        "context": "Costs are therefore borne by the municipality of Molenwaard.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0983.BP201818TEGELSEWG-VA01",
+        "topic": "municipality_costs",
+        "context": "This ensures that any plan damage to be compensated will not be borne by the municipality of Venlo but will be borne by the initiator.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0984.BP17012-va01",
+        "topic": "municipality_costs",
+        "context": "This ensures that any plan damage to be compensated will not be borne by the municipality of Venray but will be borne by the initiators.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0637.BP00080-0003",
+        "topic": "municipality_costs",
+        "context": "The costs will be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0203.1434-0001",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up this plan will be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0351.BebouwdKomWoudnbrg-ow01",
+        "topic": "municipality_costs",
+        "context": "Only the preparation of the zoning plan involves costs borne by the municipality.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0268.BP22101-VG01",
+        "topic": "municipality_costs",
+        "context": "Any costs for planning damages will be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1640.BP16RVBuitengebied-OH01",
+        "topic": "municipality_costs",
+        "context": "This deterioration is seen as costs borne by the municipality of Leudal.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1955.bpsgbekwonsteegswg-va01",
+        "topic": "municipality_costs",
+        "context": "The costs related to the zoning plan shall be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1509.BP000147-VA01",
+        "topic": "municipality_costs",
+        "context": "The implementation of the zoning plan therefore does not lead to costs borne by the municipality of Oude IJsselstreek.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0184.BP2015BG-0301",
+        "topic": "municipality_costs",
+        "context": "The costs of these initiatives are not borne by the municipality, but are borne by the initiators.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1940.BPJRE20PARWYLDEH3B-VA01",
+        "topic": "municipality_costs",
+        "context": "The costs of implementing this plan are borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1924.herzHRVBMLHKG-BP10",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up this zoning plan are entirely borne by the municipality of Goeree\\-Overflakkee.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0163.BPNDKRWZ1F2018-VG01",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up this plan will be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0518.BP0260DStatenkwar-50VA",
+        "topic": "municipality_costs",
+        "context": "The zoning plan is conservative in nature and its implementation does not involve any costs borne by the municipality.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1948.VHL003WP0012017W-VG01",
+        "topic": "municipality_costs",
+        "context": "On this basis, any planning damage will be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1884.BPDEBAANENSOTAWEG-VAS1",
+        "topic": "municipality_costs",
+        "context": "Only the preparation of the zoning plan involves costs borne by the municipality.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0758.BP2016101003-0401",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up this zoning plan will be borne by the municipality of Breda.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0606.BP00037-0002",
+        "topic": "municipality_costs",
+        "context": "This extra storage capacity to be realized for the district is borne by the municipality and is financed by the Water budget.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0855.BSP2014028-e001",
+        "topic": "municipality_costs",
+        "context": "All costs for the construction and residential development, as well as the planning costs (including the fee for this zoning review) are borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0106.02BP201610004-C001",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up the plans for public space and the development of the area are borne by the municipality and at risk.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0866.BP00200-0301",
+        "topic": "municipality_costs",
+        "context": "All costs to be incurred for the preparation of the destination plan, the preparation of the land to be sold and the preparation of the public area shall be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0177.BP20160003-VA01",
+        "topic": "municipality_costs",
+        "context": "The planning costs and any plan damages will be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0166.00991274-OW01",
+        "topic": "municipality_costs",
+        "context": "The cost of making this zoning plan will be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1900.2017westBPkoudum-vast",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up a zoning plan shall be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0575.BPNBjohvhoornstreo-VA01",
+        "topic": "municipality_costs",
+        "context": "Only the preparation of the zoning plan involves costs borne by the municipality.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1952.bpmigverzamel2018I-va01",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up this plan will be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0855.BSP2014014-e001",
+        "topic": "municipality_costs",
+        "context": "This amount is normally borne by the municipality, in which case the municipality may decide not to cooperate on a planning basis.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1900.2015westBPmakkoost-vast",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up a zoning plan shall be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0175.HavenOostBP001-VG01",
+        "topic": "municipality_costs",
+        "context": "Any plan damage is borne by the municipality as a land operator and is also covered by the revenues.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0441.BPBGZIJPE-VA03",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up this plan will be borne by the municipality. If it is costs directly resulting from the plan, the planning damages costs will be borne by the municipality.",
+        "answer": "{\n \"answer\": true\n}"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1507.HOMELATENWEGONG-BPV1",
+        "topic": "municipality_costs",
+        "context": "This ensures that any plan damage to be compensated will not be borne by the municipality of Horst aan de Maas but will be borne by the initiator.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0796.0002519-1401",
+        "topic": "municipality_costs",
+        "context": "The land is owned by the municipality of Hertogenbosch and the costs associated with the preparation, the procedure for determining the plan of effects, the damage to the plan and all the planning costs are borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0163.BPHENOORD2017-VG01",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up this plan will be borne by the municipality. The costs of developing this district are borne by the municipality of Hellendoorn.",
+        "answer": "{\n  \"answer\": true\n}"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0200.bp1357-vas1",
+        "topic": "municipality_costs",
+        "context": "The costs of this change of plans are thus borne by the initiator and the costs of redesigning the public area are borne by the municipality.",
+        "answer": "{\n  \"answer\": true\n}"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0946.BPNooitgedacht2016-VA01",
+        "topic": "municipality_costs",
+        "context": "This ensures that any costs will not be borne by the municipality of Nederweert, but will be borne by the initiator.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0147.BpAHB-ow01",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up the zoning plan and the costs involved in the procedure shall be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0344.BPZAND24HETZNDOOST-VA01",
+        "topic": "municipality_costs",
+        "context": "Costs arising from any claims shall not be borne by the municipality.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0327.151-0401",
+        "topic": "municipality_costs",
+        "context": "Only the preparation of the zoning plan involves costs which are borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0147.BpAHBHZ-ow01",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up the zoning plan and the costs involved in the procedure shall be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1684.02BPAalsvoorten-VA01",
+        "topic": "municipality_costs",
+        "context": "This ensures that any plan damage to be compensated will not be borne by the municipality of Cuijk but will be borne by the initiator.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0090.BW2017DPW010-0401",
+        "topic": "municipality_costs",
+        "context": "The costs for the development of the plan are borne by the municipality and are included in the operating plan.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1945.MadROefenhoek-VSG1",
+        "topic": "municipality_costs",
+        "context": "All costs to be incurred for drawing up the destination plan shall be borne by the municipality. In addition, it has been agreed that the (possible) costs for compensation in planning damages will be borne by the municipality.",
+        "answer": "{\n \"answer\": true\n}"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0114.2023029-B501",
+        "topic": "municipality_costs",
+        "context": "The possible costs arising from this are borne by the municipality of Emmen.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0106.02BP20171000S-C001",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up the plans for public space and the development of the area are borne by the municipality and at risk.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0351.BebouwdKomWoudnbrg-vo01",
+        "topic": "municipality_costs",
+        "context": "Only the preparation of the zoning plan involves costs borne by the municipality.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0147.BpAHBHZ-vg01",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up the zoning plan and the costs involved in the procedure shall be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0501.HerzRvRWoningen-0030",
+        "topic": "municipality_costs",
+        "context": "All costs involved in drawing up this zoning plan shall be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0762.BP201706-C001",
+        "topic": "municipality_costs",
+        "context": "This ensures that any plan damage to be compensated will not be borne by the municipality of Deurne but will be borne by the initiators.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0984.BP14006-va01",
+        "topic": "municipality_costs",
+        "context": "This ensures that any plan damage to be compensated will not be borne by the municipality of Venray but will be borne by the initiator.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0984.BP18009-va01",
+        "topic": "municipality_costs",
+        "context": "This ensures that any plan damage to be compensated will not be borne by the municipality of Venray but will be borne by the initiator.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1734.0282ELSTspoorkrrwn-VSG1",
+        "topic": "municipality_costs",
+        "context": "The costs for the construction of the public infrastructure, the establishment of the public area and the establishment of the green area will be borne by the municipality of Overbetuwe.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1948.VHL003WP0022017W-VG01",
+        "topic": "municipality_costs",
+        "context": "On this basis, any planning damage will be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1955.bpsgddmwonpolstraa-va01",
+        "topic": "municipality_costs",
+        "context": "The costs related to the zoning plan shall be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0880.BP9579400000-0301",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up this plan will be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0984.BP18012-va01",
+        "topic": "municipality_costs",
+        "context": "This ensures that any plan damage to be compensated will not be borne by the municipality of Venray but will be borne by the initiator.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0086.02BPKom-0301",
+        "topic": "municipality_costs",
+        "context": "The costs of drawing up the zoning plan shall be borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0086.05BPWBWapstrastrj-0301",
+        "topic": "municipality_costs",
+        "context": "The costs of implementing this plan are borne by the municipality.",
+        "answer": "{ \"answer\": true }"
+    }
+]

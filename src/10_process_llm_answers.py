@@ -132,8 +132,45 @@ clean_results(
     output="../data/final/09_agreement.parquet",
 )
 
+clean_results(
+    name="private_expences",
+    res_fp="../data/plan_documents/results/inspecting_false/result_private_expences_20250321.json",
+    ans_fp="../data/plan_documents/answered/private expenses.json",
+    ins_fp="../data/plan_documents/results/manual_inspection/inspection_private_expences_20250321.json",
+    output="../data/final/10_private_expences.parquet",
+)
+
+clean_results(
+    name="municipality_cost",
+    res_fp="../data/plan_documents/results/inspecting_false/result_municipality_land_20250318.json",
+    ans_fp="../data/plan_documents/answered/municipality_costs.json",
+    ins_fp="../data/plan_documents/results/manual_inspection/inspection_municipality_costs_20250326.json",
+    output="../data/final/12_municipality_costs.parquet",
+)
+
+
 all_plans = pd.DataFrame(
     {"IMRO": [str(f.stem) for f in list(Path("../data/plan_documents/md/").iterdir())]}
 )
 all_plans.to_parquet("../data/final/00_all_plans.parquet")
+# %%
+with open("../data/plan_documents/manual_answers/Problematics_20250325.json") as f:
+    problematics = json.loads(f.read())
+    problematics = pd.DataFrame(problematics).T
+    problematics = problematics[~problematics.Invalid.astype(bool)]
+    cols = {
+        'Land allocation/sale': 'land_allocation_result',
+        'Agreement': 'agreement_result',
+        'Anterior Agreement': 'anterior_agreement_result',
+        'Operating Agreement': 'exploitation_result',
+        'Plan Damage Agreement': 'plan_damage_result',
+        'Cooperation Agreement/PPS': 'cooperation_result',
+        'Land owned by applicant': 'initiator_land_result',
+        'Future Agreement': 'future_agreement_result',
+        "Invalid": "Invalid"
+    }
+    problematics = problematics.rename(columns=cols)[list(cols.values())]
+
+    problematics.to_parquet("../data/final/90_problematics.parquet")
+
 # %%

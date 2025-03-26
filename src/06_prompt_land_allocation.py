@@ -214,3 +214,56 @@ with open(f"../data/plan_documents/answered/{TOPIC}.json", "w") as f:
     f.write(json.dumps(topic_1, indent=4))
 
 # %%
+prompt = """
+Analyze the following context, follow instructions:
+#### Instructions:
+We have information about the ownership of the land in form of text. We want to know if municipality is baring the costs.
+
+If context explicitely mentions municipality bornes the costs, will borne the costs, municipality covers the costs, or costs assured by budget, answer 'True', otherwise 'False'.
+
+Do not provide any additional information.
+Do not hallucinate.
+Only use the context provided.
+
+
+#### context:
+
+{context}
+
+"""
+
+TOPIC = "municipality_costs"
+THRESHOLD = 95
+topic_1 = []
+for plan in tqdm(texts):
+    selected_ids = [
+        i
+        for i, s in enumerate(iterable=plan.get("en"))
+        if (
+            find_topic(
+                s=s.lower(),
+                q=[
+                    "borne by the municipality",
+                    "cost budget"
+                ],
+                threshold=THRESHOLD,
+            )
+        )
+    ]
+    entry = {
+        "IMRO": plan.get("IMRO"),
+        "topic": TOPIC,
+    }
+    if len(selected_ids) == 0:
+        continue
+    entry["context"] = " ".join([plan.get("en")[x] for x in selected_ids]).replace(
+        "story", "recovery"
+    )
+    answer = ask_LLM(entry, prompt)
+    entry["answer"] = answer["message"]["content"]
+    topic_1.append(entry)
+
+with open(f"../data/plan_documents/answered/{TOPIC}.json", "w") as f:
+    f.write(json.dumps(topic_1, indent=4))
+
+# %%

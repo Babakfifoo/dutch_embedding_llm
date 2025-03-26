@@ -40,6 +40,7 @@ FUZZY_THRESHOLD = 95
 
 MANUAL_QUESTIONS = [
     "Land allocation/sale",
+    "Future Agreement",
     "Agreement",
     "Anterior Agreement",
     "Operating Agreement",

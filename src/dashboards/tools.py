@@ -69,6 +69,7 @@ COLOR_DICT = {
     "initiator": "initHighlight",
     "applicant": "initHighlight",
     "developer": "initHighlight",
+    "proposer": "initHighlight",
     "cost": "redHighlight",
     "expense": "redHighlight",
     "fee": "redHighlight",
@@ -111,4 +112,6 @@ COLOR_DICT = {
     "Realisation ": "purpleHighlight",
     "promoter": "initHighlight",
     "will": "redHighlight",
+    "borne ": "redHighlight",
+    "expence": "redHighlight"
 }
