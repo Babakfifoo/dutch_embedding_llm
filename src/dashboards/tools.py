@@ -102,6 +102,8 @@ COLOR_DICT = {
     "budget": "budgetHighlight",
     "municipality": "budgetHighlight",
     "conservative": "conservativeHighlight",
+    "already": "conservativeHighlight",
+    "developed": "conservativeHighlight",
     "cooperation": "coopHighlight",
     "Cooperation": "coopHighlight",
     "damage": "damageHighligh",

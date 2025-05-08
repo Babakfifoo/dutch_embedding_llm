@@ -141,6 +141,14 @@ clean_results(
 )
 
 clean_results(
+    name="purchase_agreement",
+    res_fp="../data/plan_documents/results/inspecting_false/result_purchase_20250327.json",
+    ans_fp="../data/plan_documents/answered/purchase agreement.json",
+    ins_fp="../data/plan_documents/results/manual_inspection/inspection_purchase_20250327.json",
+    output="../data/final/11_purchase_agreement.parquet",
+)
+
+clean_results(
     name="municipality_cost",
     res_fp="../data/plan_documents/results/inspecting_false/result_municipality_land_20250318.json",
     ans_fp="../data/plan_documents/answered/municipality_costs.json",
@@ -148,12 +156,28 @@ clean_results(
     output="../data/final/12_municipality_costs.parquet",
 )
 
+clean_results(
+    name="conservative",
+    res_fp="../data/plan_documents/results/inspecting_false/result_conservation_20250327.json",
+    ans_fp="../data/plan_documents/answered/conservative.json",
+    ins_fp="../data/plan_documents/results/manual_inspection/inspection_conservation_20250327.json",
+    output="../data/final/13_conservative.parquet",
+)
+
+clean_results(
+    name="realisation_agreement",
+    res_fp="../data/plan_documents/results/inspecting_false/result_realisation_20250327.json",
+    ans_fp="../data/plan_documents/answered/realisation agreement.json",
+    ins_fp="../data/plan_documents/results/manual_inspection/inspection_realisation_20250327.json",
+    output="../data/final/14_realisation.parquet",
+)
+
 
 all_plans = pd.DataFrame(
     {"IMRO": [str(f.stem) for f in list(Path("../data/plan_documents/md/").iterdir())]}
 )
 all_plans.to_parquet("../data/final/00_all_plans.parquet")
-# %%
+
 with open("../data/plan_documents/manual_answers/Problematics_20250325.json") as f:
     problematics = json.loads(f.read())
     problematics = pd.DataFrame(problematics).T

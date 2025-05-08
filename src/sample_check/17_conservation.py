@@ -28,10 +28,10 @@ setup_colors()
 
 
 manual_answers_file = (
-    "./data/plan_documents/results/manual_inspection/inspection_purchase.json"
+    "./data/plan_documents/results/manual_inspection/inspection_conservation.json"
 )
-LLM_answer_file = "./data/plan_documents/answered/purchase agreement.json"
-FACTOR = "Purchase Agreement"
+LLM_answer_file = "./data/plan_documents/answered/conservative.json"
+FACTOR = "conservation"
 
 if "original" not in st.session_state:
     with open(LLM_answer_file, "r") as f:
@@ -47,11 +47,10 @@ except Exception as e:
 
 if "LLM_anterior" not in st.session_state:
     data = [  # Getting the plans with True value ...
-        p for p in st.session_state["original"] if json.loads(p.get("answer")).get("answer")
+        p for p in st.session_state["original"] if bool_cleaner(p.get("answer"))
     ]
     if len(data) < 400:
         st.session_state["LLM_anterior"] = data
-        st.session_state["sample"] = len(data)
     else:
         numbers = set(
             random.choices(
@@ -60,8 +59,8 @@ if "LLM_anterior" not in st.session_state:
             )
         )
         numbers = list(numbers)
-        st.session_state["LLM_anterior"] = [p for i, p in enumerate(data) if i in numbers]
         st.session_state["sample"] = len(numbers)
+        st.session_state["LLM_anterior"] = [p for i, p in enumerate(data) if i in numbers]
     st.session_state["plan_idx"] = 0
 
 
@@ -70,7 +69,7 @@ active_plan["answer"] = bool_cleaner(active_plan.get("answer"))
 
 
 st.title(
-    body=f"{st.session_state['plan_idx']} / {st.session_state['sample']} -> {active_plan.get('IMRO')}"
+    body=f"{st.session_state['plan_idx']} / {len(st.session_state["LLM_anterior"])} -> {active_plan.get('IMRO')}"
 )
 
 Information, Questions = st.columns([2, 1])

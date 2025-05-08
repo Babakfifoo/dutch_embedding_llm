@@ -18,7 +18,7 @@ def colorise(s):
 
 
 # %%
-manual_answers_file = Path("./data/plan_documents/manual_answers/Problematics.json")
+manual_answers_file = Path("./data/plan_documents/manual_answers/Problematics_20250325.json")
 
 if manual_answers_file.exists():
     with open(manual_answers_file, "r") as f:
@@ -27,7 +27,7 @@ else:
     st.session_state["manual_answer"] = {}
 
 if "plan_data" not in st.session_state:
-    sample = pd.read_csv("./data/problematic.csv")["IMRO"].to_list()
+    sample = pd.read_parquet("./data/Problem_PLD.parquet")["IMRO"].to_list()
     with open("./data/plan_documents/translated_selected_sents.json", "r") as f:
         data = json.loads(f.read())
 

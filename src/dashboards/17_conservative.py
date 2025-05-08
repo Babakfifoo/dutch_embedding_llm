@@ -2,15 +2,11 @@
 import streamlit as st
 import json
 from tools import COLOR_DICT, setup_colors
-import random
-
-random.seed(2025)
-# %%
 
 
 def colorise(s):
     for k, v in COLOR_DICT.items():
-        s = s.replace(k, f'<span class="{v}">{k}</span>')
+        s = s.replace(k, f"<span class=\"{v}\">{k}</span>")
         s = s.replace("story", "recovery")
     return s
 
@@ -24,14 +20,18 @@ def bool_cleaner(s: str) -> bool:
     return False
 
 
+def extract_true_ones(lst: list) -> dict:
+    imros = [p.get("IMRO") for p in lst]
+    answers = [bool_cleaner(p.get("answer")) for p in lst]
+    return {k: v for k, v in dict(zip(imros, answers)).items() if v}
+
+
 setup_colors()
 
 
-manual_answers_file = (
-    "./data/plan_documents/results/manual_inspection/inspection_purchase.json"
-)
-LLM_answer_file = "./data/plan_documents/answered/purchase agreement.json"
-FACTOR = "Purchase Agreement"
+manual_answers_file = "./data/plan_documents/results/inspecting_false/result_conservation.json"
+LLM_answer_file = "./data/plan_documents/answered/conservative.json"
+FACTOR = "conservative plan"
 
 if "original" not in st.session_state:
     with open(LLM_answer_file, "r") as f:
@@ -40,37 +40,27 @@ if "original" not in st.session_state:
 try:
     with open(manual_answers_file, "r") as f:
         st.session_state["manual_answer"] = json.loads(f.read())
-
 except Exception as e:
     print(f"{e}\nresult file not found. Creating one ...")
-    st.session_state["manual_answer"] = {}
+    st.session_state["manual_answer"] = extract_true_ones(st.session_state["original"])
+    with open(manual_answers_file, "w") as f:
+        f.write(json.dumps(st.session_state["manual_answer"]))
 
-if "LLM_anterior" not in st.session_state:
-    data = [  # Getting the plans with True value ...
-        p for p in st.session_state["original"] if json.loads(p.get("answer")).get("answer")
+if "LLM_operating" not in st.session_state:
+    st.session_state["LLM_operating"] = [
+        p
+        for p in st.session_state["original"]
+        if not bool_cleaner(p.get("answer", False))
     ]
-    if len(data) < 400:
-        st.session_state["LLM_anterior"] = data
-        st.session_state["sample"] = len(data)
-    else:
-        numbers = set(
-            random.choices(
-                population=range(len(data)),
-                k=int((len(data) / (1 + (384.16 / len(data))))),
-            )
-        )
-        numbers = list(numbers)
-        st.session_state["LLM_anterior"] = [p for i, p in enumerate(data) if i in numbers]
-        st.session_state["sample"] = len(numbers)
     st.session_state["plan_idx"] = 0
 
 
-active_plan = st.session_state["LLM_anterior"][st.session_state["plan_idx"]]
+active_plan = st.session_state["LLM_operating"][st.session_state["plan_idx"]]
 active_plan["answer"] = bool_cleaner(active_plan.get("answer"))
 
 
 st.title(
-    body=f"{st.session_state['plan_idx']} / {st.session_state['sample']} -> {active_plan.get('IMRO')}"
+    body=f"{st.session_state['plan_idx']} / {len(st.session_state['LLM_operating'])} -> {active_plan.get('IMRO')}"
 )
 
 Information, Questions = st.columns([2, 1])
@@ -88,7 +78,7 @@ with Questions:
         submit, prev, next_ = st.columns([1, 1, 1])
 
         with submit:
-            if st.button("submit"):
+            if st.button("submit") or active_plan["answer"]:
                 st.session_state["manual_answer"][active_plan.get("IMRO")] = (
                     existing_answers
                 )

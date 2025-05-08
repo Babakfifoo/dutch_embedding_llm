@@ -1,8 +1,8 @@
 [
     {
-        "IMRO": "t_NL.IMRO.0971.BPKernUrmondBerg-0003",
+        "IMRO": "t_NL.IMRO.1924.BP10348-BP31",
         "topic": "conservative",
-        "context": "However, the present zoning plan is, by its nature, essentially a conservative zoning plan, which minimises the risk of attributable plan damage.",
+        "context": "The Water Management Plan describes the principles of management, the developments expected in the coming years and the main choices that the Water Authority must make.",
         "answer": "{ \"answer\": false }"
     },
     {
@@ -16,6 +16,12 @@
         "topic": "conservative",
         "context": "This plan concerns a conservative zoning plan for an existing situation and does not provide for work or work to be carried out.",
         "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1963.JANTOOROPSTRA2-VG01",
+        "topic": "conservative",
+        "context": "The Water Management Plan describes the principles of management, the developments expected in the coming years and the main choices the waterboard must make.",
+        "answer": "{ \"answer\": false }"
     },
     {
         "IMRO": "t_NL.IMRO.0756.BP15RvtLaageindse-VG01",
@@ -50,7 +56,7 @@
     {
         "IMRO": "t_NL.IMRO.0225.BPperiodiekstb04-2003",
         "topic": "conservative",
-        "context": "An exploitation plan also does not need to be drawn up with a zoning plan with only conservative destinations or amending powers. As the present zoning plan is essentially conservative in nature, there is no need to draw up an operating plan.",
+        "context": "An exploitation plan also does not need to be drawn up with a zoning plan with only conservative destinations or amending powers.",
         "answer": "{ \"answer\": false }"
     },
     {
@@ -62,7 +68,7 @@
     {
         "IMRO": "t_NL.IMRO.0569.bpNWVZNnieuwvzvhne-va01",
         "topic": "conservative",
-        "context": "An operating plan does not need to be drawn up with a zoning plan with only conservative destinations or amending powers. As mentioned above, the zoning plan is essentially of a conservative nature:",
+        "context": "An operating plan does not need to be drawn up with a zoning plan with only conservative destinations or amending powers.",
         "answer": "{ \"answer\": false }"
     },
     {
@@ -72,10 +78,16 @@
         "answer": "{ \"answer\": true }"
     },
     {
+        "IMRO": "t_NL.IMRO.0502.PBP16Bermweg504-4001",
+        "topic": "conservative",
+        "context": "The Water Management Plan describes the principles of management, the developments expected in the coming years and the main choices the waterboard must make.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
         "IMRO": "t_NL.IMRO.0828.BPkomgeffen2016-VG01",
         "topic": "conservative",
-        "context": "This zoning plan is mainly a conservative plan which sets out the existing legal situation. Because of the conservative nature of this zoning plan, we are not going to adopt an amending power in advance.",
-        "answer": "{ \"answer\": false }"
+        "context": "This zoning plan is mainly a conservative plan which sets out the existing legal situation.",
+        "answer": "{ \"answer\": true }"
     },
     {
         "IMRO": "t_NL.IMRO.1706.BPBSG8001-VAS1",
@@ -87,6 +99,12 @@
         "IMRO": "t_NL.IMRO.0718.BPCV01-VG01",
         "topic": "conservative",
         "context": "The zoning plan provides for a conservative arrangement of the existing situation.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0584.BPWRK2018001-VG99",
+        "topic": "conservative",
+        "context": "The Water Management Plan describes the principles of management, the developments expected in the coming years and the main choices the waterboard must make.",
         "answer": "{ \"answer\": false }"
     },
     {
@@ -108,6 +126,18 @@
         "answer": "{ \"answer\": false }"
     },
     {
+        "IMRO": "t_NL.IMRO.1963.BPOostd187OBL20-VG01",
+        "topic": "conservative",
+        "context": "The Water Management Plan describes the principles of management, the developments expected in the coming years and the main choices the waterboard must make.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1930.BPKolkplein-3001",
+        "topic": "conservative",
+        "context": "The Water Management Plan describes the principles of management, the developments expected in the coming years and the main choices the waterboard must make.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
         "IMRO": "t_NL.IMRO.0756.BP16BmrBakelgeert-VG01",
         "topic": "conservative",
         "context": "For buildings up to 90 m2 (per plot) no flora and fauna research is required in a conservative zoning plan.",
@@ -116,13 +146,13 @@
     {
         "IMRO": "t_NL.IMRO.0866.BP00170-0302",
         "topic": "conservative",
-        "context": "An operating plan does not need to be drawn up with a zoning plan with only conservative destinations or amending powers. As this zoning plan is conservative in nature, there is no need to draw up an operating plan.",
+        "context": "An operating plan does not need to be drawn up with a zoning plan with only conservative destinations or amending powers.",
         "answer": "{ \"answer\": false }"
     },
     {
-        "IMRO": "t_NL.IMRO.1681.05BP0011-VG01",
+        "IMRO": "t_NL.IMRO.1963.BPBernhstrOBL20-VG01",
         "topic": "conservative",
-        "context": "The zoning plan is conservative in nature, either it has new construction sites where research has already been carried out in previous plans or it still has to be investigated by means of a modification plan.",
+        "context": "The Water Management Plan describes the principles of management, the developments expected in the coming years and the main choices the waterboard must make.",
         "answer": "{ \"answer\": false }"
     },
     {
@@ -140,8 +170,8 @@
     {
         "IMRO": "t_NL.IMRO.0168.03ABP00-0401",
         "topic": "conservative",
-        "context": "This zoning plan has a conservative character. This zoning plan shall be conservative in nature and shall not permit any new developments not yet contained in an irrevocable zoning plan or otherwise subject to a planning procedure or authorisation.",
-        "answer": "{ \"answer\": false }"
+        "context": "This zoning plan has a conservative character.",
+        "answer": "{ \"answer\": true }"
     },
     {
         "IMRO": "t_NL.IMRO.1842.bp14HP01-VA02",
@@ -168,21 +198,21 @@
         "answer": "{ \"answer\": false }"
     },
     {
+        "IMRO": "t_NL.IMRO.1963.wpSchillemansstede-VG01",
+        "topic": "conservative",
+        "context": "The Water Management Plan describes the principles of management, the developments expected in the coming years and the main choices the waterboard must make.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
         "IMRO": "t_NL.IMRO.1904.BPRondomdeVechtLGB-VG03",
         "topic": "conservative",
         "context": "The zoning plan 'Rondom de Vecht' is a predominantly conservative zoning plan.",
         "answer": "{ \"answer\": false }"
     },
     {
-        "IMRO": "t_NL.IMRO.1680.BUITENGEBIED-OH01",
-        "topic": "conservative",
-        "context": "The new zoning plan is of a conservative nature, with the existing situation as a starting point and subject to current building and use rules and mandatory sectoral tests.",
-        "answer": "{ \"answer\": false }"
-    },
-    {
         "IMRO": "t_NL.IMRO.0762.BP201607-C001",
         "topic": "conservative",
-        "context": "The present zoning plan concerns a conservative zoning plan, updating the legal and planning tools. Given the conservative nature of this new zoning plan, speaker asks to maintain the current destination of catering or to assign it to the Dorpsstraat 24.",
+        "context": "The present zoning plan concerns a conservative zoning plan, updating the legal and planning tools.",
         "answer": "{ \"answer\": false }"
     },
     {
@@ -210,63 +240,45 @@
         "answer": "{ \"answer\": false }"
     },
     {
-        "IMRO": "t_NL.IMRO.0252.GHbpkernMalden-VA01",
-        "topic": "conservative",
-        "context": "This zoning plan shall be conservative in nature and shall not permit developments as referred to in Article 6.12",
-        "answer": "{ \"answer\": false }"
-    },
-    {
         "IMRO": "t_NL.IMRO.0664.BPKL01-VG99",
         "topic": "conservative",
         "context": "This plan concerns a conservative zoning plan for an existing situation and does not provide for work or work to be carried out.",
         "answer": "{ \"answer\": true }"
     },
     {
-        "IMRO": "t_NL.IMRO.1900.2016BPbuitengebied-VA02",
-        "topic": "conservative",
-        "context": "This zoning plan is mainly conservative in nature, large-scale spatial developments are not made possible by law.",
-        "answer": "{ \"answer\": false }"
-    },
-    {
-        "IMRO": "t_NL.IMRO.1674.2089TOLBERG-0601",
-        "topic": "conservative",
-        "context": "No developments are foreseen in the planning area and the zoning plan is conservative in nature.",
-        "answer": "{ \"answer\": false }"
-    },
-    {
         "IMRO": "t_NL.IMRO.0277.BPROZEND2019001-0002",
         "topic": "conservative",
-        "context": "An operating plan does not need to be drawn up with a zoning plan with only conservative destinations or amending powers. As the present zoning plan is essentially conservative in nature, there is no need to draw up an operating plan.",
+        "context": "An operating plan does not need to be drawn up with a zoning plan with only conservative destinations or amending powers.",
         "answer": "{ \"answer\": false }"
     },
     {
         "IMRO": "t_NL.IMRO.0870.90BP1016Buitengeb-VA02",
         "topic": "conservative",
-        "context": "An operating plan does not need to be drawn up with a zoning plan with only conservative destinations or amending powers. As this zoning plan is conservative in nature, there is no need to draw up an operating plan.",
+        "context": "An operating plan does not need to be drawn up with a zoning plan with only conservative destinations or amending powers.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0762.BP201501-C002",
+        "topic": "conservative",
+        "context": "The water management plan describes the principles of management, the developments expected in the coming years and the main choices that the waterboard must make.",
         "answer": "{ \"answer\": false }"
     },
     {
         "IMRO": "t_NL.IMRO.1895.21BP0001-0401",
         "topic": "conservative",
         "context": "This is primarily a conservative zoning plan in an area with existing functions.",
-        "answer": "{ \"answer\": true }"
+        "answer": "{ \"answer\": false }"
     },
     {
         "IMRO": "t_NL.IMRO.0569.bpNKPLandelijkgebi-va01",
         "topic": "conservative",
-        "context": "An operating plan does not need to be drawn up with a zoning plan with only conservative destinations or amending powers. As this zoning plan is mainly conservative in nature, no exploitation plan needs to be drawn up.",
+        "context": "An operating plan does not need to be drawn up with a zoning plan with only conservative destinations or amending powers.",
         "answer": "{ \"answer\": false }"
-    },
-    {
-        "IMRO": "t_NL.IMRO.0762.BP201606-C001",
-        "topic": "conservative",
-        "context": "Research into the presence of protected species is not necessary because of the conservative nature of this zoning plan.",
-        "answer": "{ \"answer\": true }"
     },
     {
         "IMRO": "t_NL.IMRO.0736.BP022dorpskernen-ow01",
         "topic": "conservative",
-        "context": "An exploitation plan also does not need to be drawn up with a zoning plan with only conservative destinations or amending powers. As the present zoning plan is essentially conservative in nature, there is no need to draw up an operating plan.",
+        "context": "An exploitation plan also does not need to be drawn up with a zoning plan with only conservative destinations or amending powers.",
         "answer": "{ \"answer\": false }"
     },
     {
@@ -278,8 +290,8 @@
     {
         "IMRO": "t_NL.IMRO.0828.BPtweekernen2018-VG01",
         "topic": "conservative",
-        "context": "This zoning plan is largely conservative in nature. This zoning plan is mainly a conservative plan which sets out the existing legal situation.",
-        "answer": "{\n \"answer\": false}"
+        "context": "This zoning plan is mainly a conservative plan which sets out the existing legal situation.",
+        "answer": "{ \"answer\": true }"
     },
     {
         "IMRO": "t_NL.IMRO.0627.bphweg102d103kesse-0401",
@@ -296,7 +308,13 @@
     {
         "IMRO": "t_NL.IMRO.0416.BPOKKD2014-va01",
         "topic": "conservative",
-        "context": "It is a conservative zoning plan, without any further impact on water management. The present zoning plan is mainly of a conservative nature.",
+        "context": "It is a conservative zoning plan, without any further impact on water management.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1930.BPDrogendijk14-3001",
+        "topic": "conservative",
+        "context": "The Water Management Plan describes the principles of management, the developments expected in the coming years and the main choices the waterboard must make.",
         "answer": "{ \"answer\": false }"
     },
     {
@@ -304,12 +322,6 @@
         "topic": "conservative",
         "context": "With regard to this conservative zoning plan, there are no spatial developments leading to construction activities for which an exploitation plan should be drawn up.",
         "answer": "{ \"answer\": true }"
-    },
-    {
-        "IMRO": "t_NL.IMRO.0928.BPKerkradeWestII-Vg01",
-        "topic": "conservative",
-        "context": "As such developments are not foreseen for the time being - the zoning plan is largely conservative in nature - there is therefore no obligation to establish an operating plan**.",
-        "answer": "{ \"answer\": false }"
     },
     {
         "IMRO": "t_NL.IMRO.0756.BP14KomplanRvt-VG01",
@@ -321,7 +333,7 @@
         "IMRO": "t_NL.IMRO.1730.BPTerBorch2016EW-0401",
         "topic": "conservative",
         "context": "The zoning plan does not provide for new or far-reaching planological developments and can therefore be considered planologically conservative.",
-        "answer": "{ \"answer\": false }"
+        "answer": "{ \"answer\": true }"
     },
     {
         "IMRO": "t_NL.IMRO.0262.loHanzepoort-BP41",
@@ -336,6 +348,12 @@
         "answer": "{ \"answer\": false }"
     },
     {
+        "IMRO": "t_NL.IMRO.1931.BP1710DK13-VG01",
+        "topic": "conservative",
+        "context": "The Water Management Plan describes the principles of management, the developments expected in the coming years and the main choices the waterboard must make.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
         "IMRO": "t_NL.IMRO.0228.BP2019AGBG0002-0301",
         "topic": "conservative",
         "context": "Conservation obligation: the Environment Act legally establishes that monument owners have a duty to maintain their monument.",
@@ -344,13 +362,7 @@
     {
         "IMRO": "t_NL.IMRO.0355.BPBeukbergen2018-VS01",
         "topic": "conservative",
-        "context": "An operating plan does not need to be drawn up with a zoning plan with only conservative destinations or amending powers. As this zoning plan is essentially conservative in nature, there is no need to draw up an operating plan.",
-        "answer": "{ \"answer\": false }"
-    },
-    {
-        "IMRO": "t_NL.IMRO.0928.BPHolzkuil-Vg01",
-        "topic": "conservative",
-        "context": "For the planning area there is a predominantly conservative nature of the zoning plan.",
+        "context": "An operating plan does not need to be drawn up with a zoning plan with only conservative destinations or amending powers.",
         "answer": "{ \"answer\": false }"
     },
     {
@@ -360,9 +372,27 @@
         "answer": "{ \"answer\": false }"
     },
     {
+        "IMRO": "t_NL.IMRO.1892.BpSchoolstr24Nwk-Va01",
+        "topic": "conservative",
+        "context": "The Water Management Plan describes the principles of management, the developments expected in the coming years and the main choices the waterboard must make.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1948.ERP000BP0032017P-VG01",
+        "topic": "conservative",
+        "context": "The water management plan describes the principles of management, the developments expected in the coming years and the main choices that the waterboard must make.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
         "IMRO": "t_NL.IMRO.1895.23BP001-0401",
         "topic": "conservative",
         "context": "This zoning plan concerns a predominantly conservative plan.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1924.SLDMeidoornstr-BP30",
+        "topic": "conservative",
+        "context": "The Water Management Plan describes the principles of management, the developments expected in the coming years and the main choices the waterboard must make.",
         "answer": "{ \"answer\": false }"
     },
     {
@@ -378,33 +408,21 @@
         "answer": "{ \"answer\": true }"
     },
     {
-        "IMRO": "t_NL.IMRO.1674.2090KORTENDIJK-0601",
-        "topic": "conservative",
-        "context": "No developments are foreseen in the planning area and the zoning plan is conservative in nature.",
-        "answer": "{ \"answer\": false }"
-    },
-    {
         "IMRO": "t_NL.IMRO.0225.BPbuitengebied-1603",
         "topic": "conservative",
-        "context": "An operating plan does not need to be drawn up with a zoning plan with only conservative destinations or amending powers. As this zoning plan is mainly conservative in nature, no exploitation plan needs to be drawn up.",
+        "context": "An operating plan does not need to be drawn up with a zoning plan with only conservative destinations or amending powers.",
         "answer": "{ \"answer\": false }"
-    },
-    {
-        "IMRO": "t_NL.IMRO.1674.2094VIJFHUIZENBERG-0601",
-        "topic": "conservative",
-        "context": "No developments are foreseen in this part of the plan area and the zoning plan is mainly conservative in nature.",
-        "answer": "{ \"answer\": true }"
     },
     {
         "IMRO": "t_NL.IMRO.0015.BP015BEHE1-VA01",
         "topic": "conservative",
         "context": "This is primarily a conservative zoning plan in an area with existing functions.",
-        "answer": "{ \"answer\": true }"
+        "answer": "{ \"answer\": false }"
     },
     {
-        "IMRO": "t_NL.IMRO.1680.BUITENGEBIED-VB01",
+        "IMRO": "t_NL.IMRO.0584.BPWONEN2016035-VG99",
         "topic": "conservative",
-        "context": "The new zoning plan is of a conservative nature, with the existing situation as a starting point and subject to current building and use rules and mandatory sectoral tests.",
+        "context": "The Water Management Plan describes the principles of management, the developments expected in the coming years and the main choices the waterboard must make.",
         "answer": "{ \"answer\": false }"
     },
     {
@@ -416,7 +434,13 @@
     {
         "IMRO": "t_NL.IMRO.1701.0000BP000000000573-0003",
         "topic": "conservative",
-        "context": "This zoning plan has a conservative character. This zoning plan shall be conservative in nature and shall not permit any new developments not yet contained in an irrevocable zoning plan or otherwise subject to a planning procedure or authorisation.",
+        "context": "This zoning plan has a conservative character.",
+        "answer": "{ \"answer\": true }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0585.BPMSDPolderdijk15a-VG01",
+        "topic": "conservative",
+        "context": "The Water Management Plan describes the principles of management, the developments expected in the coming years and the main choices the waterboard must make.",
         "answer": "{ \"answer\": false }"
     },
     {
@@ -434,20 +458,20 @@
     {
         "IMRO": "t_NL.IMRO.1931.BP1610BT007-VG01",
         "topic": "conservative",
-        "context": "An operating plan does not need to be drawn up with a zoning plan with only conservative destinations or amending powers. As this zoning plan is mainly conservative in nature, no exploitation plan needs to be drawn up.",
+        "context": "An operating plan does not need to be drawn up with a zoning plan with only conservative destinations or amending powers.",
         "answer": "{ \"answer\": false }"
     },
     {
         "IMRO": "t_NL.IMRO.1931.BP1507BG005-VG02",
         "topic": "conservative",
-        "context": "The plan is mainly conservative in nature and does not allow major developments. The present zoning plan is essentially a conservative plan, in which the existing rights are respected as much as possible.",
-        "answer": "{ \"answer\": false }"
+        "context": "The present zoning plan is essentially a conservative plan, in which the existing rights are respected as much as possible.",
+        "answer": "{ \"answer\": true }"
     },
     {
         "IMRO": "t_NL.IMRO.1730.BPZuidlarencentrum-0401",
         "topic": "conservative",
-        "context": "The zoning plan does not provide for new or far-reaching planological developments and can therefore be considered planologically conservative. The zoning plan Zuidlaren Centrum is conservative in nature and mainly identifies the existing situation.",
-        "answer": "{\n \"answer\": false\n}"
+        "context": "The zoning plan does not provide for new or far-reaching planological developments and can therefore be considered planologically conservative.",
+        "answer": "{ \"answer\": true }"
     },
     {
         "IMRO": "t_NL.IMRO.0632.rietveld33a-bVA1",
@@ -462,9 +486,9 @@
         "answer": "{ \"answer\": false }"
     },
     {
-        "IMRO": "t_NL.IMRO.0743.BP02016002-VS02",
+        "IMRO": "t_NL.IMRO.0585.BPMHLlocMolenwiek-VG01",
         "topic": "conservative",
-        "context": "This zoning plan is mainly conservative in nature.",
+        "context": "The Water Management Plan describes the principles of management, the developments expected in the coming years and the main choices the waterboard must make.",
         "answer": "{ \"answer\": false }"
     },
     {
@@ -486,22 +510,28 @@
         "answer": "{ \"answer\": true }"
     },
     {
-        "IMRO": "t_NL.IMRO.1735.GOxGoorNoord-VS10",
+        "IMRO": "t_NL.IMRO.0501.Middelweg1-0130",
         "topic": "conservative",
-        "context": "This zoning plan shall be conservative in nature and shall not permit any new developments not yet contained in an irrevocable zoning plan or otherwise subject to a planning procedure or authorisation.",
+        "context": "The Water Management Plan describes the principles of management, the developments expected in the coming years and the main choices the waterboard must make.",
         "answer": "{ \"answer\": false }"
     },
     {
         "IMRO": "t_NL.IMRO.0056.BPGK15BEHE1-VA01",
         "topic": "conservative",
         "context": "This zoning plan is primarily conservative of character. This is primarily a conservative zoning plan in an area with existing functions.",
-        "answer": "{ \"answer\": true }"
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0489.BPZiedewij123a119-VI01",
+        "topic": "conservative",
+        "context": "The Water Management Plan describes the principles of management, the developments expected in the coming years and the main choices the waterboard must make.",
+        "answer": "{ \"answer\": false }"
     },
     {
         "IMRO": "t_NL.IMRO.1708.NoordelijkkernVP01-VA01",
         "topic": "conservative",
-        "context": "However, the present zoning plan is, by its nature, essentially a conservative zoning plan, which minimises the risk of attributable plan damage. This zoning plan is conservative and cannot be regarded as a 'building plan' within the meaning of article 6\\.2\\.1 Bro.",
-        "answer": "{ \"answer\": false }"
+        "context": "This zoning plan is conservative and cannot be regarded as a 'building plan' within the meaning of article 6\\.2\\.1 Bro.",
+        "answer": "{ \"answer\": true }"
     },
     {
         "IMRO": "t_NL.IMRO.0331.05Lentehofgemhuise-BP01",
@@ -513,12 +543,6 @@
         "IMRO": "t_NL.IMRO.1711.BP20150950-VG02",
         "topic": "conservative",
         "context": "The zoning plan 'urban area' is conservative and cannot be regarded as a \"building plan' within the meaning of Article 6\\.2\\.1 Bro.",
-        "answer": "{ \"answer\": false }"
-    },
-    {
-        "IMRO": "t_NL.IMRO.1735.GOOR-VS10",
-        "topic": "conservative",
-        "context": "This zoning plan shall be conservative in nature and shall not permit any new developments not yet contained in an irrevocable zoning plan or otherwise subject to a planning procedure or authorisation.",
         "answer": "{ \"answer\": false }"
     },
     {
@@ -564,15 +588,15 @@
         "answer": "{ \"answer\": true }"
     },
     {
-        "IMRO": "t_NL.IMRO.1681.08BP0010-VG01",
+        "IMRO": "t_NL.IMRO.1930.BPKoninginnehof-3001",
         "topic": "conservative",
-        "context": "The (to be revised) zoning plan is a largely conservative zoning plan and does not include expansion plans.",
+        "context": "The Water Management Plan describes the principles of management, the developments expected in the coming years and the main choices the waterboard must make.",
         "answer": "{ \"answer\": false }"
     },
     {
-        "IMRO": "t_NL.IMRO.0865.vghBPVijverhof2016-VG01",
+        "IMRO": "t_NL.IMRO.1681.08BP0010-VG01",
         "topic": "conservative",
-        "context": "However, the present zoning plan is, by its nature, essentially a conservative zoning plan, which minimises the risk of attributable plan damage.",
+        "context": "The (to be revised) zoning plan is a largely conservative zoning plan and does not include expansion plans.",
         "answer": "{ \"answer\": false }"
     },
     {
@@ -594,6 +618,18 @@
         "answer": "{ \"answer\": false }"
     },
     {
+        "IMRO": "t_NL.IMRO.0597.BPBuitengebied2013-VG02",
+        "topic": "conservative",
+        "context": "The Water Management Plan describes the principles of management, the developments expected in the coming years and the main choices the waterboard must make.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0585.BPMHLlocSportland-VG01",
+        "topic": "conservative",
+        "context": "The Water Management Plan describes the principles of management, the developments expected in the coming years and the main choices the waterboard must make.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
         "IMRO": "t_NL.IMRO.0267.BP0057-0002",
         "topic": "conservative",
         "context": "The present zoning plan is essentially a conservative plan, in which the existing rights are respected as much as possible.",
@@ -603,6 +639,12 @@
         "IMRO": "t_NL.IMRO.0233.BPtonselseveld-0402",
         "topic": "conservative",
         "context": "The zoning plan concerns a largely conservative zoning plan.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1721.BPLaarAchterstNist-vg01",
+        "topic": "conservative",
+        "context": "The water management plan describes the principles of management, the developments expected in the coming years and the main choices that the waterboard must make.",
         "answer": "{ \"answer\": false }"
     },
     {
@@ -630,12 +672,6 @@
         "answer": "{ \"answer\": false }"
     },
     {
-        "IMRO": "t_NL.IMRO.0148.Kernen2016-vs01",
-        "topic": "conservative",
-        "context": "The starting point in drawing up this zoning plan is that this update is conservative in nature and does not focus on (large) developments within the cores in the municipality of Dalfsen.",
-        "answer": "{ \"answer\": false }"
-    },
-    {
         "IMRO": "t_NL.IMRO.0840.2585M0002-DEF1",
         "topic": "conservative",
         "context": "This conservative plan does not foresee any developments affecting the green structure as indicated on the Green Map. With regard to this conservative zoning plan, there are no spatial developments leading to construction activities for which an operating plan should be drawn up.",
@@ -644,14 +680,14 @@
     {
         "IMRO": "t_NL.IMRO.0420.BPHDorpskernenIII-VA02",
         "topic": "conservative",
-        "context": "As the present zoning plan is largely conservative and most of the plan area is privately owned, the zoning plan has no financial impact on the municipality for these parts; The zoning plan in question is of a conservative nature, with the existing situation as a starting point and subject to current building and use rules and mandatory sectoral tests.",
-        "answer": "{\n \"answer\": false\n}"
+        "context": "As the present zoning plan is largely conservative and most of the plan area is privately owned, the zoning plan has no financial impact on the municipality for these parts;",
+        "answer": "{ \"answer\": false }"
     },
     {
         "IMRO": "t_NL.IMRO.0858.BPvalkenswaardnrd-VA02",
         "topic": "conservative",
-        "context": "This zoning plan is conservative in nature, in principle defining the existing factual situation, with the exception of illegal situations which are not desirable from a spatial point of view. The present zoning plan concerns a conservative plan in which the building is already present.",
-        "answer": "{ \"answer\": false }"
+        "context": "The present zoning plan concerns a conservative plan in which the building is already present.",
+        "answer": "{ \"answer\": true }"
     },
     {
         "IMRO": "t_NL.IMRO.0358.19-VG02",
@@ -672,27 +708,9 @@
         "answer": "{ \"answer\": true }"
     },
     {
-        "IMRO": "t_NL.IMRO.0518.BP0298HLeidschenvn-50VA",
-        "topic": "conservative",
-        "context": "The zoning plan is conservative in nature and its implementation does not involve any costs borne by the municipality.",
-        "answer": "{ \"answer\": false }"
-    },
-    {
         "IMRO": "t_NL.IMRO.0345.Woongeb2018-vg01",
         "topic": "conservative",
-        "context": "An operating plan does not need to be drawn up with a zoning plan with only conservative destinations or amending powers. As the present zoning plan is essentially conservative in nature, there is no need to draw up an operating plan.",
-        "answer": "{ \"answer\": false }"
-    },
-    {
-        "IMRO": "t_NL.IMRO.0302.BP01167-vg02",
-        "topic": "conservative",
-        "context": "The zoning plan in question is of a conservative nature, with the existing situation as a starting point and subject to current building and use rules and mandatory sectoral tests.",
-        "answer": "{ \"answer\": false }"
-    },
-    {
-        "IMRO": "t_NL.IMRO.0302.BP01139-vg03",
-        "topic": "conservative",
-        "context": "The zoning plan in question is of a conservative nature, with the existing situation as a starting point and subject to current building and use rules and mandatory sectoral tests.",
+        "context": "An operating plan does not need to be drawn up with a zoning plan with only conservative destinations or amending powers.",
         "answer": "{ \"answer\": false }"
     },
     {
@@ -705,18 +723,12 @@
         "IMRO": "t_NL.IMRO.1891.BpDamwald-VA01",
         "topic": "conservative",
         "context": "The present zoning plan is a conservative plan.",
-        "answer": "{ \"answer\": false }"
+        "answer": "{ \"answer\": true }"
     },
     {
         "IMRO": "t_NL.IMRO.0569.bpTARaanpaomissies-va01",
         "topic": "conservative",
         "context": "This partial zoning review has a conservative character.",
-        "answer": "{ \"answer\": true }"
-    },
-    {
-        "IMRO": "t_NL.IMRO.0385.bpBtJulianawegEO-vg02",
-        "topic": "conservative",
-        "context": "Since the zoning plan is conservative in nature, economic viability does not need to be demonstrated and there is no need to draw up an exploitation plan.",
         "answer": "{ \"answer\": true }"
     },
     {
@@ -788,8 +800,8 @@
     {
         "IMRO": "t_NL.IMRO.0420.BPHDorpskernenIII-VA01",
         "topic": "conservative",
-        "context": "As the present zoning plan is largely conservative and most of the plan area is privately owned, the zoning plan has no financial impact on the municipality for these parts; The zoning plan in question is of a conservative nature, with the existing situation as a starting point and subject to current building and use rules and mandatory sectoral tests.",
-        "answer": "{\n \"answer\": false\n}"
+        "context": "As the present zoning plan is largely conservative and most of the plan area is privately owned, the zoning plan has no financial impact on the municipality for these parts;",
+        "answer": "{ \"answer\": false }"
     },
     {
         "IMRO": "t_NL.IMRO.0861.BP00066-0401",
@@ -801,6 +813,12 @@
         "IMRO": "t_NL.IMRO.0273.BPBKNoordZoost-VA01",
         "topic": "conservative",
         "context": "The present zoning plan has a conservative character and therefore does not allow new construction plans.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0501.HerzRvRWoningen-0040",
+        "topic": "conservative",
+        "context": "The Water Management Plan describes the principles of management, the developments expected in the coming years and the main choices the waterboard must make.",
         "answer": "{ \"answer\": false }"
     },
     {
@@ -816,16 +834,16 @@
         "answer": "{ \"answer\": false }"
     },
     {
+        "IMRO": "t_NL.IMRO.0080.04016BP00-VG01",
+        "topic": "conservative",
+        "context": "The maintenance of the water and the banks will take place in the same way as in the already developed part of Blitsaerd.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
         "IMRO": "t_NL.IMRO.0748.BP0257-0301",
         "topic": "conservative",
         "context": "The remaining areas are subject to a conservative zoning plan.",
         "answer": "{ \"answer\": true }"
-    },
-    {
-        "IMRO": "t_NL.IMRO.0957.BP00000246-VG02",
-        "topic": "conservative",
-        "context": "The zoning plan is therefore largely conservative in nature.",
-        "answer": "{ \"answer\": false }"
     },
     {
         "IMRO": "t_NL.IMRO.0569.bpNKPkernaanpomis-va01",
@@ -840,15 +858,9 @@
         "answer": "{ \"answer\": false }"
     },
     {
-        "IMRO": "t_NL.IMRO.0153.BP00093-0003",
+        "IMRO": "t_NL.IMRO.1963.BPKernenKDK2018-VG02",
         "topic": "conservative",
-        "context": "The plan is essentially of a conservative nature.",
-        "answer": "{ \"answer\": true }"
-    },
-    {
-        "IMRO": "t_NL.IMRO.0302.BP01153-vg03",
-        "topic": "conservative",
-        "context": "The zoning plan in question is of a conservative nature, with the existing situation as a starting point and subject to current building and use rules and mandatory sectoral tests.",
+        "context": "The Water Management Plan describes the principles of management, the developments expected in the coming years and the main choices the waterboard must make.",
         "answer": "{ \"answer\": false }"
     },
     {
@@ -866,19 +878,13 @@
     {
         "IMRO": "t_NL.IMRO.0420.BPHDorpskernenII-VA01",
         "topic": "conservative",
-        "context": "As the present zoning plan is largely conservative and most of the plan area is privately owned, the zoning plan has no financial impact on the municipality for these parts; The zoning plan in question is of a conservative nature, with the existing situation as a starting point and subject to current building and use rules and mandatory sectoral tests.",
-        "answer": "{\n \"answer\": false\n}"
+        "context": "As the present zoning plan is largely conservative and most of the plan area is privately owned, the zoning plan has no financial impact on the municipality for these parts;",
+        "answer": "{ \"answer\": false }"
     },
     {
         "IMRO": "t_NL.IMRO.0351.BebouwdKomWoudnbrg-ow01",
         "topic": "conservative",
         "context": "However, this zoning plan has a conservative character and does not allow for new large-scale developments. This zoning plan concerns a conservative plan in which all buildings are already present.",
-        "answer": "{ \"answer\": false }"
-    },
-    {
-        "IMRO": "t_NL.IMRO.1640.BP16RVBuitengebied-OH01",
-        "topic": "conservative",
-        "context": "The plan is mainly conservative in nature.",
         "answer": "{ \"answer\": false }"
     },
     {
@@ -894,15 +900,27 @@
         "answer": "{ \"answer\": false }"
     },
     {
+        "IMRO": "t_NL.IMRO.0614.bpKortedijkje8-0100",
+        "topic": "conservative",
+        "context": "The Water Management Plan describes the principles of management, the developments expected in the coming years and the main choices the waterboard must make.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
         "IMRO": "t_NL.IMRO.0025.BPBD17BEHE1-VA01",
         "topic": "conservative",
         "context": "This is primarily a conservative zoning plan in an area with existing functions.",
-        "answer": "{ \"answer\": true }"
+        "answer": "{ \"answer\": false }"
     },
     {
         "IMRO": "t_NL.IMRO.0738.BP7000-GV02",
         "topic": "conservative",
         "context": "This zoning plan is mainly conservative of character. The plan in question concerns a predominantly conservative plan in which the building is already present or already planned.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0531.bp24RvRRijksstraat-3001",
+        "topic": "conservative",
+        "context": "The Water Management Plan describes the principles of management, the developments expected in the coming years and the main choices the waterboard must make.",
         "answer": "{ \"answer\": false }"
     },
     {
@@ -942,21 +960,9 @@
         "answer": "{ \"answer\": false }"
     },
     {
-        "IMRO": "t_NL.IMRO.0518.BP0260DStatenkwar-50VA",
-        "topic": "conservative",
-        "context": "The zoning plan is conservative in nature and its implementation does not involve any costs borne by the municipality.",
-        "answer": "{ \"answer\": false }"
-    },
-    {
         "IMRO": "t_NL.IMRO.0166.00991147-VB02",
         "topic": "conservative",
         "context": "For the rest, the zoning plan has a conservative character and there are no municipal costs.",
-        "answer": "{ \"answer\": false }"
-    },
-    {
-        "IMRO": "t_NL.IMRO.0613.BPPolderAwaard-VST2",
-        "topic": "conservative",
-        "context": "Furthermore, given the partly conservative nature of the zoning plan, no development costs can be expected.",
         "answer": "{ \"answer\": false }"
     },
     {
@@ -1002,18 +1008,6 @@
         "answer": "{ \"answer\": false }"
     },
     {
-        "IMRO": "t_NL.IMRO.0166.00991274-OW01",
-        "topic": "conservative",
-        "context": "The zoning plan is essentially of a conservative nature and within the planning area no developments with major financial consequences are possible.",
-        "answer": "{ \"answer\": true }"
-    },
-    {
-        "IMRO": "t_NL.IMRO.0861.BP00070-0401",
-        "topic": "conservative",
-        "context": "This zoning plan is conservative in nature and cannot be regarded as a 'building plan' within the meaning of Article 6\\.2\\.1 Bro.",
-        "answer": "{ \"answer\": true }"
-    },
-    {
         "IMRO": "t_NL.IMRO.0484.13BPBGvanRW11totR-VA01",
         "topic": "conservative",
         "context": "The zoning plan has a conservative character. The zoning plan has a conservative zoning plan.",
@@ -1044,9 +1038,45 @@
         "answer": "{ \"answer\": false }"
     },
     {
+        "IMRO": "t_NL.IMRO.1963.BPMHLlocBoomgaard-VG01",
+        "topic": "conservative",
+        "context": "The Water Management Plan describes the principles of management, the developments expected in the coming years and the main choices the waterboard must make.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0599.WP6006HofvanPernis-va01",
+        "topic": "conservative",
+        "context": "The Water Management Plan describes the principles of management, the developments expected in the coming years and the main choices the waterboard must make.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
         "IMRO": "t_NL.IMRO.0074.BPNHondsdraf1HV-VG01",
         "topic": "conservative",
         "context": "This is a small-scale development, partly conservative/remodeling and partly new construction.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.1924.GObeschermd-BP30",
+        "topic": "conservative",
+        "context": "The Water Management Plan describes the principles of management, the developments expected in the coming years and the main choices the waterboard must make.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0501.tgecroondehart-0130",
+        "topic": "conservative",
+        "context": "The Water Management Plan describes the principles of management, the developments expected in the coming years and the main choices the waterboard must make.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0599.BP2137Parlando-va01",
+        "topic": "conservative",
+        "context": "The water management plan describes the principles of management, the developments expected in the coming years and the main choices that the waterboard must make.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0585.BPGRVDLHHSTR-VG01",
+        "topic": "conservative",
+        "context": "The Water Management Plan describes the principles of management, the developments expected in the coming years and the main choices the waterboard must make.",
         "answer": "{ \"answer\": false }"
     },
     {
@@ -1065,25 +1095,31 @@
         "IMRO": "t_NL.IMRO.0748.WP200b-0301",
         "topic": "conservative",
         "context": "The remaining areas are subject to a conservative zoning plan.",
-        "answer": "{ \"answer\": true }"
+        "answer": "{ \"answer\": false }"
     },
     {
         "IMRO": "t_NL.IMRO.0327.151-0401",
         "topic": "conservative",
-        "context": "This zoning plan has a conservative character. Given the predominantly conservative nature of the zoning plan, there is no need for an exploitation plan.",
-        "answer": "{ \"answer\": false }"
+        "context": "This zoning plan has a conservative character.",
+        "answer": "{ \"answer\": true }"
     },
     {
         "IMRO": "t_NL.IMRO.1895.08BP0001-0401",
         "topic": "conservative",
         "context": "This is primarily a conservative zoning plan in an area with existing functions.",
-        "answer": "{ \"answer\": true }"
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0501.janmatthijssenlaan-0130",
+        "topic": "conservative",
+        "context": "The Water Management Plan describes the principles of management, the developments expected in the coming years and the main choices the waterboard must make.",
+        "answer": "{ \"answer\": false }"
     },
     {
         "IMRO": "t_NL.IMRO.0420.BPHDorpskernenIV-VA01",
         "topic": "conservative",
-        "context": "As the present zoning plan is largely conservative and most of the plan area is privately owned, the zoning plan has no financial impact on the municipality for these parts; The zoning plan in question is of a conservative nature, with the existing situation as a starting point and subject to current building and use rules and mandatory sectoral tests.",
-        "answer": "{\n \"answer\": false\n}"
+        "context": "As the present zoning plan is largely conservative and most of the plan area is privately owned, the zoning plan has no financial impact on the municipality for these parts;",
+        "answer": "{ \"answer\": false }"
     },
     {
         "IMRO": "t_NL.IMRO.0193.BP18003-0004",
@@ -1095,6 +1131,12 @@
         "IMRO": "t_NL.IMRO.0351.BebouwdKomWoudnbrg-vo01",
         "topic": "conservative",
         "context": "However, this zoning plan has a conservative character and does not allow for new large-scale developments. This zoning plan concerns a conservative plan in which all buildings are already present.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
+        "IMRO": "t_NL.IMRO.0501.HerzRvRWoningen-0030",
+        "topic": "conservative",
+        "context": "The Water Management Plan describes the principles of management, the developments expected in the coming years and the main choices the waterboard must make.",
         "answer": "{ \"answer\": false }"
     },
     {
@@ -1113,19 +1155,19 @@
         "IMRO": "t_NL.IMRO.0748.BP0224-0302",
         "topic": "conservative",
         "context": "The present zoning plan Outside North, first revision is largely a so-called conservative zoning plan.",
-        "answer": "{ \"answer\": true }"
+        "answer": "{ \"answer\": false }"
     },
     {
-        "IMRO": "t_NL.IMRO.0777.0118BRABANTSPORTPK-3001",
+        "IMRO": "t_NL.IMRO.0501.vansleenfase2tot5-0130",
         "topic": "conservative",
-        "context": "To the extent that this zoning plan is conservative in nature, no developments are foreseen.",
-        "answer": "{ \"answer\": true }"
+        "context": "The Water Management Plan describes the principles of management, the developments expected in the coming years and the main choices the waterboard must make.",
+        "answer": "{ \"answer\": false }"
     },
     {
         "IMRO": "t_NL.IMRO.0420.BPHDorpskernenI-VA01",
         "topic": "conservative",
-        "context": "As the present zoning plan is largely conservative and most of the plan area is privately owned, the zoning plan has no financial impact on the municipality for these parts; The zoning plan in question is of a conservative nature, with the existing situation as a starting point and subject to current building and use rules and mandatory sectoral tests.",
-        "answer": "{\n \"answer\": false\n}"
+        "context": "As the present zoning plan is largely conservative and most of the plan area is privately owned, the zoning plan has no financial impact on the municipality for these parts;",
+        "answer": "{ \"answer\": false }"
     },
     {
         "IMRO": "t_NL.IMRO.0479.STED3855BP-0301",
@@ -1140,6 +1182,12 @@
         "answer": "{ \"answer\": true }"
     },
     {
+        "IMRO": "t_NL.IMRO.0502.BP17Fascinatio4K1-4001",
+        "topic": "conservative",
+        "context": "The Water Management Plan describes the principles of management, the developments expected in the coming years and the main choices the High Council should make.",
+        "answer": "{ \"answer\": false }"
+    },
+    {
         "IMRO": "t_NL.IMRO.0273.BPBKbijsteren-VA01",
         "topic": "conservative",
         "context": "Since the zoning plan is a conservative plan, in which the existing rights are respected as much as possible, no plan damage can be expected.",
@@ -1149,18 +1197,6 @@
         "IMRO": "t_NL.IMRO.1884.BPROELOFAZUID-VAS2",
         "topic": "conservative",
         "context": "Although mainly conservative, the present plan allows for some location-specific developments.",
-        "answer": "{ \"answer\": false }"
-    },
-    {
-        "IMRO": "t_NL.IMRO.0861.BP00069-0401",
-        "topic": "conservative",
-        "context": "This zoning plan is conservative in nature and cannot be regarded as a 'building plan' within the meaning of Article 6\\.2\\.1 Bro.",
-        "answer": "{ \"answer\": true }"
-    },
-    {
-        "IMRO": "t_NL.IMRO.0302.BP01207-ow01",
-        "topic": "conservative",
-        "context": "The zoning plan in question is of a conservative nature, with the existing situation as a starting point and subject to current building and use rules and mandatory sectoral tests.",
         "answer": "{ \"answer\": false }"
     }
 ]

@@ -219,7 +219,7 @@ for plan in tqdm(texts):
     selected_ids = [
         i
         for i, s in enumerate(plan.get("en"))
-        if find_topic(s.lower(), ["conservative"], threshold=THRESHOLD)
+        if (find_topic(s.lower(), ["conservative", "no development expected", "already developed"], threshold=THRESHOLD)) and ("heritage" not in s.lower()) and ("nature" not in s.lower())
     ]
     entry = {
         "IMRO": plan.get("IMRO"),
