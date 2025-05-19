@@ -14,7 +14,13 @@
         "Conservation plan": false,
         "building plan": false,
         "Space for Space": false,
-        "Invalid": false
+        "Invalid": false,
+        "DCP": false,
+        "DA": true,
+        "PLD": false,
+        "HS": false,
+        "CO": false,
+        "LES": false
     },
     "t_NL.IMRO.0416.WPHavenplein8a-va01": {
         "Land allocation/sale": false,
@@ -31,7 +37,14 @@
         "Conservation plan": false,
         "building plan": false,
         "Space for Space": false,
-        "Invalid": false
+        "Invalid": false,
+        "DCP": false,
+        "DA": false,
+        "PLD": false,
+        "HS": false,
+        "CO": false,
+        "LES": false,
+        "INV": true
     },
     "t_NL.IMRO.0289.0075Churchillweg2-VSG1": {
         "Land allocation/sale": false,
@@ -48,7 +61,14 @@
         "Conservation plan": false,
         "building plan": false,
         "Space for Space": false,
-        "Invalid": false
+        "Invalid": false,
+        "DCP": false,
+        "DA": true,
+        "PLD": false,
+        "HS": false,
+        "CO": false,
+        "LES": false,
+        "INV": false
     },
     "t_NL.IMRO.0779.BPRVBeethovlaan1-vs01": {
         "Land allocation/sale": false,
@@ -65,7 +85,14 @@
         "Conservation plan": false,
         "building plan": false,
         "Space for Space": false,
-        "Invalid": false
+        "Invalid": false,
+        "DCP": false,
+        "DA": true,
+        "PLD": false,
+        "HS": false,
+        "CO": false,
+        "LES": false,
+        "INV": false
     },
     "t_NL.IMRO.9920.IPN358DeSkieding-VA01": {
         "Land allocation/sale": false,
@@ -82,7 +109,14 @@
         "Conservation plan": false,
         "building plan": false,
         "Space for Space": false,
-        "Invalid": false
+        "Invalid": false,
+        "DCP": false,
+        "DA": false,
+        "PLD": false,
+        "HS": false,
+        "CO": false,
+        "LES": false,
+        "INV": false
     },
     "t_NL.IMRO.0935.phKlevarie2020-vg01": {
         "Land allocation/sale": false,
@@ -99,7 +133,14 @@
         "Conservation plan": false,
         "building plan": false,
         "Space for Space": false,
-        "Invalid": false
+        "Invalid": false,
+        "DCP": false,
+        "DA": true,
+        "PLD": false,
+        "HS": false,
+        "CO": false,
+        "LES": false,
+        "INV": false
     },
     "t_NL.IMRO.0858.BPbarentszstraat3-VA01": {
         "Land allocation/sale": false,
@@ -116,7 +157,14 @@
         "Conservation plan": false,
         "building plan": false,
         "Space for Space": false,
-        "Invalid": false
+        "Invalid": false,
+        "DCP": false,
+        "DA": false,
+        "PLD": true,
+        "HS": true,
+        "CO": false,
+        "LES": false,
+        "INV": false
     },
     "t_NL.IMRO.0599.BP2171Afrkdrw1ehz-va01": {
         "Land allocation/sale": false,
@@ -151,7 +199,14 @@
         "Conservation plan": false,
         "building plan": false,
         "Space for Space": false,
-        "Invalid": false
+        "Invalid": false,
+        "DCP": false,
+        "DA": true,
+        "PLD": false,
+        "HS": false,
+        "CO": false,
+        "LES": false,
+        "INV": false
     },
     "t_NL.IMRO.1969.BPOP19BEHE1-VA01": {
         "Land allocation/sale": false,
@@ -169,7 +224,15 @@
         "Conservation plan": false,
         "building plan": false,
         "Space for Space": false,
-        "Invalid": false
+        "Invalid": false,
+        "DCP": false,
+        "DA": false,
+        "PLD": false,
+        "INI": false,
+        "HS": false,
+        "CO": false,
+        "LES": false,
+        "INV": true
     },
     "t_NL.IMRO.0370.2016Middenpad-VA01": {
         "Land allocation/sale": false,
@@ -187,7 +250,15 @@
         "Conservation plan": false,
         "building plan": false,
         "Space for Space": false,
-        "Invalid": false
+        "Invalid": false,
+        "DCP": false,
+        "DA": false,
+        "PLD": false,
+        "INI": false,
+        "HS": false,
+        "CO": false,
+        "LES": false,
+        "INV": true
     },
     "t_NL.IMRO.0398.BP60BROEKHORN2017-VA01": {
         "Land allocation/sale": false,
@@ -205,7 +276,15 @@
         "Conservation plan": false,
         "building plan": true,
         "Space for Space": false,
-        "Invalid": false
+        "Invalid": false,
+        "DCP": false,
+        "DA": false,
+        "PLD": false,
+        "INI": false,
+        "HS": false,
+        "CO": false,
+        "LES": false,
+        "INV": true
     },
     "t_NL.IMRO.0715.WPBVL05-VG01": {
         "Land allocation/sale": false,
@@ -223,7 +302,15 @@
         "Conservation plan": false,
         "building plan": false,
         "Space for Space": false,
-        "Invalid": false
+        "Invalid": false,
+        "DCP": false,
+        "DA": true,
+        "PLD": false,
+        "INI": false,
+        "HS": false,
+        "CO": false,
+        "LES": false,
+        "INV": false
     },
     "t_NL.IMRO.0828.UW2horzaknoord2015-VG01": {
         "Land allocation/sale": true,
@@ -259,7 +346,15 @@
         "Conservation plan": false,
         "building plan": false,
         "Space for Space": false,
-        "Invalid": false
+        "Invalid": false,
+        "DCP": false,
+        "DA": true,
+        "PLD": false,
+        "INI": false,
+        "HS": false,
+        "CO": false,
+        "LES": false,
+        "INV": false
     },
     "t_NL.IMRO.0664.BPGC01-VO99": {
         "Land allocation/sale": false,
@@ -277,7 +372,15 @@
         "Conservation plan": true,
         "building plan": false,
         "Space for Space": false,
-        "Invalid": false
+        "Invalid": false,
+        "DCP": false,
+        "DA": false,
+        "PLD": false,
+        "INI": false,
+        "HS": false,
+        "CO": true,
+        "LES": false,
+        "INV": false
     },
     "t_NL.IMRO.0342.BPSOE0048-0301": {
         "Land allocation/sale": false,
@@ -295,7 +398,15 @@
         "Conservation plan": false,
         "building plan": false,
         "Space for Space": false,
-        "Invalid": false
+        "Invalid": false,
+        "DCP": false,
+        "DA": true,
+        "PLD": false,
+        "INI": false,
+        "HS": false,
+        "CO": false,
+        "LES": false,
+        "INV": false
     },
     "t_NL.IMRO.1702.8BPveegplan1-VA01": {
         "Land allocation/sale": false,
@@ -331,7 +442,15 @@
         "Conservation plan": false,
         "building plan": false,
         "Space for Space": false,
-        "Invalid": false
+        "Invalid": false,
+        "DCP": false,
+        "DA": true,
+        "PLD": false,
+        "INI": false,
+        "HS": false,
+        "CO": false,
+        "LES": false,
+        "INV": false
     },
     "t_NL.IMRO.0893.BP17007BUIBUI-VA04": {
         "Land allocation/sale": false,
@@ -349,7 +468,15 @@
         "Conservation plan": false,
         "building plan": false,
         "Space for Space": false,
-        "Invalid": false
+        "Invalid": false,
+        "DCP": false,
+        "DA": true,
+        "PLD": false,
+        "INI": false,
+        "HS": false,
+        "CO": false,
+        "LES": false,
+        "INV": false
     },
     "t_NL.IMRO.1696.BP6000Old30362018-va00": {
         "Land allocation/sale": false,
@@ -367,7 +494,15 @@
         "Conservation plan": false,
         "building plan": false,
         "Space for Space": false,
-        "Invalid": false
+        "Invalid": false,
+        "DCP": false,
+        "DA": false,
+        "PLD": false,
+        "INI": false,
+        "HS": false,
+        "CO": false,
+        "LES": false,
+        "INV": true
     },
     "t_NL.IMRO.1884.BPELZENLAAN-VAS1": {
         "Land allocation/sale": false,
@@ -385,7 +520,16 @@
         "Conservation plan": false,
         "building plan": false,
         "Space for Space": false,
-        "Invalid": false
+        "Invalid": false,
+        "DCP": false,
+        "DA": false,
+        "PLD": false,
+        "INI": false,
+        "MUN": true,
+        "HS": true,
+        "CO": false,
+        "LES": false,
+        "INV": false
     },
     "t_NL.IMRO.0798.BPLooscheAkkersII-VG01": {
         "Land allocation/sale": true,
@@ -403,7 +547,16 @@
         "Conservation plan": false,
         "building plan": false,
         "Space for Space": false,
-        "Invalid": false
+        "Invalid": false,
+        "DCP": false,
+        "DA": false,
+        "PLD": true,
+        "INI": false,
+        "MUN": false,
+        "HS": false,
+        "CO": false,
+        "LES": false,
+        "INV": true
     },
     "t_NL.IMRO.0737.03BPIII-vg01": {
         "Land allocation/sale": false,
@@ -439,7 +592,16 @@
         "Conservation plan": false,
         "building plan": false,
         "Space for Space": false,
-        "Invalid": false
+        "Invalid": false,
+        "DCP": false,
+        "DA": false,
+        "PLD": false,
+        "INI": false,
+        "MUN": false,
+        "HS": false,
+        "CO": false,
+        "LES": false,
+        "INV": true
     },
     "t_NL.IMRO.0304.BPOphMackaylaan-1603": {
         "Land allocation/sale": false,
@@ -475,7 +637,16 @@
         "Conservation plan": false,
         "building plan": false,
         "Space for Space": false,
-        "Invalid": false
+        "Invalid": false,
+        "DCP": false,
+        "DA": false,
+        "PLD": false,
+        "INI": true,
+        "MUN": false,
+        "HS": false,
+        "CO": false,
+        "LES": false,
+        "INV": false
     },
     "t_NL.IMRO.0753.bpAarle-VG01": {
         "Land allocation/sale": true,
@@ -493,7 +664,16 @@
         "Conservation plan": false,
         "building plan": false,
         "Space for Space": false,
-        "Invalid": false
+        "Invalid": false,
+        "DCP": false,
+        "DA": true,
+        "PLD": true,
+        "INI": false,
+        "MUN": false,
+        "HS": false,
+        "CO": false,
+        "LES": false,
+        "INV": false
     },
     "t_NL.IMRO.1621.BP0157-VAST": {
         "Land allocation/sale": false,
@@ -511,7 +691,16 @@
         "Conservation plan": false,
         "building plan": false,
         "Space for Space": false,
-        "Invalid": false
+        "Invalid": false,
+        "DCP": false,
+        "DA": false,
+        "PLD": false,
+        "INI": false,
+        "MUN": false,
+        "HS": false,
+        "CO": true,
+        "LES": false,
+        "INV": false
     },
     "t_NL.IMRO.1700.BP202004BPVZMP-vas1": {
         "Land allocation/sale": true,
@@ -529,7 +718,16 @@
         "Conservation plan": false,
         "building plan": false,
         "Space for Space": false,
-        "Invalid": false
+        "Invalid": false,
+        "DCP": false,
+        "DA": false,
+        "PLD": true,
+        "INI": false,
+        "MUN": false,
+        "HS": false,
+        "CO": false,
+        "LES": false,
+        "INV": false
     },
     "t_NL.IMRO.0216.BP2EHERZPARIJSCHZ-VG01": {
         "Land allocation/sale": false,
@@ -565,7 +763,16 @@
         "Conservation plan": false,
         "building plan": false,
         "Space for Space": false,
-        "Invalid": false
+        "Invalid": false,
+        "DCP": false,
+        "DA": true,
+        "PLD": false,
+        "INI": false,
+        "MUN": false,
+        "HS": false,
+        "CO": false,
+        "LES": false,
+        "INV": false
     },
     "t_NL.IMRO.0798.BPJulianastr3739-VG01": {
         "Land allocation/sale": false,
@@ -583,7 +790,16 @@
         "Conservation plan": false,
         "building plan": false,
         "Space for Space": false,
-        "Invalid": false
+        "Invalid": false,
+        "DCP": false,
+        "DA": true,
+        "PLD": false,
+        "INI": false,
+        "MUN": false,
+        "HS": false,
+        "CO": false,
+        "LES": false,
+        "INV": false
     },
     "t_NL.IMRO.0262.PHerzDeCloese2017-BP41": {
         "Land allocation/sale": false,
@@ -637,7 +853,16 @@
         "Conservation plan": false,
         "building plan": false,
         "Space for Space": false,
-        "Invalid": false
+        "Invalid": false,
+        "DCP": false,
+        "DA": true,
+        "PLD": false,
+        "INI": false,
+        "MUN": false,
+        "HS": false,
+        "CO": false,
+        "LES": false,
+        "INV": false
     },
     "t_NL.IMRO.0080.06015BP00-VG01": {
         "Land allocation/sale": false,

@@ -1,11 +1,8 @@
 # %%
 import json
-from rapidfuzz import fuzz
 from tqdm import tqdm
 import logging
-from ollama import chat
-from typing import Literal
-from pydantic import BaseModel
+from tools import promptTools
 
 logging.basicConfig(
     filename="./logs/08.log",
@@ -13,44 +10,6 @@ logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s:%(levelname)s:%(message)s",
 )
-
-
-# The output format
-class Answer(BaseModel):
-    ans: Literal[True, False]
-
-
-def find_topic(s, q, threshold=90) -> bool:
-    # This ignores the sentences that contain examples to prevent bias.
-    if "example" in s:
-        return False
-    for query in q:
-        score = fuzz.partial_ratio(s1=s, s2=query)
-        if score > threshold:
-            return True
-    return False
-
-
-def ask_LLM(entry, prompt):
-    return chat(
-        model="llama3.2:3b-instruct-q5_K_M",
-        messages=[
-            {
-                "role": "user",
-                "content": prompt.format(
-                    context=entry["context"],
-                ),
-            }
-        ],
-        options=dict(
-            temperature=0.0,  # reducing the variability of the answer
-            seed=2025,  # Setting the Seed for prediction and reproducability
-            num_predict=10,  # max number of tokens to predict
-            top_k=10,  # More conservative answer
-            min_p=0.9,  # minimum probability of token to be considered.
-        ),
-        format=Answer.model_json_schema(),
-    )
 
 
 with open("../data/new/translations/translated.json", "r") as f:
@@ -80,7 +39,7 @@ for plan in tqdm(texts):
     selected_ids = [
         i
         for i, s in enumerate(plan.get("en"))
-        if find_topic(
+        if promptTools.find_topic(
             s.lower(),
             ["agreement", "contract"],
             threshold=THRESHOLD,
@@ -96,7 +55,7 @@ for plan in tqdm(texts):
         " ".join([plan.get("en")[x] for x in selected_ids])
         .replace("story", "recovery")
     )
-    answer = ask_LLM(entry, prompt)
+    answer = promptTools.ask_LLM(entry, prompt)
     entry["answer"] = answer["message"]["content"]
     topic_1.append(entry)
 
