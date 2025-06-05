@@ -26,7 +26,7 @@ if "plan_data" not in st.session_state:
             {"IMRO": k, "text": v} for k, v in json.loads(f.read()).items()
         ]
 
-    st.session_state["plan_idx"] = 1372
+    st.session_state["plan_idx"] = 3408
 
 active_plan = st.session_state["plan_data"][st.session_state["plan_idx"]]
 
