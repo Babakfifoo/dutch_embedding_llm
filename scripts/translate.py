@@ -1,5 +1,4 @@
 # %%
-# %%
 import json
 from tqdm import tqdm
 import logging
@@ -28,7 +27,7 @@ logging.basicConfig(
 
 
 # %%
-@lru_cache(maxsize=10000)
+@lru_cache(maxsize=50000)
 def translate_sentence(s):
     return translator(s)[0].get("translation_text")
 
@@ -54,7 +53,7 @@ def extract_sentences(s: str, para):
 
 
 # %%
-with open("../data/new/texts/feasability_section.json", "r", encoding="utf-8") as f:
+with open("../data/plan_documents/extracted.json", "r", encoding="utf-8") as f:
     feas_text = json.loads(f.read())
 problematic = []
 results = {}
@@ -76,7 +75,7 @@ for IMRO, text in tqdm(feas_text.items()):
     result.append(translated)
     counter += 1
     if counter % 100 == 0:
-        with open("../data/new/translations/translated.json", "w") as file:
+        with open("../data/plan_documents/translated.json", "w") as file:
             file.write(json.dumps(result, indent=4))
 
         logging.info(msg=f"{counter} plans translated")
@@ -87,7 +86,7 @@ for item in result:
     entry = {
         "IMRO": item.get("IMRO"),
         "id": item.get("id"),
-        "nl": [s.text for s in item["nl"]],
+        "nl": [s for s in item["nl"]],
         "en": item["en"],
     }
     cleaned_sents.append(entry)

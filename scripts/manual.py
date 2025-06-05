@@ -1,8 +1,6 @@
 # %%
 import streamlit as st
 import json
-import pandas as pd
-from itertools import groupby
 from pathlib import Path
 from tools.dashboard import setup_colors, COLOR_DICT
 
@@ -16,10 +14,20 @@ def colorise(s):
     return s
 
 
+def merge_sentences(paragraph_ids, sentences):
+    merged_paragraphs = {}
+
+    for pid, sentence in zip(paragraph_ids, sentences):
+        if pid in merged_paragraphs:
+            merged_paragraphs[pid] += " " + sentence
+        else:
+            merged_paragraphs[pid] = sentence
+
+    return merged_paragraphs
+
+
 # %%
-manual_answers_file = Path(
-    "./data/new/manual.json"
-)
+manual_answers_file = Path("./data/plan_documents/manual.json")
 
 if manual_answers_file.exists():
     with open(manual_answers_file, "r") as f:
@@ -28,21 +36,41 @@ else:
     st.session_state["manual_answer"] = {}
 
 if "plan_data" not in st.session_state:
-    st.session_state["plan_data"] = pd.read_parquet("./data/new/translations/translations.parquet")
-    st.session_state["plan_idx"] = len(st.session_state["manual_answer"].keys())
+    with open("./data/plan_documents/translated_selected_sents.json", "r") as f:
+        st.session_state["plan_data"] = json.loads(f.read())
+
+    st.session_state["plan_idx"] = 1939  # len(st.session_state["manual_answer"].keys())
 
 
-active_plan = st.session_state["plan_data"].iloc[st.session_state["plan_idx"]]
+active_plan = st.session_state["plan_data"][st.session_state["plan_idx"]]
 
-st.title(
-    body=f"{st.session_state['plan_idx']} / {len(st.session_state['plan_data'])} -> {active_plan.get('IMRO')}"
-)
+if active_plan["IMRO"] not in st.session_state["manual_answer"].keys():
+    st.markdown(
+        f"# {st.session_state['plan_idx']} / {len(st.session_state['plan_data'])} -> {active_plan.get('IMRO')}"
+    )
+elif not any(list(st.session_state["manual_answer"][active_plan["IMRO"]].values())):
+    # if all values are false
+    st.markdown(
+        f"# {st.session_state['plan_idx']} / {len(st.session_state['plan_data'])} -> {active_plan.get('IMRO')}"
+    )
+else:
+    st.markdown(
+        f'# <span class="greenHighlight">{st.session_state["plan_idx"]} / {len(st.session_state["plan_data"])} -> {active_plan.get("IMRO")}</span>',
+        unsafe_allow_html=True,
+    )
+
 Information, Questions = st.columns([2, 1])
 # %%
 with Information:
-    st.markdown("#### Information")
     with st.container(height=700):
-        st.markdown(body=colorise(active_plan.get("en")), unsafe_allow_html=True)
+        information = merge_sentences(
+            paragraph_ids=[x.split(":")[0] for x in active_plan.get("id")],
+            sentences=active_plan.get("en"),
+        )
+        st.markdown(
+            body=colorise("\n\n".join(list(information.values()))),
+            unsafe_allow_html=True,
+        )
 # %%
 
 MANUAL_QUESTIONS = {
@@ -52,11 +80,15 @@ MANUAL_QUESTIONS = {
     "PDP": "Partly DA, and partly PLD",
     "DUO": "Both DA and PLD",
     "INI": "Initiator/private party",
-    "MUN": "Municipality covers the costs",
+    "FEE": "Levies and Fees",
+    "PPP": "Public Private Participation (PPP)",
+    "MUN": "Public Budget",
     "HS": "Housing association",
     "CO": "Conservative Plans",
     "LES": "Land Exploitation Scheme",
-    "INV": "Invalid"
+    "K10": "Less than 10,00€ cost",
+    "SFS": "Space for Space",  # Check this one for all the plans.
+    "INV": "Invalid",
 }
 
 with Questions:
@@ -73,7 +105,9 @@ with Questions:
             else:
                 default_index = False
                 existing_answers[k] = False
-            existing_answers[k] = st.checkbox(label=MANUAL_QUESTIONS[k], value=default_index)
+            existing_answers[k] = st.checkbox(
+                label=MANUAL_QUESTIONS[k], value=default_index
+            )
 
         submit, prev, next_ = st.columns([1, 1, 1])
 
@@ -96,4 +130,3 @@ with Questions:
             if st.button("next"):
                 st.session_state["plan_idx"] += 1
                 st.rerun()
-

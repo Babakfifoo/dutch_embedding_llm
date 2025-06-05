@@ -109,8 +109,10 @@ COLOR_DICT = {
     "damage": "damageHighligh",
     "damages": "damageHighligh",
     "space for space": "budgetHighlight",
+    "space-for-space": "budgetHighlight",
     "Space for Space": "budgetHighlight",
-    " realisation ": "purpleHighlight",
+    "Space-for-Space": "budgetHighlight",
+    "realisation ": "purpleHighlight",
     "Realisation ": "purpleHighlight",
     "promoter": "initHighlight",
     "will": "redHighlight",
@@ -118,5 +120,5 @@ COLOR_DICT = {
     "expence": "redHighlight",
     "foundation": "coopHighlight",
     "association": "coopHighlight",
-    "housing corporation": "coopHighlight"
+    "housing corporation": "coopHighlight",
 }
