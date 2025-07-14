@@ -15,13 +15,16 @@ src/archive/*
 
 *.csv
 *.log
-
 *.xml
 *.feather
 *.gz
 *.log
 *.dta
 *.ftr
+
+## SQLite
+*.db-wal
+*.db-shm
 
 # Office files
 *.vsdx
@@ -215,10 +218,3 @@ Descriptives_files/
 /.quarto/
 
 /_manuscript/
-
-
-
-
-
-
-
