@@ -14,9 +14,23 @@ logging.basicConfig(
 )
 
 
-def remove_span(s):
-    pattern = r'<span\s+id=".+?">.*?</span>'
-    output_string = re.sub(pattern, "", s, flags=re.DOTALL | re.IGNORECASE)
+def remove_span(s:str) -> str:
+    """removing the <span> tag from the text.
+
+    Parameters
+    ----------
+    s : str
+        input string
+
+    Returns
+    -------
+    str
+        string with <span> tags removed.
+    """ 
+    pattern: str = r'<span\s+id=".+?">.*?</span>'
+    output_string: str = re.sub(
+        pattern=pattern, repl="", string=s, flags=re.DOTALL | re.IGNORECASE
+    )
     return output_string
 
 
@@ -38,10 +52,10 @@ def process_and_translate(plan):
 
 
 # %%
-with open("../data/new/texts/feasability_section.json", "r", encoding="utf-8") as f:
-    feas_text = json.loads(f.read())
+with open(file="../data/new/texts/feasability_section.json", mode="r", encoding="utf-8") as f:
+    feas_text: str = json.loads(f.read())
 
-TRANSLATIONS = pd.read_parquet("../data/new/translations/translations.parquet")
+TRANSLATIONS: pd.DataFrame = pd.read_parquet("../data/new/translations/translations.parquet")
 
 # %%
 

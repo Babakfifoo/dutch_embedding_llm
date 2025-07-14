@@ -18,6 +18,9 @@ ECONOMIC_FEAS_STR = [
     "economische",
     "f i n a n c i e e l",
     "e c o n o m i s c h e",
+    "grondexploitatie",
+    "onderzoek",
+    "exploitatie",
 ]
 
 FEAS_STR = ["uitvoerbaarheid", "haalbaarheid", "H a a l b a a r h e i d"]
