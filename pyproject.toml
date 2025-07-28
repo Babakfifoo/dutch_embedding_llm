@@ -1,0 +1,15 @@
+[project]
+name = "dutch-embedding-llm"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=6.30.0",
+    "ollama>=0.5.1",
+    "pandas>=2.3.1",
+    "streamlit>=1.47.0",
+]
+
+[tool.uv]
+cache-dir = "C:/Users/firoozb1/AppData/Roaming/Microsoft/Windows/Network Shortcuts/Aalto Home/.uv_cache"
