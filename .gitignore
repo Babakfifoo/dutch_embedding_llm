@@ -10,7 +10,7 @@ data/html/*
 data/pdf/*
 results/*
 src/archive/*
-
+data/plan_documents/*
 # Data:
 
 *.csv
