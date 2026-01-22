@@ -12,7 +12,7 @@ logging.basicConfig(
 )
 
 # %%
-html_links = pd.read_parquet("../data/plans_to_extract_cv.parquet")
+html_links = pd.read_parquet("<FILE CONTAINING IMRO LINKS>")
 # %%
 
 
