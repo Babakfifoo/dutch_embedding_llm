@@ -3,9 +3,8 @@ import json
 import sqlite3
 import streamlit as st
 from typing import List
-import ollama
+
 from Tools import setup_colors, colorise, INDICATORS, DAS
-from DB00_setup_db import TABLE_LU
 
 SQLITE_DB_PATH = "./data/database.db"
 setup_colors()
@@ -18,10 +17,10 @@ if "imro_list" not in st.session_state:
     with sqlite3.connect(SQLITE_DB_PATH) as conn:
         cursor = conn.cursor()
         cursor.execute(
-            f"select imro from {TABLE_LU} where feasability_text IS NOT NULL ORDER BY imro"
+            f"select imro from landuse where feasability_text IS NOT NULL AND indicators IS NULL ORDER BY imro"
         )
         st.session_state["imro_list"] = [row[0] for row in cursor.fetchall()]
-        st.session_state["imro_idx"] = 5922
+        st.session_state["imro_idx"] = 0
 
 # Extracting the plan information:
 imro: str = st.session_state["imro_list"][st.session_state["imro_idx"]]
@@ -29,7 +28,7 @@ imro: str = st.session_state["imro_list"][st.session_state["imro_idx"]]
 with sqlite3.connect(SQLITE_DB_PATH) as conn:
     cursor = conn.cursor()
     cursor.execute(
-        f"SELECT feasability_text, feasability_en, indicators, land_dev FROM {TABLE_LU} WHERE imro = ?",
+        f"SELECT feasability_text, feasability_en, indicators, land_dev FROM landuse WHERE imro = ?",
         (imro,),
     )
     (feasability_text, feasability_en, indicators, land_dev) = cursor.fetchone()
@@ -82,7 +81,7 @@ with INDlist:
             with sqlite3.connect(SQLITE_DB_PATH) as conn:
                 cursor = conn.cursor()
                 sql_upsert = f"""
-                UPDATE {TABLE_LU}
+                UPDATE landuse
                 SET 
                 indicators = '{json.dumps(indicators)}'
                 WHERE imro = '{imro}';

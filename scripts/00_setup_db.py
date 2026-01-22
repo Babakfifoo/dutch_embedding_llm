@@ -4,13 +4,13 @@ import re
 import pandas as pd
 import json
 from typing import List
-
+from pathlib import Path
 EXPERIMENT = False
 PLAN_DIR_MDS: str = "../data/plan_documents/md"
 SQLITE_DB_PATH: str = "../data/database.db"
 SEED: int = 2025
 TABLE_LU: str = "landuse" if not EXPERIMENT else "sample"
-EXISTING_FEAS_JSON_FP: str = (
+EXISTING_FEAS_JSON_FP: Path = Path(
     "../data/plan_documents/Dashboard_outputs/D02_validated_feasability_section.json"
 )
 
@@ -100,9 +100,8 @@ def generate_sample() -> None:
 
 if __name__ == "__main__":
     create_db()
-    migrate_manual_extractions()
-    if EXPERIMENT:
-        generate_sample()
+    if EXISTING_FEAS_JSON_FP.exists():
+        migrate_manual_extractions()
 
 
 # %%

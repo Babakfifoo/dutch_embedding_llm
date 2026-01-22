@@ -64,8 +64,6 @@ feasability_text = st.session_state["extracted"].get("t_" + imro, "No Text")
 if isinstance(feasability_text, list):
     feasability_text = remove_span("\n\n".join(feasability_text))
 
-# %%
-
 # Layout:
 
 Extracted, plan_text, user_input = st.columns(spec=[3, 3, 2])
@@ -97,7 +95,7 @@ with user_input:
     submit, prev, next_ = st.columns([1, 1, 1])
 
     with submit:
-        if st.button("submit", use_container_width=False):
+        if st.button("submit", use_container_width=True):
             st.session_state["manual_answer"][imro] = plan_info
             with open(
                 "./data/plan_documents/Dashboard_outputs/D03_extraction_for_DB.json",
@@ -128,13 +126,13 @@ with user_input:
             st.rerun()
 
     with prev:
-        if st.button("previous", use_container_width=False):
+        if st.button("previous", use_container_width=True):
             st.session_state["plan_idx"] -= 1
             del plan_info, feasability_text, context
             st.rerun()
 
     with next_:
-        if st.button("next", use_container_width=False):
+        if st.button("next", use_container_width=True):
             st.session_state["plan_idx"] += 1
             del plan_info, feasability_text, context
             st.rerun()

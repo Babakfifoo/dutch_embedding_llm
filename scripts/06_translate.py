@@ -9,8 +9,8 @@ from transformers.pipelines.pt_utils import KeyDataset
 from transformers import pipeline, TranslationPipeline
 import spacy
 from itertools import groupby
-from DB00_setup_db import TABLE_LU, SQLITE_DB_PATH
 
+SQLITE_DB_PATH = "../data/database.db"
 translation_model_name: str = "Helsinki-NLP/opus-mt-nl-en"
 translator: TranslationPipeline = pipeline(
     task="translation",
@@ -35,7 +35,7 @@ logging.basicConfig(
 conn = sqlite3.connect(SQLITE_DB_PATH)
 cursor: sqlite3.Cursor = conn.cursor()
 cursor.execute(
-    f"select imro from {TABLE_LU} where feasability_text IS NOT NULL and feasability_en is NULL ORDER BY imro"
+    f"select imro from landuse where feasability_text IS NOT NULL and feasability_en is NULL ORDER BY imro"
 )
 imro_list: List[str] = [row[0] for row in cursor.fetchall()]
 
@@ -73,10 +73,14 @@ def translate_dataset(dataset) -> List[str]:
 logging.info("Initiating the Extraction")
 for imro in tqdm(imro_list):
     cursor.execute(
-        f"SELECT feasability_text FROM {TABLE_LU} WHERE imro = ? AND feasability_en is NULL",
+        f"SELECT feasability_text FROM landuse WHERE imro = ? AND feasability_en is NULL",
         (imro,),
     )
-    (context,) = cursor.fetchone()
+    result = cursor.fetchone()
+    if result is None:
+        print("no value for ", imro)
+        continue
+    context = result[0]
 
     paragraphs: List[str] = [
         s.strip().replace("Ã«", "ë") for s in context.split("\n") if s.strip() != ""
@@ -102,12 +106,13 @@ for imro in tqdm(imro_list):
         .replace("”", '"')
     )
 
-    sql_upsert: str = f"""
-    UPDATE {TABLE_LU}
-    SET feasability_en = '{translation}'
-    WHERE imro = '{imro}';
+    sql_upsert: str = """
+        UPDATE landuse
+        SET feasability_en = ?
+        WHERE imro = ?;
     """
-    cursor.execute(sql_upsert)
+    cursor.execute(sql_upsert, (translation, imro))
+
     conn.commit()
 
 # %%

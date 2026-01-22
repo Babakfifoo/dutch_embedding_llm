@@ -3,7 +3,7 @@ import pandas as pd
 import requests
 from urllib.parse import urlparse
 import logging
-
+from pathlib import Path
 logging.basicConfig(
     filename="logs/01.log",
     encoding="utf-8",
@@ -12,15 +12,14 @@ logging.basicConfig(
 )
 
 # %%
-html_links = pd.read_parquet("../data/plan_files.parquet")
-html_links = html_links[html_links.verwijzingNaarTekst.str.contains("/t_")].reset_index(
-    drop=True
-)
-
-html_links = set(html_links.verwijzingNaarTekst.to_list())
+html_links = pd.read_parquet("../data/plans_to_extract_cv.parquet")
 # %%
 
-dir_ = "../data/plan_documents/"
+
+html_links = set(html_links.toelichting.to_list())
+# %%
+
+dir_ = Path("../data/plan_documents/")
 for url in html_links:
     try:
         response = requests.get(url)
@@ -28,9 +27,9 @@ for url in html_links:
 
         parsed_url = urlparse(url)
         webpage_name = parsed_url.path.strip("/").split("/")[-1] or "index.html"
-        webpage_name = dir_ + "/" + webpage_name
+        webpage_name = dir_ / webpage_name
 
-        if "pdf" in webpage_name:
+        if webpage_name.suffix == ".pdf":
             with open(file=webpage_name, mode="wb") as file:
                 file.write(response.content)
         else:

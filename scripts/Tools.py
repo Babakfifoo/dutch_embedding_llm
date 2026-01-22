@@ -1,6 +1,5 @@
 import streamlit as st
 from typing import Dict, List
-from ollama import ChatResponse, chat
 from pydantic import BaseModel
 
 LLM_MODEL: str = "gemma3:4b"
@@ -185,26 +184,6 @@ INDICATORS: Dict[str, str] = {
     "DUO": "Both DA and PLD",
     "INV": "Invalid",
 }
-
-
-def ask_LLM(
-    prompt: str,
-    response_format="",
-    model: str = LLM_MODEL,
-) -> ChatResponse:
-    return chat(
-        model=model,
-        messages=[{"role": "user", "content": prompt}],
-        options=dict(
-            temperature=0.0,  # reducing the variability of the answer
-            seed=2025,  # Setting the Seed for prediction and reproducability
-            top_k=10,  # More conservative answer
-            min_p=0.9,  # minimum probability of token to be considered.
-            main_gpu=2,
-            num_thread=4,
-        ),
-        format=response_format,
-    )
 
 
 def bool_cleaner(s: str) -> bool | None:

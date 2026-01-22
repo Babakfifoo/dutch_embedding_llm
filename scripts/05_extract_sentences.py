@@ -37,7 +37,7 @@ def translate_sentence(s):
 
 def translate_para(sentences):
     sentences_to_translate = list(sentences.values())
-    sents = [translate_sentence(s.text) for s in sentences_to_translate]
+    sents = [translate_sentence(s) for s in sentences_to_translate]
     return {"id": list(sentences.keys()), "nl": list(sentences.values()), "en": sents}
 
 

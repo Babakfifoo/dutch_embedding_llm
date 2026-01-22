@@ -54,7 +54,6 @@ with sqlite3.connect("../data/database.db") as conn:
 'MUN': 'Municipality budget',
 'CO': 'Conservative / no development / update plan',
 
-
 """
 
 
@@ -74,9 +73,6 @@ df_indicators["PRI"] = (
     & (df_indicators["AGR"] == 0)
 ).astype(int)
 df_indicators["PPP"] = (df_indicators[["PPP", "CA"]].sum(axis=1) > 0).astype(int)
-df_indicators["RM"] = (
-    df_indicators[["K10", "PB", "MUN", "CO"]].sum(axis=1) > 0
-).astype(int)
 
 df_indicators[["PLD", "AGR", "PRI", "PPP", "DCP", "DUO", "PDP"]].value_counts()
 df_indicators = df_indicators[
